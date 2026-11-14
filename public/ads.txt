@@ -1,0 +1,2 @@
+# Replace REPLACE_WITH_ADSENSE_PUB_ID with your real publisher ID before serving ads on xmarketshare.com.
+google.com, REPLACE_WITH_ADSENSE_PUB_ID, DIRECT, f08c47fec0942fa0

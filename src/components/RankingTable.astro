@@ -1,0 +1,110 @@
+---
+import type { RankingRow } from '../utils/types';
+import AdSlot from './AdSlot.astro';
+
+interface Props {
+  rankings: RankingRow[];
+  maxShare?: number;
+}
+
+const { rankings, maxShare } = Astro.props;
+const peak = maxShare ?? Math.max(...rankings.map((r) => r.sharePercent), 1);
+
+function formatDelta(v: number | null): string | null {
+  if (v === null || v === undefined) return null;
+  const sign = v > 0 ? '+' : '';
+  return `${sign}${v.toFixed(2)} pp`;
+}
+---
+
+<div class="overflow-x-auto rounded-xl border border-ink-200 bg-white/80 shadow-soft">
+  <table class="w-full min-w-[320px] border-collapse text-left text-sm">
+    <caption class="sr-only">Brand market share rankings</caption>
+    <thead>
+      <tr class="border-b border-ink-200 bg-ink-100/60 text-xs uppercase tracking-wide text-ink-500">
+        <th scope="col" class="px-3 py-3 font-semibold sm:px-4">Rank</th>
+        <th scope="col" class="px-3 py-3 font-semibold sm:px-4">Brand</th>
+        <th scope="col" class="px-3 py-3 font-semibold sm:px-4">Share</th>
+        <th scope="col" class="hidden px-3 py-3 font-semibold sm:table-cell sm:px-4">YoY</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rankings.map((row, idx) => (
+          <>
+            <tr
+              class:list={[
+                'border-b border-ink-100 align-middle',
+                row.highlight && 'bg-canopy-500/5',
+              ]}
+            >
+              <td class="px-3 py-3 font-display text-lg font-semibold text-ink-700 sm:px-4">
+                {row.rank}
+              </td>
+              <td class="px-3 py-3 sm:px-4">
+                <div class="font-semibold text-ink-900">{row.brand}</div>
+                <div class="text-xs text-ink-500">{row.parentCompany}</div>
+                <div class="mt-2 h-2 w-full max-w-[14rem] overflow-hidden rounded-full bg-ink-100 sm:hidden">
+                  <div
+                    class="animate-bar h-full origin-left rounded-full bg-canopy-500"
+                    style={`width:${(row.sharePercent / peak) * 100}%`}
+                  />
+                </div>
+              </td>
+              <td class="px-3 py-3 sm:px-4">
+                <div class="font-semibold tabular-nums text-ink-900">
+                  {row.sharePercent.toFixed(2)}%
+                </div>
+                <div class="mt-2 hidden h-2 w-36 overflow-hidden rounded-full bg-ink-100 sm:block">
+                  <div
+                    class="animate-bar h-full origin-left rounded-full bg-canopy-500"
+                    style={`width:${(row.sharePercent / peak) * 100}%`}
+                  />
+                </div>
+                {formatDelta(row.yoyChange) && (
+                  <div
+                    class:list={[
+                      'mt-1 text-xs font-medium sm:hidden',
+                      (row.yoyChange ?? 0) > 0
+                        ? 'text-canopy-600'
+                        : (row.yoyChange ?? 0) < 0
+                          ? 'text-savanna-600'
+                          : 'text-ink-500',
+                    ]}
+                  >
+                    {formatDelta(row.yoyChange)}
+                  </div>
+                )}
+              </td>
+              <td class="hidden px-3 py-3 sm:table-cell sm:px-4">
+                {formatDelta(row.yoyChange) ? (
+                  <span
+                    class:list={[
+                      'inline-flex rounded-md px-2 py-0.5 text-xs font-semibold tabular-nums',
+                      (row.yoyChange ?? 0) > 0
+                        ? 'bg-canopy-500/15 text-canopy-700'
+                        : (row.yoyChange ?? 0) < 0
+                          ? 'bg-savanna-500/15 text-savanna-600'
+                          : 'bg-ink-100 text-ink-600',
+                    ]}
+                  >
+                    {formatDelta(row.yoyChange)}
+                  </span>
+                ) : (
+                  <span class="text-ink-300">n/a</span>
+                )}
+              </td>
+            </tr>
+            {idx === 2 && rankings.length > 3 && (
+              <tr class="border-b border-ink-100">
+                <td colspan="4" class="px-3 py-4 sm:px-4">
+                  <AdSlot format="in-table" />
+                </td>
+              </tr>
+            )}
+          </>
+        ))
+      }
+    </tbody>
+  </table>
+</div>

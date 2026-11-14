@@ -1,0 +1,123 @@
+{
+  "slug": "mexico/mobile-phones",
+  "scope": "country",
+  "market": "Mexico",
+  "marketSlug": "mexico",
+  "marketCode": "MX",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/mexico",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 25.89,
+      "yoyChange": 6.91,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 17.02,
+      "yoyChange": -6.3,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 8.26,
+      "yoyChange": -5.66,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 7.19,
+      "yoyChange": -3.43,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 4.54,
+      "yoyChange": -2.79,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 3.18,
+      "yoyChange": -0.63,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 1.64,
+      "yoyChange": -0.9,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "ZTE",
+      "parentCompany": "ZTE Corporation",
+      "sharePercent": 1.35,
+      "yoyChange": -0.71,
+      "segment": "Budget",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.97,
+      "yoyChange": -0.43,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Google",
+      "parentCompany": "Alphabet Inc.",
+      "sharePercent": 0.64,
+      "yoyChange": -0.82,
+      "segment": "Premium / Pixel",
+      "highlight": false
+    }
+  ],
+  "country": "Mexico",
+  "countryCode": "MX",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Mexico at 25.89% according to Statcounter Global Stats. Samsung ranked second at 17.02%, followed by Motorola at 8.26%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Mexico?",
+      "answer": "Apple leads with 25.89% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/mexico)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Mexico?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Mexico?",
+      "answer": "Apple (25.89%), Samsung (17.02%), Motorola (8.26%) in October 2026."
+    }
+  ]
+}

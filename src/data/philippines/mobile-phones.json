@@ -1,0 +1,123 @@
+{
+  "slug": "philippines/mobile-phones",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/philippines",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 13.65,
+      "yoyChange": 7.48,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 13.07,
+      "yoyChange": -0.74,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 12.18,
+      "yoyChange": 2.38,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 11.53,
+      "yoyChange": 5.19,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 10.84,
+      "yoyChange": 2.07,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 10.35,
+      "yoyChange": -2.43,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Tecno",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 8.35,
+      "yoyChange": 3.99,
+      "segment": "Budget / Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 7.38,
+      "yoyChange": -5.31,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 4.74,
+      "yoyChange": 3.39,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 1.98,
+      "yoyChange": -2.49,
+      "segment": "Mid / Premium",
+      "highlight": false
+    }
+  ],
+  "country": "Philippines",
+  "countryCode": "PH",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Philippines at 13.65% according to Statcounter Global Stats. Oppo ranked second at 13.07%, followed by Samsung at 12.18%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Philippines?",
+      "answer": "Apple leads with 13.65% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/philippines)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Philippines?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Philippines?",
+      "answer": "Apple (13.65%), Oppo (13.07%), Samsung (12.18%) in October 2026."
+    }
+  ]
+}

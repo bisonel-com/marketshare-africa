@@ -1,0 +1,114 @@
+{
+  "slug": "united-states/web-browsers",
+  "scope": "country",
+  "market": "United States",
+  "marketSlug": "united-states",
+  "marketCode": "US",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/united-states",
+  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Google",
+      "sharePercent": 55.98,
+      "yoyChange": -3.3,
+      "segment": "Desktop & Mobile",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Apple",
+      "sharePercent": 28.16,
+      "yoyChange": 3.03,
+      "segment": "iOS & macOS",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Microsoft",
+      "sharePercent": 7.02,
+      "yoyChange": 0.63,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox",
+      "parentCompany": "Mozilla",
+      "sharePercent": 3.62,
+      "yoyChange": -0.04,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Samsung Internet",
+      "parentCompany": "Samsung",
+      "sharePercent": 1.63,
+      "yoyChange": 0.31,
+      "segment": "Android Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Opera Norway / Opera Ltd",
+      "sharePercent": 1.61,
+      "yoyChange": 0.61,
+      "segment": "Mobile & Desktop",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Mozilla",
+      "parentCompany": "Independent",
+      "sharePercent": 0.83,
+      "yoyChange": 0.67,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Brave",
+      "parentCompany": "Brave Software",
+      "sharePercent": 0.52,
+      "yoyChange": -1.67,
+      "segment": "Privacy Browser",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Android",
+      "parentCompany": "Google",
+      "sharePercent": 0.39,
+      "yoyChange": -0.16,
+      "segment": "WebView / System",
+      "highlight": false
+    }
+  ],
+  "country": "United States",
+  "countryCode": "US",
+  "aiSummary": "In October 2026, Chrome led web browsers market share in United States at 55.98% according to Statcounter Global Stats. Safari ranked second at 28.16%, followed by Edge at 7.02%.",
+  "faqs": [
+    {
+      "question": "Which brand leads web browsers market share in United States?",
+      "answer": "Chrome leads with 55.98% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/united-states)."
+    },
+    {
+      "question": "How is web browsers market share measured for United States?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three web browsers brands in United States?",
+      "answer": "Chrome (55.98%), Safari (28.16%), Edge (7.02%) in October 2026."
+    }
+  ]
+}

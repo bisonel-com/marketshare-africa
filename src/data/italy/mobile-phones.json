@@ -1,0 +1,123 @@
+{
+  "slug": "italy/mobile-phones",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/italy",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 37.93,
+      "yoyChange": 4.3,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 27.53,
+      "yoyChange": -1.15,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 11.55,
+      "yoyChange": 0.4,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 4.93,
+      "yoyChange": 0.73,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 4.64,
+      "yoyChange": 0.12,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 2.83,
+      "yoyChange": 0.98,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.79,
+      "yoyChange": -0.74,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Google",
+      "parentCompany": "Alphabet Inc.",
+      "sharePercent": 1.44,
+      "yoyChange": -2.15,
+      "segment": "Premium / Pixel",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 1.14,
+      "yoyChange": -0.95,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.65,
+      "yoyChange": 0.09,
+      "segment": "Mid-Range",
+      "highlight": false
+    }
+  ],
+  "country": "Italy",
+  "countryCode": "IT",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Italy at 37.93% according to Statcounter Global Stats. Samsung ranked second at 27.53%, followed by Xiaomi at 11.55%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Italy?",
+      "answer": "Apple leads with 37.93% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/italy)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Italy?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Italy?",
+      "answer": "Apple (37.93%), Samsung (27.53%), Xiaomi (11.55%) in October 2026."
+    }
+  ]
+}

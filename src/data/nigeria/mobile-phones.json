@@ -1,0 +1,123 @@
+{
+  "slug": "nigeria/mobile-phones",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/nigeria",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Tecno",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 21.31,
+      "yoyChange": 1.58,
+      "segment": "Budget / Mid-Range",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 17.43,
+      "yoyChange": -0.04,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 17.42,
+      "yoyChange": 3.02,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 13.72,
+      "yoyChange": 5.9,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 13.31,
+      "yoyChange": -0.57,
+      "segment": "Premium / Flagship",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Itel",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 5.53,
+      "yoyChange": 0.64,
+      "segment": "Ultra-Budget",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 3.19,
+      "yoyChange": -0.68,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 1.81,
+      "yoyChange": -1.46,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.47,
+      "yoyChange": 0.04,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 0.5,
+      "yoyChange": 0.15,
+      "segment": "Mid-Range",
+      "highlight": false
+    }
+  ],
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "aiSummary": "In October 2026, Tecno led mobile phones market share in Nigeria at 21.31% according to Statcounter Global Stats. Infinix ranked second at 17.43%, followed by Samsung at 17.42%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Nigeria?",
+      "answer": "Tecno leads with 21.31% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/nigeria)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Nigeria?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Nigeria?",
+      "answer": "Tecno (21.31%), Infinix (17.43%), Samsung (17.42%) in October 2026."
+    }
+  ]
+}

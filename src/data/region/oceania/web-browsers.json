@@ -1,0 +1,112 @@
+{
+  "slug": "region/oceania/web-browsers",
+  "scope": "region",
+  "market": "Oceania",
+  "marketSlug": "oceania",
+  "marketCode": "oc",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/oceania",
+  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Google",
+      "sharePercent": 51.58,
+      "yoyChange": -3.47,
+      "segment": "Desktop & Mobile",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Apple",
+      "sharePercent": 30.6,
+      "yoyChange": 2.46,
+      "segment": "iOS & macOS",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Microsoft",
+      "sharePercent": 8.64,
+      "yoyChange": 0.84,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet",
+      "parentCompany": "Samsung",
+      "sharePercent": 3.23,
+      "yoyChange": 0.27,
+      "segment": "Android Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Firefox",
+      "parentCompany": "Mozilla",
+      "sharePercent": 2.92,
+      "yoyChange": 0.2,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Opera Norway / Opera Ltd",
+      "sharePercent": 1.15,
+      "yoyChange": -0.31,
+      "segment": "Mobile & Desktop",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Mozilla",
+      "parentCompany": "Independent",
+      "sharePercent": 0.91,
+      "yoyChange": 0.79,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Brave",
+      "parentCompany": "Brave Software",
+      "sharePercent": 0.61,
+      "yoyChange": -0.64,
+      "segment": "Privacy Browser",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Android",
+      "parentCompany": "Google",
+      "sharePercent": 0.12,
+      "yoyChange": -0.01,
+      "segment": "WebView / System",
+      "highlight": false
+    }
+  ],
+  "aiSummary": "In October 2026, Chrome led web browsers market share in Oceania at 51.58% according to Statcounter Global Stats. Safari ranked second at 30.6%, followed by Edge at 8.64%.",
+  "faqs": [
+    {
+      "question": "Which brand leads web browsers market share in Oceania?",
+      "answer": "Chrome leads with 51.58% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/oceania)."
+    },
+    {
+      "question": "How is web browsers market share measured for Oceania?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three web browsers brands in Oceania?",
+      "answer": "Chrome (51.58%), Safari (30.6%), Edge (8.64%) in October 2026."
+    }
+  ]
+}

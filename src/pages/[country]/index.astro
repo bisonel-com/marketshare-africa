@@ -1,0 +1,19 @@
+---
+import MarketHub from '../../components/MarketHub.astro';
+import { countries } from '../../config/markets';
+import { getDataForMarketPath } from '../../utils/data';
+
+export function getStaticPaths() {
+  return countries.map((c) => ({ params: { country: c.slug } }));
+}
+
+const { country } = Astro.params;
+const meta = countries.find((c) => c.slug === country);
+const datasets = getDataForMarketPath(country!);
+---
+
+<MarketHub
+  marketName={meta?.name ?? country!}
+  datasets={datasets}
+  canonicalPath={`/${country}/`}
+/>

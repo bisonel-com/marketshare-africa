@@ -1,0 +1,15 @@
+---
+import RankingPage from '../../components/RankingPage.astro';
+import { categories } from '../../config/markets';
+import { getMarketDataBySlug } from '../../utils/data';
+
+export function getStaticPaths() {
+  return categories.map((c) => ({ params: { category: c.slug } }));
+}
+
+const { category } = Astro.params;
+const data = getMarketDataBySlug(`worldwide/${category}`);
+if (!data) throw new Error(`Missing data for worldwide/${category}`);
+---
+
+<RankingPage data={data} hubHref="/worldwide/" hubLabel="More Worldwide rankings" />

@@ -1,0 +1,33 @@
+---
+import {
+  ANALYTICS_DOMAIN,
+  ANALYTICS_PROVIDER,
+  analyticsEnabled,
+} from '../config/monetisation';
+import { ANALYTICS_HELPER_INLINE } from '../utils/analytics';
+---
+
+{/* Event helper always present so msaTrack() calls are safe no-ops */}
+<script is:inline set:html={ANALYTICS_HELPER_INLINE} />
+
+{
+  analyticsEnabled() && ANALYTICS_PROVIDER === 'plausible' && (
+    <script
+      is:inline
+      defer
+      data-domain={ANALYTICS_DOMAIN}
+      src="https://plausible.io/js/script.js"
+    />
+  )
+}
+
+{
+  analyticsEnabled() && ANALYTICS_PROVIDER === 'cloudflare' && (
+    <script
+      is:inline
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon={`{"token":"${ANALYTICS_DOMAIN}"}`}
+    />
+  )
+}

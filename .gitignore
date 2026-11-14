@@ -1,0 +1,28 @@
+# build
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# env / OS
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# lighthouse
+.lighthouseci/
+lighthouse-report*
+*.report.html
+*.report.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# scraper internals
+scripts/_scrape_report.json

@@ -1,0 +1,23 @@
+---
+import RankingPage from '../../../components/RankingPage.astro';
+import { categories, regions } from '../../../config/markets';
+import { getMarketDataBySlug } from '../../../utils/data';
+
+export function getStaticPaths() {
+  return regions.flatMap((r) =>
+    categories.map((c) => ({
+      params: { region: r.slug, category: c.slug },
+    }))
+  );
+}
+
+const { region, category } = Astro.params;
+const data = getMarketDataBySlug(`region/${region}/${category}`);
+if (!data) throw new Error(`Missing data for region/${region}/${category}`);
+---
+
+<RankingPage
+  data={data}
+  hubHref={`/region/${region}/`}
+  hubLabel={`More ${data.market} rankings`}
+/>

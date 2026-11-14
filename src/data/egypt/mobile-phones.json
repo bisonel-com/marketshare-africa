@@ -1,0 +1,123 @@
+{
+  "slug": "egypt/mobile-phones",
+  "scope": "country",
+  "market": "Egypt",
+  "marketSlug": "egypt",
+  "marketCode": "EG",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/egypt",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 24.76,
+      "yoyChange": 0.49,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 17.85,
+      "yoyChange": 1.92,
+      "segment": "Premium / Flagship",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 17.6,
+      "yoyChange": -0.37,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 12.9,
+      "yoyChange": 0.11,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 7.43,
+      "yoyChange": -3.37,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 3.95,
+      "yoyChange": 1.3,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 3.59,
+      "yoyChange": 2.12,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 3.19,
+      "yoyChange": 1.13,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 3.16,
+      "yoyChange": -1.42,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 0.41,
+      "yoyChange": 0.08,
+      "segment": "Mid-Range",
+      "highlight": false
+    }
+  ],
+  "country": "Egypt",
+  "countryCode": "EG",
+  "aiSummary": "In October 2026, Samsung led mobile phones market share in Egypt at 24.76% according to Statcounter Global Stats. Apple ranked second at 17.85%, followed by Oppo at 17.6%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Egypt?",
+      "answer": "Samsung leads with 24.76% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/egypt)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Egypt?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Egypt?",
+      "answer": "Samsung (24.76%), Apple (17.85%), Oppo (17.6%) in October 2026."
+    }
+  ]
+}

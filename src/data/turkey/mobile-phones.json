@@ -1,0 +1,123 @@
+{
+  "slug": "turkey/mobile-phones",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/turkey",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 23.11,
+      "yoyChange": -0.88,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 9.37,
+      "yoyChange": -5.17,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 8.85,
+      "yoyChange": -2.95,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.24,
+      "yoyChange": -0.34,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Tecno",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 0.9,
+      "yoyChange": -0.08,
+      "segment": "Budget / Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 0.67,
+      "yoyChange": -1.21,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.55,
+      "yoyChange": -0.49,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.52,
+      "yoyChange": -0.12,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 0.49,
+      "yoyChange": -0.19,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 0.26,
+      "yoyChange": 0.13,
+      "segment": "Mid-Range",
+      "highlight": false
+    }
+  ],
+  "country": "Turkey",
+  "countryCode": "TR",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Turkey at 23.11% according to Statcounter Global Stats. Samsung ranked second at 9.37%, followed by Xiaomi at 8.85%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Turkey?",
+      "answer": "Apple leads with 23.11% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/turkey)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Turkey?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Turkey?",
+      "answer": "Apple (23.11%), Samsung (9.37%), Xiaomi (8.85%) in October 2026."
+    }
+  ]
+}
