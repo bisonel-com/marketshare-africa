@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import LicenceCredit from '../components/LicenceCredit.astro';
 import { SITE_NAME, withBase } from '../config/site';
 ---
 
@@ -47,20 +48,11 @@ import { SITE_NAME, withBase } from '../config/site';
     </ol>
 
     <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Licence & credit</h2>
+    <LicenceCredit class="mt-4" />
     <p class="mt-4 text-ink-700">
-      Source:{' '}
-      <a class="font-semibold text-canopy-700 underline" href="https://gs.statcounter.com/" rel="noopener noreferrer">
-        Statcounter Global Stats
-      </a>
-      . Data is licensed under{' '}
-      <a
-        class="font-semibold text-canopy-700 underline"
-        href="https://creativecommons.org/licenses/by-sa/3.0/"
-        rel="noopener noreferrer"
-      >
-        CC BY-SA 3.0
-      </a>
-      . Please credit Statcounter when you reuse these figures.
+      See the{' '}
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/licence/')}>licence page</a>
+      {' '}for the full attribution wording.
     </p>
 
     <p class="mt-8">

@@ -3,6 +3,14 @@ import '../styles/global.css';
 import Analytics from '../components/Analytics.astro';
 import { adsEnabled, ADSENSE_PUB_ID } from '../config/monetisation';
 import {
+  DERIVED_LICENSE_NAME,
+  DERIVED_LICENSE_URL,
+  SOURCE_HOME_URL,
+  SOURCE_LICENSE_NAME,
+  SOURCE_LICENSE_URL,
+  SOURCE_NAME,
+} from '../config/licence';
+import {
   SITE_DESCRIPTION,
   SITE_NAME,
   SITE_TAGLINE,
@@ -33,6 +41,7 @@ const canonical = canonicalPath.startsWith('http')
   : canonicalUrl(canonicalPath);
 const homeHref = withBase('/');
 const aboutHref = withBase('/about/');
+const licenceHref = withBase('/licence/');
 const proHref = withBase('/pro/');
 const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---
@@ -105,29 +114,38 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
       <div class="mx-auto max-w-5xl space-y-4 px-4 py-10 sm:px-6">
         <p class="font-display text-lg font-semibold text-white">{SITE_NAME}</p>
         <p class="max-w-2xl text-sm leading-relaxed text-ink-300">
-          Market share rankings worldwide and by country, republished from{' '}
+          Data:{' '}
           <a
             class="underline decoration-ink-500 underline-offset-2 hover:text-white"
-            href="https://gs.statcounter.com/"
+            href={SOURCE_HOME_URL}
             rel="noopener noreferrer"
           >
-            Statcounter Global Stats
-          </a>
-          . Data is licensed{' '}
+            {SOURCE_NAME}
+          </a>{' '}
+          ({SOURCE_HOME_URL}), licensed{' '}
           <a
             class="underline decoration-ink-500 underline-offset-2 hover:text-white"
-            href="https://creativecommons.org/licenses/by-sa/3.0/"
+            href={SOURCE_LICENSE_URL}
             rel="noopener noreferrer"
           >
-            CC BY-SA 3.0
-          </a>
-          . Always credit the source on reuse.
+            {SOURCE_LICENSE_NAME}
+          </a>{' '}
+          ({SOURCE_LICENSE_URL}). Derived rankings are shared under{' '}
+          <a
+            class="underline decoration-ink-500 underline-offset-2 hover:text-white"
+            href={DERIVED_LICENSE_URL}
+            rel="noopener noreferrer"
+          >
+            {DERIVED_LICENSE_NAME}
+          </a>{' '}
+          ({DERIVED_LICENSE_URL}), relying on {SOURCE_LICENSE_NAME} section 4(b).
         </p>
         <p class="text-xs text-ink-400">
           Built by Bisonel Ltd. Not affiliated with Statcounter.
         </p>
         <div class="flex flex-wrap gap-4 text-sm">
           <a class="hover:text-white" href={aboutHref}>Methodology</a>
+          <a class="hover:text-white" href={licenceHref}>Licence</a>
           <a class="hover:text-white" href={proHref}>Pro</a>
           <a class="hover:text-white" href={homeHref}>Home</a>
         </div>

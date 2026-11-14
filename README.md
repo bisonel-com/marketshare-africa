@@ -1,6 +1,6 @@
 # Global Market Share
 
-Market share rankings worldwide and by country, sourced from [Statcounter Global Stats](https://gs.statcounter.com/) (CC BY-SA 3.0). Built with Astro. Repo: `bisonel-com/marketshare-africa`.
+Market share rankings worldwide and by country, sourced from [Statcounter Global Stats](https://gs.statcounter.com/). Built with Astro. Repo: `bisonel-com/marketshare-africa`.
 
 Brand name lives in `src/config/site.ts` as `SITE_NAME` (one-line rename later if needed).
 
@@ -82,4 +82,7 @@ SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa'
 
 ## Licence
 
-Ranking figures: **Source: Statcounter Global Stats**, licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Site code © Bisonel Ltd.
+- **Source data:** Statcounter Global Stats (https://gs.statcounter.com), licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- **Derived rankings** on this site are shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), relying on BY-SA 3.0 section 4(b), which permits adaptations under a later version.
+
+See `/licence/` on the site and `src/config/licence.ts`. Site code © Bisonel Ltd. Pro CSV remains off (`PRO_CSV_ENABLED=false`).

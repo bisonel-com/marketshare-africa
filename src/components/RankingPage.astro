@@ -5,6 +5,12 @@ import FilterBar from './FilterBar.astro';
 import ProPaywallModal from './ProPaywallModal.astro';
 import RankingTable from './RankingTable.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import LicenceCredit from './LicenceCredit.astro';
+import {
+  DERIVED_LICENSE_URL,
+  SOURCE_LICENSE_URL,
+  SOURCE_NAME,
+} from '../config/licence';
 import { SITE_NAME, canonicalUrl, siteOrigin, withBase } from '../config/site';
 import type { MarketData } from '../utils/types';
 
@@ -35,8 +41,13 @@ const datasetLd = {
   dateModified: data.lastUpdated,
   spatialCoverage: data.scope === 'worldwide' ? 'Worldwide' : data.market,
   variableMeasured: 'Market share percent',
-  license: 'https://creativecommons.org/licenses/by-sa/3.0/',
-  isBasedOn: data.sourceUrl,
+  license: DERIVED_LICENSE_URL,
+  isBasedOn: {
+    '@type': 'Dataset',
+    name: SOURCE_NAME,
+    url: data.sourceUrl,
+    license: SOURCE_LICENSE_URL,
+  },
   url: canonicalUrl(pagePath),
 };
 
@@ -89,24 +100,10 @@ const faqLd = {
       <RankingTable rankings={data.rankings} />
     </div>
 
-    <section class="mt-8 rounded-xl border border-ink-200 bg-white/70 p-5 text-sm leading-relaxed text-ink-700">
+    <section class="mt-8 rounded-xl border border-ink-200 bg-white/70 p-5">
       <h2 class="font-display text-lg font-semibold text-ink-950">Source & licence</h2>
-      <p class="mt-2">
-        Source:{' '}
-        <a class="font-semibold text-canopy-700 underline" href={data.sourceUrl} rel="noopener noreferrer">
-          Statcounter Global Stats
-        </a>
-        . Data licensed under{' '}
-        <a
-          class="font-semibold text-canopy-700 underline"
-          href="https://creativecommons.org/licenses/by-sa/3.0/"
-          rel="noopener noreferrer"
-        >
-          CC BY-SA 3.0
-        </a>
-        .
-      </p>
-      <p class="mt-2 text-ink-600">{data.methodologyNote}</p>
+      <LicenceCredit sourceUrl={data.sourceUrl} class="mt-2" />
+      <p class="mt-2 text-sm text-ink-600">{data.methodologyNote}</p>
       <p class="mt-2 text-xs text-ink-500">Last updated {data.lastUpdated}.</p>
     </section>
 
