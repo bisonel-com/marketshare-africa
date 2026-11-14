@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "macOS Catalina",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 69.48,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "macOS 19",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "macOS 14.4",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.25,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "macOS 15.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.33,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "macOS 12.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.56,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "macOS 15.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "macOS High Sierra",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "macOS 15.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.99,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "macOS High Sierra",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.97,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "macOS Mojave",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.95,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

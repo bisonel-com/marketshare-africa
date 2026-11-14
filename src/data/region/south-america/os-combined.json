@@ -39,64 +39,50 @@
     {
       "rank": 1,
       "brand": "Windows",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 48.78,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.22,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "iOS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Linux",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "macOS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "OS X",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Chrome OS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

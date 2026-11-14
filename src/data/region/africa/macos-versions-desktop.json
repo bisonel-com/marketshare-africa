@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "macOS Catalina",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 46.99,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "macOS 19",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "macOS 15.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "macOS 12.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "macOS 13.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "macOS 15.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "macOS 15.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.81,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "macOS Catalina",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "macOS High Sierra",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "macOS 11.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.6,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

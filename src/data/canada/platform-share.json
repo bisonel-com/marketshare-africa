@@ -39,28 +39,22 @@
     {
       "rank": 1,
       "brand": "Desktop",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 50.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Mobile",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 46.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Tablet",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.04,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

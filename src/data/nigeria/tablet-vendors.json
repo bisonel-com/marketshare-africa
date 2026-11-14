@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 48.42,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 16.58,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Amazon",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Infinix",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Lenovo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Evercoss",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Tecno",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.67,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

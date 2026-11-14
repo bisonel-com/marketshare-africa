@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "iOS 26.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "iOS 27.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "iOS 18.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.76,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "iOS 26.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "iOS 17.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "iOS 12.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "iOS 16.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.7,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "iOS 26.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "iOS 15.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "iOS 16.3",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.21,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

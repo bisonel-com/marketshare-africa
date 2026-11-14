@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 27.45,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 24.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.98,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Infinix",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Realme",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Lenovo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.88,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.04,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Amazon",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.88,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

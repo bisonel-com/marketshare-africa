@@ -39,28 +39,22 @@
     {
       "rank": 1,
       "brand": "Google",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 97.71,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "YANDEX",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "bing",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

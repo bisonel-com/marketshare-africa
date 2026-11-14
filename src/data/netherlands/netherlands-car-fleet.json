@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Volkswagen",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.04,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Peugeot",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.97,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Toyota",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Ford",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Renault",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opel",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.37,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Mercedes-Benz",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.25,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Bmw",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Kia",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.07,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Volvo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

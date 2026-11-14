@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Docker",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "npm",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.27,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Amazon Web Services (AWS)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 21.59,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Pip",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 20.38,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Kubernetes",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.22,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Microsoft Azure",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 13.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Homebrew",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Vite",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.63,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Google Cloud",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Make",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.55,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

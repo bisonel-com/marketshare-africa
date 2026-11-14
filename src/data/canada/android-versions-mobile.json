@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "16.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 51.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "17.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.69,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "13.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.87,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "15.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "14.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "12.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "11.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "10.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.83,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "9.0 Pie",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.02,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "12.3",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.35,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

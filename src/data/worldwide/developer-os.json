@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Windows",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 31.81,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "MacOS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 21.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Ubuntu",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Windows Subsystem for Linux (WSL)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Linux (non-WSL)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.7,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.63,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "iOS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Debian",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.69,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Red Hat",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Arch",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

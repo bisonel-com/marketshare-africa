@@ -167,10 +167,8 @@ def filter_rankings(entries: list[tuple[str, float]]) -> list[dict[str, Any]]:
             {
                 "rank": i,
                 "brand": brand,
-                "parentCompany": "Independent / Listed",
                 "sharePercent": round(share, 2),
                 "yoyChange": None,
-                "segment": "Consumer Market",
                 "highlight": i == 1,
             }
         )

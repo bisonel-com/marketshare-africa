@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "PostgreSQL",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 29.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "MySQL",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 21.51,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "SQLite",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 19.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Microsoft SQL Server",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 16.0,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Redis",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.87,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "MongoDB",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.74,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "MariaDB",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Elasticsearch",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Oracle",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Dynamodb",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

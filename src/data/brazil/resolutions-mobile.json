@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "414x896",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "384x832",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.87,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "390x844",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.39,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "412x915",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.51,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "393x873",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.9,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "360x800",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.83,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "432x960",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.27,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "384x854",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.35,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "385x854",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "412x892",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

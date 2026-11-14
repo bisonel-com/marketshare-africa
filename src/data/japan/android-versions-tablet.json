@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "9.0 Pie",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 23.43,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "16.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "14.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.59,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "11.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.05,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "13.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "15.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.68,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "12.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "7.0 Nougat",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.97,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "6.0 Marshmallow",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "5.1 Lollipop",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.63,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],
