@@ -1,0 +1,115 @@
+{
+  "slug": "united-states/tablet-vendors",
+  "scope": "country",
+  "market": "United States",
+  "marketSlug": "united-states",
+  "marketCode": "US",
+  "category": "Tablet Vendors",
+  "categorySlug": "tablet-vendors",
+  "family": "Device vendors",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/tablet/united-states",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led tablet vendors in United States at 53.35% (market share of tracked page views / usage). Amazon ranked second at 21.78%, followed by Samsung at 18.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads tablet vendors in United States?",
+      "answer": "Apple leads at 53.35% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/tablet/united-states."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for tablet vendors in United States?",
+      "answer": "Apple (53.35%), Amazon (21.78%), Samsung (18.56%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 53.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Amazon",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 21.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "T-Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Lenovo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Onn",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "TCL",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "United States",
+  "countryCode": "US"
+}

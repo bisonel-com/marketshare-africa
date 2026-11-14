@@ -1,0 +1,131 @@
+{
+  "slug": "region/north-america/resolutions",
+  "scope": "region",
+  "market": "North America",
+  "marketSlug": "north-america",
+  "marketCode": "na",
+  "category": "Screen resolutions",
+  "categorySlug": "resolutions",
+  "family": "Screen resolutions",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/north-america",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1920x1080 led screen resolutions in North America at 14.42% (market share of tracked page views / usage). 414x896 ranked second at 9.27%, followed by 800x600 at 5.43%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions in North America?",
+      "answer": "1920x1080 leads at 14.42% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/north-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions in North America?",
+      "answer": "1920x1080 (14.42%), 414x896 (9.27%), 800x600 (5.43%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "800x600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "393x852",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "402x874",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

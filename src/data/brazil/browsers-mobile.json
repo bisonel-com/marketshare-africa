@@ -1,0 +1,97 @@
+{
+  "slug": "brazil/browsers-mobile",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "Browsers (Mobile)",
+  "categorySlug": "browsers-mobile",
+  "family": "Browsers",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/mobile/brazil",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (mobile) in Brazil at 76.59% (market share of tracked page views / usage). Safari ranked second at 19.63%, followed by Samsung Internet at 2.63%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (mobile) in Brazil?",
+      "answer": "Chrome leads at 76.59% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/mobile/brazil."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (mobile) in Brazil?",
+      "answer": "Chrome (76.59%), Safari (19.63%), Samsung Internet (2.63%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 76.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Brazil",
+  "countryCode": "BR"
+}

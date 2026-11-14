@@ -1,0 +1,131 @@
+{
+  "slug": "region/europe/browser-versions-mobile",
+  "scope": "region",
+  "market": "Europe",
+  "marketSlug": "europe",
+  "marketCode": "eu",
+  "category": "Browser versions (Mobile)",
+  "categorySlug": "browser-versions-mobile",
+  "family": "Browser versions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/mobile/europe",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome for Android led browser versions (mobile) in Europe at 55.07% (market share of tracked page views / usage). Safari iPhone ranked second at 28.89%, followed by Chrome for iPhone at 6.72%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (mobile) in Europe?",
+      "answer": "Chrome for Android leads at 55.07% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/mobile/europe."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (mobile) in Europe?",
+      "answer": "Chrome for Android (55.07%), Safari iPhone (28.89%), Chrome for iPhone (6.72%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome for Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 55.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari iPhone",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Chrome for iPhone",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Opera 102.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Yandex Browser 26.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Firefox 157.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Firefox 158.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Opera 103.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Yandex Browser 26.10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

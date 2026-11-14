@@ -1,0 +1,106 @@
+{
+  "slug": "japan/os-combined",
+  "scope": "country",
+  "market": "Japan",
+  "marketSlug": "japan",
+  "marketCode": "JP",
+  "category": "Operating systems (combined)",
+  "categorySlug": "os-combined",
+  "family": "Operating systems (combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/japan",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Windows led operating systems (combined) in Japan at 36.1% (market share of tracked page views / usage). iOS ranked second at 29.11%, followed by Android at 24.25%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) in Japan?",
+      "answer": "Windows leads at 36.1% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) in Japan?",
+      "answer": "Windows (36.1%), iOS (29.11%), Android (24.25%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 36.1,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 29.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 24.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Japan",
+  "countryCode": "JP"
+}

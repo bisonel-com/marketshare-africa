@@ -1,0 +1,133 @@
+{
+  "slug": "india/resolutions",
+  "scope": "country",
+  "market": "India",
+  "marketSlug": "india",
+  "marketCode": "IN",
+  "category": "Screen resolutions",
+  "categorySlug": "resolutions",
+  "family": "Screen resolutions",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/india",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 360x800 led screen resolutions in India at 13.68% (market share of tracked page views / usage). 393x873 ranked second at 5.81%, followed by 384x832 at 3.72%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions in India?",
+      "answer": "360x800 leads at 13.68% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/india."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions in India?",
+      "answer": "360x800 (13.68%), 393x873 (5.81%), 384x832 (3.72%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "393x873",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "385x854",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "393x876",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "360x804",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "360x802",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.46,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "432x960",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "India",
+  "countryCode": "IN"
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "brazil/resolutions-desktop",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "Screen resolutions (Desktop)",
+  "categorySlug": "resolutions-desktop",
+  "family": "Screen resolutions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/desktop/brazil",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1920x1080 led screen resolutions (desktop) in Brazil at 29.67% (market share of tracked page views / usage). 800x600 ranked second at 13.05%, followed by 1366x768 at 11.14%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (desktop) in Brazil?",
+      "answer": "1920x1080 leads at 29.67% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/desktop/brazil."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (desktop) in Brazil?",
+      "answer": "1920x1080 (29.67%), 800x600 (13.05%), 1366x768 (11.14%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 29.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "800x600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "1280x1200",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "2560x1600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "1280x720",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.53,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "1440x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "1600x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.96,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "2560x1440",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Brazil",
+  "countryCode": "BR"
+}

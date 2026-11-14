@@ -1,0 +1,115 @@
+{
+  "slug": "kenya/browser-versions-combined",
+  "scope": "country",
+  "market": "Kenya",
+  "marketSlug": "kenya",
+  "marketCode": "KE",
+  "category": "Browser versions (combined)",
+  "categorySlug": "browser-versions-combined",
+  "family": "Browser versions (partially combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-partially-combined-market-share/kenya",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; versions partially combined by major lineage.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome (all) led browser versions (combined) in Kenya at 70.44% (market share of tracked page views / usage). Opera 15+ ranked second at 16.05%, followed by Edge 79+ at 5.8%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (combined) in Kenya?",
+      "answer": "Chrome (all) leads at 70.44% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-partially-combined-market-share/kenya."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (combined) in Kenya?",
+      "answer": "Chrome (all) (70.44%), Opera 15+ (16.05%), Edge 79+ (5.8%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome (all)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 70.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Opera 15+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge 79+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox 5+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iPhone 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Brave 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Unknown 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Kenya",
+  "countryCode": "KE"
+}

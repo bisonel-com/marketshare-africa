@@ -6,118 +6,128 @@
   "marketCode": "US",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/united-states",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led mobile phones in United States at 52.0% (market share of tracked page views / usage). Samsung ranked second at 28.92%, followed by Xiaomi at 6.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in United States?",
+      "answer": "Apple leads at 52.0% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/united-states."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in United States?",
+      "answer": "Apple (52.0%), Samsung (28.92%), Xiaomi (6.56%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 52.0,
-      "yoyChange": -6.05,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 28.92,
-      "yoyChange": 6.76,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 6.56,
-      "yoyChange": 4.96,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Motorola",
-      "parentCompany": "Lenovo Group",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.44,
-      "yoyChange": -0.42,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Google",
-      "parentCompany": "Alphabet Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.25,
-      "yoyChange": -1.74,
-      "segment": "Premium / Pixel",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Vivo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.53,
-      "yoyChange": 0.07,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Huawei",
-      "parentCompany": "Huawei Technologies",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.43,
-      "yoyChange": 0.12,
-      "segment": "Mid / Premium",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "OnePlus",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.41,
-      "yoyChange": -0.09,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Infinix",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.4,
-      "yoyChange": 0.21,
-      "segment": "Budget / Gaming",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.4,
-      "yoyChange": 0.08,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "United States",
-  "countryCode": "US",
-  "aiSummary": "In October 2026, Apple led mobile phones market share in United States at 52.0% according to Statcounter Global Stats. Samsung ranked second at 28.92%, followed by Xiaomi at 6.56%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in United States?",
-      "answer": "Apple leads with 52.0% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/united-states)."
-    },
-    {
-      "question": "How is mobile phones market share measured for United States?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in United States?",
-      "answer": "Apple (52.0%), Samsung (28.92%), Xiaomi (6.56%) in October 2026."
-    }
-  ]
+  "countryCode": "US"
 }

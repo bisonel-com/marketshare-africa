@@ -1,0 +1,133 @@
+{
+  "slug": "netherlands/web-browsers",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/netherlands",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Netherlands at 64.86% (market share of tracked page views / usage). Safari ranked second at 17.2%, followed by Edge at 6.12%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Netherlands?",
+      "answer": "Chrome leads at 64.86% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/netherlands."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Netherlands?",
+      "answer": "Chrome (64.86%), Safari (17.2%), Edge (6.12%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 64.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Yandex Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Mozilla",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "UC Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "italy/android-versions-tablet",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/italy",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 16.0 led android versions (tablet) in Italy at 20.19% (market share of tracked page views / usage). 14.0 ranked second at 16.82%, followed by 13.0 at 11.01%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Italy?",
+      "answer": "16.0 leads at 20.19% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Italy?",
+      "answer": "16.0 (20.19%), 14.0 (16.82%), 13.0 (11.01%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.08,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "8.0 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Italy",
+  "countryCode": "IT"
+}

@@ -6,116 +6,126 @@
   "marketCode": "na",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/north-america",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led mobile phones in North America at 51.34% (market share of tracked page views / usage). Samsung ranked second at 27.69%, followed by Xiaomi at 6.19%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in North America?",
+      "answer": "Apple leads at 51.34% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/north-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in North America?",
+      "answer": "Apple (51.34%), Samsung (27.69%), Xiaomi (6.19%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 51.34,
-      "yoyChange": -4.25,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 27.69,
-      "yoyChange": 5.42,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 6.19,
-      "yoyChange": 3.84,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Motorola",
-      "parentCompany": "Lenovo Group",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.58,
-      "yoyChange": -0.7,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Google",
-      "parentCompany": "Alphabet Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.15,
-      "yoyChange": -1.81,
-      "segment": "Premium / Pixel",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Honor",
-      "parentCompany": "Honor Device Co.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.67,
-      "yoyChange": 0.17,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.63,
-      "yoyChange": -0.16,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Vivo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.51,
-      "yoyChange": 0.01,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Huawei",
-      "parentCompany": "Huawei Technologies",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.49,
-      "yoyChange": -0.02,
-      "segment": "Mid / Premium",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "OnePlus",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.39,
-      "yoyChange": -0.09,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
-  "aiSummary": "In October 2026, Apple led mobile phones market share in North America at 51.34% according to Statcounter Global Stats. Samsung ranked second at 27.69%, followed by Xiaomi at 6.19%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in North America?",
-      "answer": "Apple leads with 51.34% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/north-america)."
-    },
-    {
-      "question": "How is mobile phones market share measured for North America?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in North America?",
-      "answer": "Apple (51.34%), Samsung (27.69%), Xiaomi (6.19%) in October 2026."
-    }
-  ]
+  "hasData": true
 }

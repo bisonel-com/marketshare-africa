@@ -1,0 +1,133 @@
+{
+  "slug": "philippines/ios-versions-tablet",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "iOS versions (Tablet)",
+  "categorySlug": "ios-versions-tablet",
+  "family": "iOS versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ios-version-market-share/tablet/philippines",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of iOS traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iOS 26.6 led ios versions (tablet) in Philippines at 41.29% (market share of tracked page views / usage). iOS 18.7 ranked second at 8.29%, followed by iOS 27.0 at 8.27%.",
+  "faqs": [
+    {
+      "question": "Which item leads ios versions (tablet) in Philippines?",
+      "answer": "iOS 26.6 leads at 41.29% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ios-version-market-share/tablet/philippines."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ios versions (tablet) in Philippines?",
+      "answer": "iOS 26.6 (41.29%), iOS 18.7 (8.29%), iOS 27.0 (8.27%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iOS 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 41.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS 18.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "iOS 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iOS 26.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "iOS 12.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS 17.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "iOS 15.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "iOS 10.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "iOS 27",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Philippines",
+  "countryCode": "PH"
+}

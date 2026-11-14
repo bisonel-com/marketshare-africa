@@ -1,0 +1,124 @@
+{
+  "slug": "canada/search-engine-hosts-mobile",
+  "scope": "country",
+  "market": "Canada",
+  "marketSlug": "canada",
+  "marketCode": "CA",
+  "category": "Search engine hosts (Mobile)",
+  "categorySlug": "search-engine-hosts-mobile",
+  "family": "Search engine hosts",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/mobile/canada",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts (mobile) in Canada at 92.6% (market share of tracked page views / usage). Google google.ca ranked second at 1.79%, followed by DuckDuckGo duckduckgo.com at 1.67%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts (mobile) in Canada?",
+      "answer": "Google google.com leads at 92.6% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/mobile/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts (mobile) in Canada?",
+      "answer": "Google google.com (92.6%), Google google.ca (1.79%), DuckDuckGo duckduckgo.com (1.67%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 92.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Google google.ca",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Google news.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.48,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Yahoo! ca.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Ecosia ecosia.org",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Yahoo! search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "YANDEX yandex.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Canada",
+  "countryCode": "CA"
+}

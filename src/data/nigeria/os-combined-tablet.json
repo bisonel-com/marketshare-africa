@@ -1,0 +1,70 @@
+{
+  "slug": "nigeria/os-combined-tablet",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "Operating systems (combined) (Tablet)",
+  "categorySlug": "os-combined-tablet",
+  "family": "Operating systems (combined)",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/tablet/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Android led operating systems (combined) (tablet) in Nigeria at 83.12% (market share of tracked page views / usage). iOS ranked second at 16.59%, followed by Linux at 0.22%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) (tablet) in Nigeria?",
+      "answer": "Android leads at 83.12% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/tablet/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) (tablet) in Nigeria?",
+      "answer": "Android (83.12%), iOS (16.59%), Linux (0.22%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 83.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

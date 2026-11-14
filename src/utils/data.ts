@@ -21,6 +21,11 @@ export function getDataForMarketPath(pathPrefix: string): MarketData[] {
   return getAllMarketData().filter((d) => d.slug.startsWith(`${pathPrefix}/`));
 }
 
+export function getPublishedData(): MarketData[] {
+  // Include insufficient-data stubs so geo pages can show empty state
+  return getAllMarketData();
+}
+
 export function getCategoriesFromData(): { slug: string; name: string }[] {
   const map = new Map<string, { slug: string; name: string }>();
   for (const d of getAllMarketData()) {

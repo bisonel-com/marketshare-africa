@@ -1,0 +1,106 @@
+{
+  "slug": "france/os-combined",
+  "scope": "country",
+  "market": "France",
+  "marketSlug": "france",
+  "marketCode": "FR",
+  "category": "Operating systems (combined)",
+  "categorySlug": "os-combined",
+  "family": "Operating systems (combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/france",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Android led operating systems (combined) in France at 35.17% (market share of tracked page views / usage). Windows ranked second at 35.03%, followed by iOS at 19.68%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) in France?",
+      "answer": "Android leads at 35.17% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/france."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) in France?",
+      "answer": "Android (35.17%), Windows (35.03%), iOS (19.68%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 35.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 35.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "France",
+  "countryCode": "FR"
+}

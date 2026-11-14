@@ -1,0 +1,133 @@
+{
+  "slug": "germany/resolutions-mobile",
+  "scope": "country",
+  "market": "Germany",
+  "marketSlug": "germany",
+  "marketCode": "DE",
+  "category": "Screen resolutions (Mobile)",
+  "categorySlug": "resolutions-mobile",
+  "family": "Screen resolutions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/mobile/germany",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 414x896 led screen resolutions (mobile) in Germany at 14.12% (market share of tracked page views / usage). 384x832 ranked second at 11.84%, followed by 393x873 at 9.63%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (mobile) in Germany?",
+      "answer": "414x896 leads at 14.12% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/mobile/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (mobile) in Germany?",
+      "answer": "414x896 (14.12%), 384x832 (11.84%), 393x873 (9.63%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "393x873",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "384x854",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "412x915",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "385x854",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.53,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "412x892",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Germany",
+  "countryCode": "DE"
+}

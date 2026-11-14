@@ -6,118 +6,128 @@
   "marketCode": "IT",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/italy",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Italy at 66.98% (market share of tracked page views / usage). Safari ranked second at 18.19%, followed by Edge at 5.02%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Italy?",
+      "answer": "Chrome leads at 66.98% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Italy?",
+      "answer": "Chrome (66.98%), Safari (18.19%), Edge (5.02%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 67.02,
-      "yoyChange": -1.62,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 66.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 18.2,
-      "yoyChange": 1.44,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
-      "sharePercent": 4.97,
-      "yoyChange": 0.39,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
-      "sharePercent": 3.94,
-      "yoyChange": -0.23,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.51,
-      "yoyChange": -0.04,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.66,
-      "yoyChange": -0.1,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.59,
-      "yoyChange": 0.51,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.54,
-      "yoyChange": -0.26,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Android",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
-      "yoyChange": 0.03,
-      "segment": "WebView / System",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "UC Browser",
-      "parentCompany": "Alibaba (UCWeb)",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.11,
-      "yoyChange": 0.06,
-      "segment": "Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Italy",
-  "countryCode": "IT",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Italy at 67.02% according to Statcounter Global Stats. Safari ranked second at 18.2%, followed by Edge at 4.97%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Italy?",
-      "answer": "Chrome leads with 67.02% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/italy)."
-    },
-    {
-      "question": "How is web browsers market share measured for Italy?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Italy?",
-      "answer": "Chrome (67.02%), Safari (18.2%), Edge (4.97%) in October 2026."
-    }
-  ]
+  "countryCode": "IT"
 }

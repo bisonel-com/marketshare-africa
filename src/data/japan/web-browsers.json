@@ -6,118 +6,128 @@
   "marketCode": "JP",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/japan",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Japan at 54.34% (market share of tracked page views / usage). Safari ranked second at 23.19%, followed by Edge at 14.63%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Japan?",
+      "answer": "Chrome leads at 54.34% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Japan?",
+      "answer": "Chrome (54.34%), Safari (23.19%), Edge (14.63%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 54.39,
-      "yoyChange": -3.41,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 54.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 23.21,
-      "yoyChange": -0.44,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 14.63,
-      "yoyChange": 3.38,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.5,
-      "yoyChange": 0.17,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.88,
-      "yoyChange": 0.12,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.87,
-      "yoyChange": 0.29,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.77,
-      "yoyChange": -0.32,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.67,
-      "yoyChange": 0.59,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Android",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.3,
-      "yoyChange": -0.03,
-      "segment": "WebView / System",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "360 Safe Browser",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
-      "yoyChange": -0.05,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Japan",
-  "countryCode": "JP",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Japan at 54.39% according to Statcounter Global Stats. Safari ranked second at 23.21%, followed by Edge at 14.63%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Japan?",
-      "answer": "Chrome leads with 54.39% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/japan)."
-    },
-    {
-      "question": "How is web browsers market share measured for Japan?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Japan?",
-      "answer": "Chrome (54.39%), Safari (23.21%), Edge (14.63%) in October 2026."
-    }
-  ]
+  "countryCode": "JP"
 }

@@ -1,0 +1,133 @@
+{
+  "slug": "nigeria/macos-versions-desktop",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "macOS versions (Desktop)",
+  "categorySlug": "macos-versions-desktop",
+  "family": "macOS versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/macos-version-market-share/desktop/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of macOS desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, macOS Catalina led macos versions (desktop) in Nigeria at 46.57% (market share of tracked page views / usage). macOS 19 ranked second at 33.94%, followed by macOS 15.7 at 2.69%.",
+  "faqs": [
+    {
+      "question": "Which item leads macos versions (desktop) in Nigeria?",
+      "answer": "macOS Catalina leads at 46.57% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/macos-version-market-share/desktop/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for macos versions (desktop) in Nigeria?",
+      "answer": "macOS Catalina (46.57%), macOS 19 (33.94%), macOS 15.7 (2.69%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 46.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "macOS 19",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 33.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS 15.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS 13.2",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS 12.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "macOS 13.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.95,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "macOS 15.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "macOS 11.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "macOS 15.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

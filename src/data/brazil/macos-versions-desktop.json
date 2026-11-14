@@ -1,0 +1,133 @@
+{
+  "slug": "brazil/macos-versions-desktop",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "macOS versions (Desktop)",
+  "categorySlug": "macos-versions-desktop",
+  "family": "macOS versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/macos-version-market-share/desktop/brazil",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of macOS desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, macOS Catalina led macos versions (desktop) in Brazil at 43.36% (market share of tracked page views / usage). macOS 19 ranked second at 33.17%, followed by macOS Tahoe at 2.61%.",
+  "faqs": [
+    {
+      "question": "Which item leads macos versions (desktop) in Brazil?",
+      "answer": "macOS Catalina leads at 43.36% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/macos-version-market-share/desktop/brazil."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for macos versions (desktop) in Brazil?",
+      "answer": "macOS Catalina (43.36%), macOS 19 (33.17%), macOS Tahoe (2.61%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 43.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "macOS 19",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 33.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS Tahoe",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.61,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS 15.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS 12.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "macOS High Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "macOS 15.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "macOS Mojave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "macOS 15.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Brazil",
+  "countryCode": "BR"
+}

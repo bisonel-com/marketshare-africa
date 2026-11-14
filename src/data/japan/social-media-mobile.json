@@ -1,0 +1,106 @@
+{
+  "slug": "japan/social-media-mobile",
+  "scope": "country",
+  "market": "Japan",
+  "marketSlug": "japan",
+  "marketCode": "JP",
+  "category": "Social media (Mobile)",
+  "categorySlug": "social-media-mobile",
+  "family": "Social media",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/social-media-stats/mobile/japan",
+  "source": "statcounter",
+  "methodologyNote": "Measured via social media referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Twitter led social media (mobile) in Japan at 58.23% (market share of tracked page views / usage). Instagram ranked second at 20.21%, followed by Facebook at 16.79%.",
+  "faqs": [
+    {
+      "question": "Which item leads social media (mobile) in Japan?",
+      "answer": "Twitter leads at 58.23% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/social-media-stats/mobile/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for social media (mobile) in Japan?",
+      "answer": "Twitter (58.23%), Instagram (20.21%), Facebook (16.79%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Twitter",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 58.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Instagram",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Facebook",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "reddit",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "YouTube",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Pinterest",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.09,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "LinkedIn",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Japan",
+  "countryCode": "JP"
+}

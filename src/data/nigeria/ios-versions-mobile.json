@@ -1,0 +1,133 @@
+{
+  "slug": "nigeria/ios-versions-mobile",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "iOS versions (Mobile)",
+  "categorySlug": "ios-versions-mobile",
+  "family": "iOS versions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ios-version-market-share/mobile/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of iOS traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iOS 26.6 led ios versions (mobile) in Nigeria at 20.34% (market share of tracked page views / usage). iOS 18.7 ranked second at 12.58%, followed by iOS 26.5 at 10.34%.",
+  "faqs": [
+    {
+      "question": "Which item leads ios versions (mobile) in Nigeria?",
+      "answer": "iOS 26.6 leads at 20.34% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ios-version-market-share/mobile/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ios versions (mobile) in Nigeria?",
+      "answer": "iOS 26.6 (20.34%), iOS 18.7 (12.58%), iOS 26.5 (10.34%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iOS 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS 18.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "iOS 15.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iOS 27",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "iOS 16.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS 26.2",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "iOS 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.65,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "iOS 18.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "iOS 26.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

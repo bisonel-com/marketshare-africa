@@ -1,0 +1,131 @@
+{
+  "slug": "region/europe/browser-versions-combined",
+  "scope": "region",
+  "market": "Europe",
+  "marketSlug": "europe",
+  "marketCode": "eu",
+  "category": "Browser versions (combined)",
+  "categorySlug": "browser-versions-combined",
+  "family": "Browser versions (partially combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-partially-combined-market-share/europe",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; versions partially combined by major lineage.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome (all) led browser versions (combined) in Europe at 60.03% (market share of tracked page views / usage). iPhone 0 ranked second at 15.77%, followed by Edge 79+ at 7.05%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (combined) in Europe?",
+      "answer": "Chrome (all) leads at 60.03% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-partially-combined-market-share/europe."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (combined) in Europe?",
+      "answer": "Chrome (all) (60.03%), iPhone 0 (15.77%), Edge 79+ (7.05%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome (all)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 60.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iPhone 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge 79+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox 5+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Opera 15+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Safari 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Yandex Browser 26.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Safari 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.61,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Safari iPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

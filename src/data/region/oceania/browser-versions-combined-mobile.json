@@ -1,0 +1,104 @@
+{
+  "slug": "region/oceania/browser-versions-combined-mobile",
+  "scope": "region",
+  "market": "Oceania",
+  "marketSlug": "oceania",
+  "marketCode": "oc",
+  "category": "Browser versions (combined) (Mobile)",
+  "categorySlug": "browser-versions-combined-mobile",
+  "family": "Browser versions (partially combined)",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-partially-combined-market-share/mobile/oceania",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; versions partially combined by major lineage.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iPhone 0 led browser versions (combined) (mobile) in Oceania at 46.93% (market share of tracked page views / usage). Chrome (all) ranked second at 44.9%, followed by Samsung Internet 30.0 at 5.27%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (combined) (mobile) in Oceania?",
+      "answer": "iPhone 0 leads at 46.93% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-partially-combined-market-share/mobile/oceania."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (combined) (mobile) in Oceania?",
+      "answer": "iPhone 0 (46.93%), Chrome (all) (44.9%), Samsung Internet 30.0 (5.27%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iPhone 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 46.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Chrome (all)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 44.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox 5+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Edge 79+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera 15+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Samsung Internet 29.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

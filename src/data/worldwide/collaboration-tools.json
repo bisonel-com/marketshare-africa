@@ -1,0 +1,131 @@
+{
+  "slug": "worldwide/collaboration-tools",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "Collaboration Tools",
+  "categorySlug": "collaboration-tools",
+  "family": "Developer tools",
+  "device": "survey",
+  "period": "2025",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Stack Overflow Developer Survey 2025",
+  "sourceUrl": "https://survey.stackoverflow.co/2025/",
+  "source": "stackoverflow",
+  "methodologyNote": "Percent of Stack Overflow Developer Survey 2025 respondents who reported using the item (multi-select). Not sales market share.",
+  "metricLabel": "share of surveyed developers",
+  "licenceName": "ODbL 1.0 (data) / DbCL 1.0 (contents)",
+  "licenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "derivedLicenceName": "ODbL 1.0 share-alike",
+  "derivedLicenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "attributionNote": "Derived from Stack Overflow Developer Survey 2025 (ODbL 1.0 / DbCL 1.0). Share-alike applies to the derived database.",
+  "aiSummary": "In 2025, Stack Overflow led collaboration tools in Worldwide at 51.75% (share of surveyed developers). GitHub (public projects, not private repos) ranked second at 41.1%, followed by YouTube at 37.2%.",
+  "faqs": [
+    {
+      "question": "Which item leads collaboration tools in Worldwide?",
+      "answer": "Stack Overflow leads at 51.75% in 2025 (share of surveyed developers). Source: https://survey.stackoverflow.co/2025/."
+    },
+    {
+      "question": "What does the share of surveyed developers metric mean?",
+      "answer": "Figures are share of surveyed developers from the cited source for 2025. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for collaboration tools in Worldwide?",
+      "answer": "Stack Overflow (51.75%), GitHub (public projects, not private repos) (41.1%), YouTube (37.2%) in 2025."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Stack Overflow",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 51.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "GitHub (public projects, not private repos)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 41.1,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "YouTube",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Reddit",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 33.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Stack Exchange",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Discord",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "LinkedIn",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 22.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Medium",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Hacker News",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.53,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

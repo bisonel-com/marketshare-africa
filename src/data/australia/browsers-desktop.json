@@ -1,0 +1,115 @@
+{
+  "slug": "australia/browsers-desktop",
+  "scope": "country",
+  "market": "Australia",
+  "marketSlug": "australia",
+  "marketCode": "AU",
+  "category": "Browsers (Desktop)",
+  "categorySlug": "browsers-desktop",
+  "family": "Browsers",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/desktop/australia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (desktop) in Australia at 57.48% (market share of tracked page views / usage). Edge ranked second at 17.3%, followed by Safari at 14.24%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (desktop) in Australia?",
+      "answer": "Chrome leads at 57.48% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/desktop/australia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (desktop) in Australia?",
+      "answer": "Chrome (57.48%), Edge (17.3%), Safari (14.24%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 57.48,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Mozilla",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.65,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Australia",
+  "countryCode": "AU"
+}

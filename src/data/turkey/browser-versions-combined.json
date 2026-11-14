@@ -1,0 +1,133 @@
+{
+  "slug": "turkey/browser-versions-combined",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Browser versions (combined)",
+  "categorySlug": "browser-versions-combined",
+  "family": "Browser versions (partially combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-partially-combined-market-share/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; versions partially combined by major lineage.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome (all) led browser versions (combined) in Turkey at 78.31% (market share of tracked page views / usage). iPhone 0 ranked second at 12.32%, followed by Opera 15+ at 2.51%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (combined) in Turkey?",
+      "answer": "Chrome (all) leads at 78.31% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-partially-combined-market-share/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (combined) in Turkey?",
+      "answer": "Chrome (all) (78.31%), iPhone 0 (12.32%), Opera 15+ (2.51%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome (all)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 78.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iPhone 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Opera 15+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Edge 79+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Firefox 5+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Yandex Browser 26.8",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Yandex Browser 26.10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Brave 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Safari 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

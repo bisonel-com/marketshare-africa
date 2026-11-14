@@ -1,0 +1,131 @@
+{
+  "slug": "region/oceania/macos-versions-desktop",
+  "scope": "region",
+  "market": "Oceania",
+  "marketSlug": "oceania",
+  "marketCode": "oc",
+  "category": "macOS versions (Desktop)",
+  "categorySlug": "macos-versions-desktop",
+  "family": "macOS versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/macos-version-market-share/desktop/oceania",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of macOS desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, macOS Catalina led macos versions (desktop) in Oceania at 70.71% (market share of tracked page views / usage). macOS 15.7 ranked second at 4.46%, followed by macOS 15.6 at 2.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads macos versions (desktop) in Oceania?",
+      "answer": "macOS Catalina leads at 70.71% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/macos-version-market-share/desktop/oceania."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for macos versions (desktop) in Oceania?",
+      "answer": "macOS Catalina (70.71%), macOS 15.7 (4.46%), macOS 15.6 (2.56%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 70.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "macOS 15.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.46,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS 15.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS 12.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS High Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "macOS 14.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "macOS 15.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "macOS Mojave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "macOS 19",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

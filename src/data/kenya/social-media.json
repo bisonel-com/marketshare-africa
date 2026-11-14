@@ -1,0 +1,115 @@
+{
+  "slug": "kenya/social-media",
+  "scope": "country",
+  "market": "Kenya",
+  "marketSlug": "kenya",
+  "marketCode": "KE",
+  "category": "Social media",
+  "categorySlug": "social-media",
+  "family": "Social media",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/social-media-stats/kenya",
+  "source": "statcounter",
+  "methodologyNote": "Measured via social media referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Facebook led social media in Kenya at 31.44% (market share of tracked page views / usage). Twitter ranked second at 23.56%, followed by YouTube at 22.36%.",
+  "faqs": [
+    {
+      "question": "Which item leads social media in Kenya?",
+      "answer": "Facebook leads at 31.44% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/social-media-stats/kenya."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for social media in Kenya?",
+      "answer": "Facebook (31.44%), Twitter (23.56%), YouTube (22.36%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Facebook",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 31.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Twitter",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "YouTube",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 22.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Instagram",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Pinterest",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "LinkedIn",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "reddit",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Tumblr",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Kenya",
+  "countryCode": "KE"
+}

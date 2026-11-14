@@ -1,0 +1,133 @@
+{
+  "slug": "germany/search-engine-hosts",
+  "scope": "country",
+  "market": "Germany",
+  "marketSlug": "germany",
+  "marketCode": "DE",
+  "category": "Search engine hosts",
+  "categorySlug": "search-engine-hosts",
+  "family": "Search engine hosts",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/germany",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts in Germany at 87.87% (market share of tracked page views / usage). bing bing.com ranked second at 6.39%, followed by Yahoo! de.search.yahoo.com at 1.32%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts in Germany?",
+      "answer": "Google google.com leads at 87.87% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts in Germany?",
+      "answer": "Google google.com (87.87%), bing bing.com (6.39%), Yahoo! de.search.yahoo.com (1.32%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 87.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.39,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Yahoo! de.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Ecosia ecosia.org",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.92,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "YANDEX yandex.ru",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Google google.de",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "YANDEX yandex.com.tr",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "YANDEX yandex.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Yahoo! r.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Germany",
+  "countryCode": "DE"
+}

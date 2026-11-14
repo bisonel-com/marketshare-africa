@@ -6,11 +6,7 @@ import ProPaywallModal from './ProPaywallModal.astro';
 import RankingTable from './RankingTable.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LicenceCredit from './LicenceCredit.astro';
-import {
-  DERIVED_LICENSE_URL,
-  SOURCE_LICENSE_URL,
-  SOURCE_NAME,
-} from '../config/licence';
+import { DERIVED_LICENSE_URL, SOURCE_LICENSE_URL, SOURCE_NAME } from '../config/licence';
 import { SITE_NAME, canonicalUrl, siteOrigin, withBase } from '../config/site';
 import type { MarketData } from '../utils/types';
 
@@ -21,14 +17,21 @@ interface Props {
 }
 
 const { data, hubHref, hubLabel } = Astro.props;
+const hasData = data.hasData !== false && data.rankings.length >= 3;
 const leader = data.rankings[0];
 const n = data.rankings.length;
 const marketLabel = data.market;
-const title = `Top ${n} ${data.category} Brands in ${marketLabel} (${data.period}) | ${SITE_NAME}`;
-const description = `Latest ${data.period} market share rankings for ${data.category} in ${marketLabel}. ${leader.brand} leads at ${leader.sharePercent}%. Source: Statcounter Global Stats.`;
+const metric = data.metricLabel || 'market share';
+const title = hasData
+  ? `Top ${n} ${data.category} in ${marketLabel} (${data.period}) | ${SITE_NAME}`
+  : `${data.category} in ${marketLabel} (${data.period}) | ${SITE_NAME}`;
+const description = hasData
+  ? `Latest ${data.period} rankings for ${data.category} in ${marketLabel}. ${leader.brand} leads at ${leader.sharePercent}% (${metric}). Source: ${data.sourceName}.`
+  : `No ranking published for ${data.category} in ${marketLabel} (${data.period}). Source: ${data.sourceName}.`;
 const pagePath = `/${data.slug}/`;
 const origin = siteOrigin();
 const pathPrefix = data.slug.replace(/\/[^/]+$/, '');
+const isStatcounter = (data.source || 'statcounter') === 'statcounter';
 
 const datasetLd = {
   '@context': 'https://schema.org',
@@ -40,13 +43,13 @@ const datasetLd = {
   citation: data.sourceName,
   dateModified: data.lastUpdated,
   spatialCoverage: data.scope === 'worldwide' ? 'Worldwide' : data.market,
-  variableMeasured: 'Market share percent',
-  license: DERIVED_LICENSE_URL,
+  variableMeasured: metric,
+  license: data.derivedLicenceUrl || data.licenceUrl || DERIVED_LICENSE_URL,
   isBasedOn: {
     '@type': 'Dataset',
-    name: SOURCE_NAME,
+    name: data.sourceName || SOURCE_NAME,
     url: data.sourceUrl,
-    license: SOURCE_LICENSE_URL,
+    license: data.licenceUrl || SOURCE_LICENSE_URL,
   },
   url: canonicalUrl(pagePath),
 };
@@ -73,9 +76,10 @@ const faqLd = {
     <header class="animate-fade-up max-w-3xl">
       <p class="text-xs font-semibold uppercase tracking-[0.16em] text-canopy-700">
         {marketLabel} · {data.period}
+        {data.metricLabel && <span class="text-ink-500"> · {data.metricLabel}</span>}
       </p>
       <h1 class="mt-2 font-display text-3xl font-bold leading-tight text-ink-950 sm:text-4xl">
-        Top {n} {data.category} Brands in {marketLabel}
+        {hasData ? `Top ${n} ${data.category} in ${marketLabel}` : `${data.category} in ${marketLabel}`}
       </h1>
       <p class="mt-4 text-base leading-relaxed text-ink-700">{data.aiSummary}</p>
       <div class="mt-5 flex flex-wrap gap-2">
@@ -97,12 +101,35 @@ const faqLd = {
     </header>
 
     <div class="mt-8">
-      <RankingTable rankings={data.rankings} />
+      {
+        hasData ? (
+          <RankingTable rankings={data.rankings} />
+        ) : (
+          <div class="rounded-xl border border-dashed border-ink-300 bg-white/70 p-8 text-center">
+            <p class="font-display text-xl font-semibold text-ink-900">No data for this market</p>
+            <p class="mt-2 text-sm text-ink-600">
+              Fewer than three brands met the minimum share threshold in the source extract for this
+              period. Figures are never invented.
+            </p>
+          </div>
+        )
+      }
     </div>
 
     <section class="mt-8 rounded-xl border border-ink-200 bg-white/70 p-5">
       <h2 class="font-display text-lg font-semibold text-ink-950">Source & licence</h2>
-      <LicenceCredit sourceUrl={data.sourceUrl} class="mt-2" />
+      <LicenceCredit
+        class="mt-2"
+        statcounterDefault={isStatcounter}
+        sourceName={data.sourceName}
+        sourceUrl={data.sourceUrl}
+        sourceHomeUrl={data.sourceUrl}
+        licenceName={data.licenceName}
+        licenceUrl={data.licenceUrl}
+        derivedLicenceName={data.derivedLicenceName}
+        derivedLicenceUrl={data.derivedLicenceUrl}
+        attributionNote={data.attributionNote}
+      />
       <p class="mt-2 text-sm text-ink-600">{data.methodologyNote}</p>
       <p class="mt-2 text-xs text-ink-500">Last updated {data.lastUpdated}.</p>
     </section>
@@ -124,6 +151,10 @@ const faqLd = {
     <p class="mt-10 text-sm">
       <a class="font-semibold text-canopy-700 underline" href={withBase(hubHref)}>
         {hubLabel}
+      </a>
+      {' · '}
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/categories/')}>
+        All categories
       </a>
     </p>
   </article>

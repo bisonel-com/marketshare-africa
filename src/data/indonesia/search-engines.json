@@ -1,0 +1,88 @@
+{
+  "slug": "indonesia/search-engines",
+  "scope": "country",
+  "market": "Indonesia",
+  "marketSlug": "indonesia",
+  "marketCode": "ID",
+  "category": "Search engines",
+  "categorySlug": "search-engines",
+  "family": "Search engines",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/indonesia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines in Indonesia at 91.43% (market share of tracked page views / usage). bing ranked second at 3.43%, followed by DuckDuckGo at 2.32%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines in Indonesia?",
+      "answer": "Google leads at 91.43% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/indonesia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines in Indonesia?",
+      "answer": "Google (91.43%), bing (3.43%), DuckDuckGo (2.32%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 91.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "DuckDuckGo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Yahoo!",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "YANDEX",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Indonesia",
+  "countryCode": "ID"
+}

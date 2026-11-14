@@ -1,0 +1,133 @@
+{
+  "slug": "philippines/search-engine-hosts",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "Search engine hosts",
+  "categorySlug": "search-engine-hosts",
+  "family": "Search engine hosts",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/philippines",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts in Philippines at 89.57% (market share of tracked page views / usage). bing bing.com ranked second at 6.05%, followed by Yahoo! ph.search.yahoo.com at 1.26%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts in Philippines?",
+      "answer": "Google google.com leads at 89.57% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/philippines."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts in Philippines?",
+      "answer": "Google google.com (89.57%), bing bing.com (6.05%), Yahoo! ph.search.yahoo.com (1.26%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 89.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Yahoo! ph.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Yahoo! search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Google google.com.ph",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Google scholar.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Yahoo! ph.images.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Ecosia ecosia.org",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Yahoo! images.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Philippines",
+  "countryCode": "PH"
+}

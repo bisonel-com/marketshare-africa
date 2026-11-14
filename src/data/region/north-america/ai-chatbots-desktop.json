@@ -1,0 +1,95 @@
+{
+  "slug": "region/north-america/ai-chatbots-desktop",
+  "scope": "region",
+  "market": "North America",
+  "marketSlug": "north-america",
+  "marketCode": "na",
+  "category": "AI chatbots (Desktop)",
+  "categorySlug": "ai-chatbots-desktop",
+  "family": "AI chatbots",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ai-chatbot-market-share/desktop/north-america",
+  "source": "statcounter",
+  "methodologyNote": "Measured via AI chatbot referrals or usage signals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google Gemini led ai chatbots (desktop) in North America at 41.9% (market share of tracked page views / usage). ChatGPT ranked second at 30.95%, followed by Microsoft Copilot at 10.92%.",
+  "faqs": [
+    {
+      "question": "Which item leads ai chatbots (desktop) in North America?",
+      "answer": "Google Gemini leads at 41.9% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ai-chatbot-market-share/desktop/north-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ai chatbots (desktop) in North America?",
+      "answer": "Google Gemini (41.9%), ChatGPT (30.95%), Microsoft Copilot (10.92%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google Gemini",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 41.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "ChatGPT",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 30.95,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Microsoft Copilot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.92,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Perplexity",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Claude",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Deepseek",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

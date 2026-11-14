@@ -1,0 +1,133 @@
+{
+  "slug": "spain/android-versions-tablet",
+  "scope": "country",
+  "market": "Spain",
+  "marketSlug": "spain",
+  "marketCode": "ES",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/spain",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 14.0 led android versions (tablet) in Spain at 18.57% (market share of tracked page views / usage). 16.0 ranked second at 16.14%, followed by 11.0 at 10.08%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Spain?",
+      "answer": "14.0 leads at 18.57% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/spain."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Spain?",
+      "answer": "14.0 (18.57%), 16.0 (16.14%), 11.0 (10.08%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.08,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.95,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "8.0 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "7.1 Nougat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Spain",
+  "countryCode": "ES"
+}

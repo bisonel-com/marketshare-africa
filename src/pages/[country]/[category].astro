@@ -1,14 +1,13 @@
 ---
 import RankingPage from '../../components/RankingPage.astro';
-import { categories, countries } from '../../config/markets';
-import { getMarketDataBySlug } from '../../utils/data';
+import { getAllMarketData, getMarketDataBySlug } from '../../utils/data';
 
 export function getStaticPaths() {
-  return countries.flatMap((c) =>
-    categories.map((cat) => ({
-      params: { country: c.slug, category: cat.slug },
-    }))
-  );
+  return getAllMarketData()
+    .filter((d) => d.scope === 'country')
+    .map((d) => ({
+      params: { country: d.marketSlug, category: d.categorySlug },
+    }));
 }
 
 const { country, category } = Astro.params;

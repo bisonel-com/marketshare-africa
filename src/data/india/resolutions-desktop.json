@@ -1,0 +1,133 @@
+{
+  "slug": "india/resolutions-desktop",
+  "scope": "country",
+  "market": "India",
+  "marketSlug": "india",
+  "marketCode": "IN",
+  "category": "Screen resolutions (Desktop)",
+  "categorySlug": "resolutions-desktop",
+  "family": "Screen resolutions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/desktop/india",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1366x768 led screen resolutions (desktop) in India at 16.74% (market share of tracked page views / usage). 1920x1080 ranked second at 16.55%, followed by 1536x864 at 15.25%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (desktop) in India?",
+      "answer": "1366x768 leads at 16.74% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/desktop/india."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (desktop) in India?",
+      "answer": "1366x768 (16.74%), 1920x1080 (16.55%), 1536x864 (15.25%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "1280x720",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "800x600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "1600x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "1280x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "1440x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "2560x1600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "India",
+  "countryCode": "IN"
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "region/asia/search-engine-hosts",
+  "scope": "region",
+  "market": "Asia",
+  "marketSlug": "asia",
+  "marketCode": "as",
+  "category": "Search engine hosts",
+  "categorySlug": "search-engine-hosts",
+  "family": "Search engine hosts",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/asia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts in Asia at 92.16% (market share of tracked page views / usage). bing bing.com ranked second at 2.07%, followed by Baidu m.baidu.com at 0.72%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts in Asia?",
+      "answer": "Google google.com leads at 92.16% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/asia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts in Asia?",
+      "answer": "Google google.com (92.16%), bing bing.com (2.07%), Baidu m.baidu.com (0.72%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 92.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Baidu m.baidu.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "YANDEX yandex.com.tr",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "bing cn.bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "CocCoc coccoc.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Naver m.search.naver.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Google scholar.google.co.id",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Google scholar.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

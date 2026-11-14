@@ -1,0 +1,133 @@
+{
+  "slug": "australia/android-versions-tablet",
+  "scope": "country",
+  "market": "Australia",
+  "marketSlug": "australia",
+  "marketCode": "AU",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/australia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 16.0 led android versions (tablet) in Australia at 30.82% (market share of tracked page views / usage). 14.0 ranked second at 23.85%, followed by 13.0 at 8.45%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Australia?",
+      "answer": "16.0 leads at 30.82% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/australia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Australia?",
+      "answer": "16.0 (30.82%), 14.0 (23.85%), 13.0 (8.45%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 30.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "7.1 Nougat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Australia",
+  "countryCode": "AU"
+}

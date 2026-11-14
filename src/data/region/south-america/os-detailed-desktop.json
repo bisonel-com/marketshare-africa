@@ -1,0 +1,95 @@
+{
+  "slug": "region/south-america/os-detailed-desktop",
+  "scope": "region",
+  "market": "South America",
+  "marketSlug": "south-america",
+  "marketCode": "sa",
+  "category": "Operating systems (detailed) (Desktop)",
+  "categorySlug": "os-detailed-desktop",
+  "family": "Operating systems",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-version-market-share/desktop/south-america",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with detailed OS versions (e.g. Windows 10/11 split).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Win11 led operating systems (detailed) (desktop) in South America at 67.42% (market share of tracked page views / usage). Win10 ranked second at 19.67%, followed by Linux at 5.64%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (detailed) (desktop) in South America?",
+      "answer": "Win11 leads at 67.42% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-version-market-share/desktop/south-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (detailed) (desktop) in South America?",
+      "answer": "Win11 (67.42%), Win10 (19.67%), Linux (5.64%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Win11",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 67.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Win10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

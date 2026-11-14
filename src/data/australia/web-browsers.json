@@ -6,109 +6,119 @@
   "marketCode": "AU",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/australia",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Australia at 50.38% (market share of tracked page views / usage). Safari ranked second at 31.74%, followed by Edge at 8.74%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Australia?",
+      "answer": "Chrome leads at 50.38% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/australia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Australia?",
+      "answer": "Chrome (50.38%), Safari (31.74%), Edge (8.74%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 50.42,
-      "yoyChange": -4.1,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 50.38,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 31.76,
-      "yoyChange": 2.74,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 31.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
-      "sharePercent": 8.68,
-      "yoyChange": 0.88,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.22,
-      "yoyChange": 0.39,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.85,
-      "yoyChange": 0.18,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.11,
-      "yoyChange": -0.36,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.03,
-      "yoyChange": 0.92,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.58,
-      "yoyChange": -0.52,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Android",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.12,
-      "yoyChange": 0.01,
-      "segment": "WebView / System",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Australia",
-  "countryCode": "AU",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Australia at 50.42% according to Statcounter Global Stats. Safari ranked second at 31.76%, followed by Edge at 8.68%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Australia?",
-      "answer": "Chrome leads with 50.42% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/australia)."
-    },
-    {
-      "question": "How is web browsers market share measured for Australia?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Australia?",
-      "answer": "Chrome (50.42%), Safari (31.76%), Edge (8.68%) in October 2026."
-    }
-  ]
+  "countryCode": "AU"
 }

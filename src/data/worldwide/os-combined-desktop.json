@@ -1,0 +1,86 @@
+{
+  "slug": "worldwide/os-combined-desktop",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "Operating systems (combined) (Desktop)",
+  "categorySlug": "os-combined-desktop",
+  "family": "Operating systems (combined)",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/desktop",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Windows led operating systems (combined) (desktop) in Worldwide at 76.62% (market share of tracked page views / usage). OS X ranked second at 9.91%, followed by macOS at 5.8%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) (desktop) in Worldwide?",
+      "answer": "Windows leads at 76.62% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/desktop."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) (desktop) in Worldwide?",
+      "answer": "Windows (76.62%), OS X (9.91%), macOS (5.8%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 76.62,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

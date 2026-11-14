@@ -1,0 +1,38 @@
+{
+  "slug": "south-africa/windows-versions-desktop",
+  "scope": "country",
+  "market": "South Africa",
+  "marketSlug": "south-africa",
+  "marketCode": "ZA",
+  "category": "Windows versions (Desktop)",
+  "categorySlug": "windows-versions-desktop",
+  "family": "Windows versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/windows-version-market-share/desktop/south-africa",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Windows desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "No ranking is published for Windows versions (Desktop) in South Africa for October 2026: fewer than 3 brands met the minimum share threshold in the source data.",
+  "faqs": [
+    {
+      "question": "Why is there no ranking for Windows versions (Desktop) in South Africa?",
+      "answer": "The source returned fewer than 3 brands above 0.1% after filters. Global Market Share does not invent figures."
+    },
+    {
+      "question": "Where does the data come from?",
+      "answer": "Source page: https://gs.statcounter.com/windows-version-market-share/desktop/south-africa."
+    }
+  ],
+  "rankings": [],
+  "hasData": false,
+  "country": "South Africa",
+  "countryCode": "ZA"
+}

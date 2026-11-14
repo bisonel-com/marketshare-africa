@@ -6,73 +6,97 @@
   "marketCode": "ZA",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/south-africa",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Samsung led mobile phones in South Africa at 50.16% (market share of tracked page views / usage). Apple ranked second at 18.19%, followed by Honor at 9.26%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in South Africa?",
+      "answer": "Samsung leads at 50.16% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/south-africa."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in South Africa?",
+      "answer": "Samsung (50.16%), Apple (18.19%), Honor (9.26%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 50.16,
-      "yoyChange": -1.27,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 18.19,
-      "yoyChange": 0.26,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Honor",
-      "parentCompany": "Honor Device Co.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 9.26,
-      "yoyChange": 4.56,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Huawei",
-      "parentCompany": "Huawei Technologies",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 7.59,
-      "yoyChange": -2.14,
-      "segment": "Mid / Premium",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.92,
-      "yoyChange": 0.04,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.91,
-      "yoyChange": -0.14,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Vivo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.66,
-      "yoyChange": -0.19,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
@@ -80,44 +104,30 @@
       "brand": "Hisense",
       "parentCompany": "Independent / Listed",
       "sharePercent": 1.07,
-      "yoyChange": 0.6,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Tecno",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.65,
-      "yoyChange": -0.34,
-      "segment": "Budget / Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Itel",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.49,
-      "yoyChange": -0.2,
-      "segment": "Ultra-Budget",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "South Africa",
-  "countryCode": "ZA",
-  "aiSummary": "In October 2026, Samsung led mobile phones market share in South Africa at 50.16% according to Statcounter Global Stats. Apple ranked second at 18.19%, followed by Honor at 9.26%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in South Africa?",
-      "answer": "Samsung leads with 50.16% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/south-africa)."
-    },
-    {
-      "question": "How is mobile phones market share measured for South Africa?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in South Africa?",
-      "answer": "Samsung (50.16%), Apple (18.19%), Honor (9.26%) in October 2026."
-    }
-  ]
+  "countryCode": "ZA"
 }

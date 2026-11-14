@@ -1,0 +1,88 @@
+{
+  "slug": "netherlands/os-combined-desktop",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Operating systems (combined) (Desktop)",
+  "categorySlug": "os-combined-desktop",
+  "family": "Operating systems (combined)",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/desktop/netherlands",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Windows led operating systems (combined) (desktop) in Netherlands at 68.63% (market share of tracked page views / usage). OS X ranked second at 11.91%, followed by Linux at 9.67%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) (desktop) in Netherlands?",
+      "answer": "Windows leads at 68.63% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/desktop/netherlands."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) (desktop) in Netherlands?",
+      "answer": "Windows (68.63%), OS X (11.91%), Linux (9.67%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 68.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

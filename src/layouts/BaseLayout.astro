@@ -41,6 +41,7 @@ const canonical = canonicalPath.startsWith('http')
   : canonicalUrl(canonicalPath);
 const homeHref = withBase('/');
 const aboutHref = withBase('/about/');
+const categoriesHref = withBase('/categories/');
 const licenceHref = withBase('/licence/');
 const proHref = withBase('/pro/');
 const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
@@ -100,6 +101,7 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
           </span>
         </a>
         <nav class="flex items-center gap-3 text-sm font-medium text-ink-700" aria-label="Primary">
+          <a class="hover:text-canopy-700" href={categoriesHref}>Categories</a>
           <a class="hover:text-canopy-700" href={aboutHref}>About</a>
           <a class="hover:text-canopy-700" href={proHref}>Pro</a>
         </nav>
@@ -144,6 +146,7 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
           Not affiliated with Statcounter.
         </p>
         <div class="flex flex-wrap gap-4 text-sm">
+          <a class="hover:text-white" href={categoriesHref}>Categories</a>
           <a class="hover:text-white" href={aboutHref}>Methodology</a>
           <a class="hover:text-white" href={licenceHref}>Licence</a>
           <a class="hover:text-white" href={proHref}>Pro</a>

@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categoryFamilies } from '../../config/markets';
+import { SITE_NAME, withBase } from '../../config/site';
+import { getAllMarketData } from '../../utils/data';
+
+const families = categoryFamilies();
+const published = new Set(getAllMarketData().map((d) => d.categorySlug));
+const count = families.reduce((n, f) => n + f.items.length, 0);
+---
+
+<BaseLayout
+  title={`Categories | ${SITE_NAME}`}
+  description={`${count} ranking categories worldwide and by country, from Statcounter and other free sources.`}
+  canonicalPath="/categories/"
+>
+  <section class="mx-auto max-w-5xl px-4 py-12 sm:px-6">
+    <h1 class="font-display text-3xl font-bold text-ink-950 sm:text-4xl">Categories</h1>
+    <p class="mt-3 max-w-2xl text-ink-600">
+      {count} categories grouped by family. Full-geo Statcounter series cover Worldwide, six regions,
+      and 21 countries. Survey and vehicle series appear only for their stated geos.
+    </p>
+
+    <div class="mt-10 space-y-12">
+      {
+        families.map((fam) => {
+          const devices = [...new Set(fam.items.map((i) => i.deviceLabel))];
+          return (
+            <div>
+              <div class="flex flex-wrap items-end justify-between gap-3">
+                <h2 class="font-display text-2xl font-semibold text-ink-950">{fam.family}</h2>
+                <div class="flex flex-wrap gap-2">
+                  {devices.map((d) => (
+                    <span class="rounded-md border border-ink-200 bg-white px-2 py-1 text-xs font-medium text-ink-600">
+                      {d}
+                    </span>
+                  ))}
+                </div>
+              </div>
+              <p class="mt-2 text-sm text-ink-500">
+                Coverage:{' '}
+                {fam.items[0].geoCoverage === 'full'
+                  ? 'Worldwide, regions, and countries'
+                  : fam.items[0].geoCoverage === 'worldwide-only'
+                    ? 'Worldwide only'
+                    : `Single country (${fam.items[0].geoSlug})`}
+                {' · '}
+                Source: {fam.items[0].sourceName}
+              </p>
+              <ul class="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+                {fam.items.map((c) => {
+                  const href =
+                    c.geoCoverage === 'single-country'
+                      ? withBase(`/${c.geoSlug}/${c.slug}/`)
+                      : withBase(`/worldwide/${c.slug}/`);
+                  const ready = published.has(c.slug);
+                  return (
+                    <li>
+                      <a
+                        href={ready ? href : withBase('/categories/')}
+                        class:list={[
+                          'block rounded-lg border px-3 py-3 text-sm',
+                          ready
+                            ? 'border-ink-200 bg-white text-ink-800 hover:border-canopy-500/50'
+                            : 'border-dashed border-ink-200 text-ink-400',
+                        ]}
+                      >
+                        <span class="font-semibold">{c.name}</span>
+                        <span class="mt-1 block text-xs text-ink-500">{c.deviceLabel}</span>
+                      </a>
+                    </li>
+                  );
+                })}
+              </ul>
+            </div>
+          );
+        })
+      }
+    </div>
+  </section>
+</BaseLayout>

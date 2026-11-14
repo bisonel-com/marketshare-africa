@@ -1,0 +1,131 @@
+{
+  "slug": "region/africa/android-versions-tablet",
+  "scope": "region",
+  "market": "Africa",
+  "marketSlug": "africa",
+  "marketCode": "af",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/africa",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 12.0 led android versions (tablet) in Africa at 21.85% (market share of tracked page views / usage). 16.0 ranked second at 21.4%, followed by 14.0 at 13.78%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Africa?",
+      "answer": "12.0 leads at 21.85% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/africa."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Africa?",
+      "answer": "12.0 (21.85%), 16.0 (21.4%), 14.0 (13.78%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 21.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 21.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.09,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "4.4 KitKat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "worldwide/developer-os",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "Developer Operating Systems",
+  "categorySlug": "developer-os",
+  "family": "Developer tools",
+  "device": "survey",
+  "period": "2025",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Stack Overflow Developer Survey 2025",
+  "sourceUrl": "https://survey.stackoverflow.co/2025/",
+  "source": "stackoverflow",
+  "methodologyNote": "Percent of Stack Overflow Developer Survey 2025 respondents who reported using the item (multi-select). Not sales market share.",
+  "metricLabel": "share of surveyed developers",
+  "licenceName": "ODbL 1.0 (data) / DbCL 1.0 (contents)",
+  "licenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "derivedLicenceName": "ODbL 1.0 share-alike",
+  "derivedLicenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "attributionNote": "Derived from Stack Overflow Developer Survey 2025 (ODbL 1.0 / DbCL 1.0). Share-alike applies to the derived database.",
+  "aiSummary": "In 2025, Windows led developer operating systems in Worldwide at 31.81% (share of surveyed developers). MacOS ranked second at 21.11%, followed by Ubuntu at 17.8%.",
+  "faqs": [
+    {
+      "question": "Which item leads developer operating systems in Worldwide?",
+      "answer": "Windows leads at 31.81% in 2025 (share of surveyed developers). Source: https://survey.stackoverflow.co/2025/."
+    },
+    {
+      "question": "What does the share of surveyed developers metric mean?",
+      "answer": "Figures are share of surveyed developers from the cited source for 2025. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for developer operating systems in Worldwide?",
+      "answer": "Windows (31.81%), MacOS (21.11%), Ubuntu (17.8%) in 2025."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 31.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "MacOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 21.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Ubuntu",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Windows Subsystem for Linux (WSL)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Linux (non-WSL)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Debian",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Red Hat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Arch",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.96,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

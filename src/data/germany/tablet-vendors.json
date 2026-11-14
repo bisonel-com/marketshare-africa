@@ -1,0 +1,115 @@
+{
+  "slug": "germany/tablet-vendors",
+  "scope": "country",
+  "market": "Germany",
+  "marketSlug": "germany",
+  "marketCode": "DE",
+  "category": "Tablet Vendors",
+  "categorySlug": "tablet-vendors",
+  "family": "Device vendors",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/tablet/germany",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Samsung led tablet vendors in Germany at 44.06% (market share of tracked page views / usage). Apple ranked second at 36.49%, followed by Amazon at 5.26%.",
+  "faqs": [
+    {
+      "question": "Which item leads tablet vendors in Germany?",
+      "answer": "Samsung leads at 44.06% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/tablet/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for tablet vendors in Germany?",
+      "answer": "Samsung (44.06%), Apple (36.49%), Amazon (5.26%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 44.06,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 36.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Amazon",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Lenovo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Huawei",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Honor",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Medion",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Germany",
+  "countryCode": "DE"
+}

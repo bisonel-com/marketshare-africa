@@ -1,0 +1,70 @@
+{
+  "slug": "france/platform-share",
+  "scope": "country",
+  "market": "France",
+  "marketSlug": "france",
+  "marketCode": "FR",
+  "category": "Platform share",
+  "categorySlug": "platform-share",
+  "family": "Platform share",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/platform-market-share/france",
+  "source": "statcounter",
+  "methodologyNote": "Share of page views by platform (Desktop, Mobile, Tablet, Console).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Mobile led platform share in France at 52.08% (market share of tracked page views / usage). Desktop ranked second at 45.5%, followed by Tablet at 2.37%.",
+  "faqs": [
+    {
+      "question": "Which item leads platform share in France?",
+      "answer": "Mobile leads at 52.08% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/platform-market-share/france."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for platform share in France?",
+      "answer": "Mobile (52.08%), Desktop (45.5%), Tablet (2.37%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 52.08,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Desktop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 45.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Tablet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "France",
+  "countryCode": "FR"
+}

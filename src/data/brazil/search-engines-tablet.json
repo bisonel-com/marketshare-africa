@@ -1,0 +1,79 @@
+{
+  "slug": "brazil/search-engines-tablet",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "Search engines (Tablet)",
+  "categorySlug": "search-engines-tablet",
+  "family": "Search engines",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/tablet/brazil",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines (tablet) in Brazil at 98.01% (market share of tracked page views / usage). bing ranked second at 1.58%, followed by YANDEX at 0.18%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines (tablet) in Brazil?",
+      "answer": "Google leads at 98.01% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/tablet/brazil."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines (tablet) in Brazil?",
+      "answer": "Google (98.01%), bing (1.58%), YANDEX (0.18%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 98.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "YANDEX",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.18,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "DuckDuckGo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Brazil",
+  "countryCode": "BR"
+}

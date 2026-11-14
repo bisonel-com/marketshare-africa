@@ -1,0 +1,131 @@
+{
+  "slug": "worldwide/cloud-platforms",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "Cloud Platforms",
+  "categorySlug": "cloud-platforms",
+  "family": "Developer tools",
+  "device": "survey",
+  "period": "2025",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Stack Overflow Developer Survey 2025",
+  "sourceUrl": "https://survey.stackoverflow.co/2025/",
+  "source": "stackoverflow",
+  "methodologyNote": "Percent of Stack Overflow Developer Survey 2025 respondents who reported using the item (multi-select). Not sales market share.",
+  "metricLabel": "share of surveyed developers",
+  "licenceName": "ODbL 1.0 (data) / DbCL 1.0 (contents)",
+  "licenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "derivedLicenceName": "ODbL 1.0 share-alike",
+  "derivedLicenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "attributionNote": "Derived from Stack Overflow Developer Survey 2025 (ODbL 1.0 / DbCL 1.0). Share-alike applies to the derived database.",
+  "aiSummary": "In 2025, Docker led cloud platforms in Worldwide at 35.4% (share of surveyed developers). npm ranked second at 28.27%, followed by Amazon Web Services (AWS) at 21.59%.",
+  "faqs": [
+    {
+      "question": "Which item leads cloud platforms in Worldwide?",
+      "answer": "Docker leads at 35.4% in 2025 (share of surveyed developers). Source: https://survey.stackoverflow.co/2025/."
+    },
+    {
+      "question": "What does the share of surveyed developers metric mean?",
+      "answer": "Figures are share of surveyed developers from the cited source for 2025. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for cloud platforms in Worldwide?",
+      "answer": "Docker (35.4%), npm (28.27%), Amazon Web Services (AWS) (21.59%) in 2025."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Docker",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 35.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "npm",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Amazon Web Services (AWS)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 21.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Pip",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.38,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Kubernetes",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Microsoft Azure",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Homebrew",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Vite",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Google Cloud",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Make",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "turkey/search-engines-mobile",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Search engines (Mobile)",
+  "categorySlug": "search-engines-mobile",
+  "family": "Search engines",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/mobile/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines (mobile) in Turkey at 72.16% (market share of tracked page views / usage). YANDEX ranked second at 27.12%, followed by DuckDuckGo at 0.29%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines (mobile) in Turkey?",
+      "answer": "Google leads at 72.16% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/mobile/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines (mobile) in Turkey?",
+      "answer": "Google (72.16%), YANDEX (27.12%), DuckDuckGo (0.29%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 72.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "YANDEX",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 27.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "DuckDuckGo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Yahoo!",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

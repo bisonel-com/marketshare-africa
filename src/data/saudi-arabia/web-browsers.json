@@ -6,118 +6,128 @@
   "marketCode": "SA",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/saudi-arabia",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Saudi Arabia at 59.63% (market share of tracked page views / usage). Safari ranked second at 28.09%, followed by Mozilla at 2.81%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Saudi Arabia?",
+      "answer": "Chrome leads at 59.63% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/saudi-arabia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Saudi Arabia?",
+      "answer": "Chrome (59.63%), Safari (28.09%), Mozilla (2.81%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 59.65,
-      "yoyChange": -15.04,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 59.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 28.1,
-      "yoyChange": 8.65,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.09,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.81,
-      "yoyChange": 2.79,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
-      "sharePercent": 2.7,
-      "yoyChange": 0.48,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
-      "sharePercent": 1.9,
-      "yoyChange": 0.78,
-      "segment": "Android Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "UC Browser",
-      "parentCompany": "Alibaba (UCWeb)",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.84,
-      "yoyChange": 1.14,
-      "segment": "Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.28,
-      "yoyChange": 0.47,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.04,
-      "yoyChange": 0.55,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.41,
-      "yoyChange": 0.16,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Android",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
-      "yoyChange": -0.01,
-      "segment": "WebView / System",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Saudi Arabia",
-  "countryCode": "SA",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Saudi Arabia at 59.65% according to Statcounter Global Stats. Safari ranked second at 28.1%, followed by Mozilla at 2.81%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Saudi Arabia?",
-      "answer": "Chrome leads with 59.65% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/saudi-arabia)."
-    },
-    {
-      "question": "How is web browsers market share measured for Saudi Arabia?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Saudi Arabia?",
-      "answer": "Chrome (59.65%), Safari (28.1%), Mozilla (2.81%) in October 2026."
-    }
-  ]
+  "countryCode": "SA"
 }

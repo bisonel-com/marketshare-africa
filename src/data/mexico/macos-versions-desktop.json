@@ -1,0 +1,133 @@
+{
+  "slug": "mexico/macos-versions-desktop",
+  "scope": "country",
+  "market": "Mexico",
+  "marketSlug": "mexico",
+  "marketCode": "MX",
+  "category": "macOS versions (Desktop)",
+  "categorySlug": "macos-versions-desktop",
+  "family": "macOS versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/macos-version-market-share/desktop/mexico",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of macOS desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, macOS Catalina led macos versions (desktop) in Mexico at 64.46% (market share of tracked page views / usage). macOS 19 ranked second at 13.39%, followed by macOS 15.7 at 2.93%.",
+  "faqs": [
+    {
+      "question": "Which item leads macos versions (desktop) in Mexico?",
+      "answer": "macOS Catalina leads at 64.46% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/macos-version-market-share/desktop/mexico."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for macos versions (desktop) in Mexico?",
+      "answer": "macOS Catalina (64.46%), macOS 19 (13.39%), macOS 15.7 (2.93%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 64.46,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "macOS 19",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.39,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS 15.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS 12.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS 15.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS High Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "macOS 11.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "macOS 13.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "macOS High Sierra",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "macOS 14.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Mexico",
+  "countryCode": "MX"
+}

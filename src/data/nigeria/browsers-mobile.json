@@ -1,0 +1,115 @@
+{
+  "slug": "nigeria/browsers-mobile",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "Browsers (Mobile)",
+  "categorySlug": "browsers-mobile",
+  "family": "Browsers",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/mobile/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (mobile) in Nigeria at 68.24% (market share of tracked page views / usage). Opera ranked second at 19.48%, followed by Safari at 9.31%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (mobile) in Nigeria?",
+      "answer": "Chrome leads at 68.24% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/mobile/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (mobile) in Nigeria?",
+      "answer": "Chrome (68.24%), Opera (19.48%), Safari (9.31%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 68.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.48,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.1,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "UC Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Phoenix",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

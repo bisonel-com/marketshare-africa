@@ -1,0 +1,104 @@
+{
+  "slug": "region/africa/social-media-mobile",
+  "scope": "region",
+  "market": "Africa",
+  "marketSlug": "africa",
+  "marketCode": "af",
+  "category": "Social media (Mobile)",
+  "categorySlug": "social-media-mobile",
+  "family": "Social media",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/social-media-stats/mobile/africa",
+  "source": "statcounter",
+  "methodologyNote": "Measured via social media referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Facebook led social media (mobile) in Africa at 70.88% (market share of tracked page views / usage). YouTube ranked second at 14.9%, followed by Twitter at 6.38%.",
+  "faqs": [
+    {
+      "question": "Which item leads social media (mobile) in Africa?",
+      "answer": "Facebook leads at 70.88% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/social-media-stats/mobile/africa."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for social media (mobile) in Africa?",
+      "answer": "Facebook (70.88%), YouTube (14.9%), Twitter (6.38%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Facebook",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 70.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "YouTube",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Twitter",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.38,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Instagram",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Pinterest",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "LinkedIn",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "reddit",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

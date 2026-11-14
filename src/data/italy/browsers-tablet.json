@@ -1,0 +1,124 @@
+{
+  "slug": "italy/browsers-tablet",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Browsers (Tablet)",
+  "categorySlug": "browsers-tablet",
+  "family": "Browsers",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/tablet/italy",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (tablet) in Italy at 66.41% (market share of tracked page views / usage). Safari ranked second at 19.88%, followed by Android at 9.17%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (tablet) in Italy?",
+      "answer": "Chrome leads at 66.41% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/tablet/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (tablet) in Italy?",
+      "answer": "Chrome (66.41%), Safari (19.88%), Android (9.17%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 66.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Instabridge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Ecosia",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Yandex Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Italy",
+  "countryCode": "IT"
+}

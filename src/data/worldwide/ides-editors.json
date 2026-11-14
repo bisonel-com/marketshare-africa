@@ -1,0 +1,131 @@
+{
+  "slug": "worldwide/ides-editors",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "IDEs and Editors",
+  "categorySlug": "ides-editors",
+  "family": "Developer tools",
+  "device": "survey",
+  "period": "2025",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Stack Overflow Developer Survey 2025",
+  "sourceUrl": "https://survey.stackoverflow.co/2025/",
+  "source": "stackoverflow",
+  "methodologyNote": "Percent of Stack Overflow Developer Survey 2025 respondents who reported using the item (multi-select). Not sales market share.",
+  "metricLabel": "share of surveyed developers",
+  "licenceName": "ODbL 1.0 (data) / DbCL 1.0 (contents)",
+  "licenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "derivedLicenceName": "ODbL 1.0 share-alike",
+  "derivedLicenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "attributionNote": "Derived from Stack Overflow Developer Survey 2025 (ODbL 1.0 / DbCL 1.0). Share-alike applies to the derived database.",
+  "aiSummary": "In 2025, Visual Studio Code led ides and editors in Worldwide at 40.4% (share of surveyed developers). Visual Studio ranked second at 15.42%, followed by Notepad++ at 14.59%.",
+  "faqs": [
+    {
+      "question": "Which item leads ides and editors in Worldwide?",
+      "answer": "Visual Studio Code leads at 40.4% in 2025 (share of surveyed developers). Source: https://survey.stackoverflow.co/2025/."
+    },
+    {
+      "question": "What does the share of surveyed developers metric mean?",
+      "answer": "Figures are share of surveyed developers from the cited source for 2025. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ides and editors in Worldwide?",
+      "answer": "Visual Studio Code (40.4%), Visual Studio (15.42%), Notepad++ (14.59%) in 2025."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Visual Studio Code",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 40.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Visual Studio",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Notepad++",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "IntelliJ IDEA",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Vim",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.92,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Cursor",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "PyCharm",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Android Studio",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.96,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Jupyter Notebook/JupyterLab",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Neovim",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

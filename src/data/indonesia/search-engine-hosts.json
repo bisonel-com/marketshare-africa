@@ -1,0 +1,133 @@
+{
+  "slug": "indonesia/search-engine-hosts",
+  "scope": "country",
+  "market": "Indonesia",
+  "marketSlug": "indonesia",
+  "marketCode": "ID",
+  "category": "Search engine hosts",
+  "categorySlug": "search-engine-hosts",
+  "family": "Search engine hosts",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/indonesia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts in Indonesia at 76.59% (market share of tracked page views / usage). Google scholar.google.co.id ranked second at 7.13%, followed by Google scholar.google.com at 6.35%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts in Indonesia?",
+      "answer": "Google google.com leads at 76.59% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/indonesia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts in Indonesia?",
+      "answer": "Google google.com (76.59%), Google scholar.google.co.id (7.13%), Google scholar.google.com (6.35%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 76.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Google scholar.google.co.id",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Google scholar.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Google google.co.id",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Yahoo! id.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Yahoo! search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "YANDEX ya.ru",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "YANDEX yandex.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Indonesia",
+  "countryCode": "ID"
+}

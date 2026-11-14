@@ -6,109 +6,119 @@
   "marketCode": "CA",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/canada",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Canada at 46.34% (market share of tracked page views / usage). Safari ranked second at 35.93%, followed by Edge at 8.13%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Canada?",
+      "answer": "Chrome leads at 46.34% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Canada?",
+      "answer": "Chrome (46.34%), Safari (35.93%), Edge (8.13%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 46.37,
-      "yoyChange": -4.83,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 46.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 35.95,
-      "yoyChange": 3.11,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 35.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
-      "sharePercent": 8.09,
-      "yoyChange": 0.63,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.44,
-      "yoyChange": 0.22,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.22,
-      "yoyChange": 0.0,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.82,
-      "yoyChange": 1.7,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.02,
-      "yoyChange": 0.05,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.61,
-      "yoyChange": -0.8,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Android",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.25,
-      "yoyChange": -0.03,
-      "segment": "WebView / System",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Canada",
-  "countryCode": "CA",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Canada at 46.37% according to Statcounter Global Stats. Safari ranked second at 35.95%, followed by Edge at 8.09%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Canada?",
-      "answer": "Chrome leads with 46.37% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/canada)."
-    },
-    {
-      "question": "How is web browsers market share measured for Canada?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Canada?",
-      "answer": "Chrome (46.37%), Safari (35.95%), Edge (8.09%) in October 2026."
-    }
-  ]
+  "countryCode": "CA"
 }

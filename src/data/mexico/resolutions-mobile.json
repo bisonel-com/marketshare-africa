@@ -1,0 +1,133 @@
+{
+  "slug": "mexico/resolutions-mobile",
+  "scope": "country",
+  "market": "Mexico",
+  "marketSlug": "mexico",
+  "marketCode": "MX",
+  "category": "Screen resolutions (Mobile)",
+  "categorySlug": "resolutions-mobile",
+  "family": "Screen resolutions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/mobile/mexico",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 414x896 led screen resolutions (mobile) in Mexico at 11.36% (market share of tracked page views / usage). 384x832 ranked second at 6.19%, followed by 360x800 at 3.9%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (mobile) in Mexico?",
+      "answer": "414x896 leads at 11.36% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/mobile/mexico."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (mobile) in Mexico?",
+      "answer": "414x896 (11.36%), 384x832 (6.19%), 360x800 (3.9%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "412x915",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "393x873",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.1,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "375x812",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "385x854",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "432x960",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Mexico",
+  "countryCode": "MX"
+}

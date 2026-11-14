@@ -1,0 +1,38 @@
+{
+  "slug": "egypt/os-combined-mobile",
+  "scope": "country",
+  "market": "Egypt",
+  "marketSlug": "egypt",
+  "marketCode": "EG",
+  "category": "Operating systems (combined) (Mobile)",
+  "categorySlug": "os-combined-mobile",
+  "family": "Operating systems (combined)",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/mobile/egypt",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "No ranking is published for Operating systems (combined) (Mobile) in Egypt for October 2026: fewer than 3 brands met the minimum share threshold in the source data.",
+  "faqs": [
+    {
+      "question": "Why is there no ranking for Operating systems (combined) (Mobile) in Egypt?",
+      "answer": "The source returned fewer than 3 brands above 0.1% after filters. Global Market Share does not invent figures."
+    },
+    {
+      "question": "Where does the data come from?",
+      "answer": "Source page: https://gs.statcounter.com/os-market-share/mobile/egypt."
+    }
+  ],
+  "rankings": [],
+  "hasData": false,
+  "country": "Egypt",
+  "countryCode": "EG"
+}

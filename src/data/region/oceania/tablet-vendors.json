@@ -1,0 +1,104 @@
+{
+  "slug": "region/oceania/tablet-vendors",
+  "scope": "region",
+  "market": "Oceania",
+  "marketSlug": "oceania",
+  "marketCode": "oc",
+  "category": "Tablet Vendors",
+  "categorySlug": "tablet-vendors",
+  "family": "Device vendors",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/tablet/oceania",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led tablet vendors in Oceania at 66.87% (market share of tracked page views / usage). Samsung ranked second at 25.73%, followed by Lenovo at 3.85%.",
+  "faqs": [
+    {
+      "question": "Which item leads tablet vendors in Oceania?",
+      "answer": "Apple leads at 66.87% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/tablet/oceania."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for tablet vendors in Oceania?",
+      "answer": "Apple (66.87%), Samsung (25.73%), Lenovo (3.85%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 66.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 25.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Lenovo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Sony",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Amazon",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Huawei",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

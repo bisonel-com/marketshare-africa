@@ -1,0 +1,133 @@
+{
+  "slug": "egypt/resolutions-desktop",
+  "scope": "country",
+  "market": "Egypt",
+  "marketSlug": "egypt",
+  "marketCode": "EG",
+  "category": "Screen resolutions (Desktop)",
+  "categorySlug": "resolutions-desktop",
+  "family": "Screen resolutions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/desktop/egypt",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1920x1080 led screen resolutions (desktop) in Egypt at 20.68% (market share of tracked page views / usage). 1536x864 ranked second at 14.64%, followed by 1366x768 at 13.49%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (desktop) in Egypt?",
+      "answer": "1920x1080 leads at 20.68% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/desktop/egypt."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (desktop) in Egypt?",
+      "answer": "1920x1080 (20.68%), 1536x864 (14.64%), 1366x768 (13.49%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "800x600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "1280x720",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "2560x1600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "1280x1024",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "1024x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "1680x1050",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "2560x1440",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Egypt",
+  "countryCode": "EG"
+}

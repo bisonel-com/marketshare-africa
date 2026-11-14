@@ -1,0 +1,133 @@
+{
+  "slug": "kenya/android-versions-tablet",
+  "scope": "country",
+  "market": "Kenya",
+  "marketSlug": "kenya",
+  "marketCode": "KE",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/kenya",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 15.0 led android versions (tablet) in Kenya at 27.45% (market share of tracked page views / usage). 11.0 ranked second at 14.7%, followed by 14.0 at 13.05%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Kenya?",
+      "answer": "15.0 leads at 27.45% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/kenya."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Kenya?",
+      "answer": "15.0 (27.45%), 11.0 (14.7%), 14.0 (13.05%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 27.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "7.0 Nougat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "5.1 Lollipop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Kenya",
+  "countryCode": "KE"
+}

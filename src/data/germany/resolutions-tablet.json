@@ -1,0 +1,133 @@
+{
+  "slug": "germany/resolutions-tablet",
+  "scope": "country",
+  "market": "Germany",
+  "marketSlug": "germany",
+  "marketCode": "DE",
+  "category": "Screen resolutions (Tablet)",
+  "categorySlug": "resolutions-tablet",
+  "family": "Screen resolutions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/tablet/germany",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1280x800 led screen resolutions (tablet) in Germany at 14.71% (market share of tracked page views / usage). 800x1280 ranked second at 10.15%, followed by 768x1024 at 5.02%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (tablet) in Germany?",
+      "answer": "1280x800 leads at 14.71% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/tablet/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (tablet) in Germany?",
+      "answer": "1280x800 (14.71%), 800x1280 (10.15%), 768x1024 (5.02%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1280x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "800x1280",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "768x1024",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "1334x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "601x1007",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "800x1334",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "810x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "820x1180",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "960x540",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "1205x753",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.0,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Germany",
+  "countryCode": "DE"
+}

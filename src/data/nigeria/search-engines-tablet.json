@@ -1,0 +1,70 @@
+{
+  "slug": "nigeria/search-engines-tablet",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "Search engines (Tablet)",
+  "categorySlug": "search-engines-tablet",
+  "family": "Search engines",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/tablet/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines (tablet) in Nigeria at 93.64% (market share of tracked page views / usage). bing ranked second at 5.81%, followed by Baidu at 0.33%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines (tablet) in Nigeria?",
+      "answer": "Google leads at 93.64% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/tablet/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines (tablet) in Nigeria?",
+      "answer": "Google (93.64%), bing (5.81%), Baidu (0.33%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 93.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Baidu",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "turkey/android-versions-tablet",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 16.0 led android versions (tablet) in Turkey at 37.58% (market share of tracked page views / usage). 14.0 ranked second at 14.63%, followed by 12.0 at 9.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Turkey?",
+      "answer": "16.0 leads at 37.58% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Turkey?",
+      "answer": "16.0 (37.58%), 14.0 (14.63%), 12.0 (9.56%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "4.4 KitKat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "5.1 Lollipop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.39,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

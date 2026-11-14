@@ -1,0 +1,133 @@
+{
+  "slug": "netherlands/mobile-phones",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/netherlands",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Samsung led mobile phones in Netherlands at 40.2% (market share of tracked page views / usage). Apple ranked second at 31.49%, followed by Xiaomi at 17.72%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in Netherlands?",
+      "answer": "Samsung leads at 40.2% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/netherlands."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in Netherlands?",
+      "answer": "Samsung (40.2%), Apple (31.49%), Xiaomi (17.72%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 40.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 31.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Oppo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "OnePlus",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.92,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Huawei",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Motorola",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Honor",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Vivo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

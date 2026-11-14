@@ -23,14 +23,11 @@ For local custom-domain simulation:
 SITE_BASE=/ npm run build && npm run preview
 ```
 
-## Markets (config-driven)
+## Markets and categories (config-driven)
 
-All markets and categories live in `src/config/markets.json` (imported by Astro and the Python scraper). Adding a market needs a JSON entry only.
-
-- **Worldwide** (`ww`)
-- **Regions:** Africa, Asia, Europe, North America, South America, Oceania
-- **Countries:** US, UK, India, Brazil, Germany, France, Japan, Indonesia, Mexico, Nigeria, South Africa, Kenya, Egypt, Canada, Australia, Spain, Italy, Turkey, Saudi Arabia, Philippines
-- **Categories:** Mobile Phones (vendor), Web Browsers
+- Geos: `src/config/markets.json` (Worldwide, 6 regions, 21 countries including Netherlands)
+- Categories: `src/config/categories.json` (~54 series: Statcounter device/vendor splits, Stack Overflow Developer Survey, RDW NL fleet, DfT UK cars)
+- Adding a market or category is a JSON change; the scraper and Astro pages read the same files.
 
 URL scheme:
 

@@ -1,0 +1,133 @@
+{
+  "slug": "italy/search-engine-hosts",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Search engine hosts",
+  "categorySlug": "search-engine-hosts",
+  "family": "Search engine hosts",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/italy",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts in Italy at 87.15% (market share of tracked page views / usage). bing bing.com ranked second at 5.78%, followed by Yahoo! it.search.yahoo.com at 3.69%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts in Italy?",
+      "answer": "Google google.com leads at 87.15% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts in Italy?",
+      "answer": "Google google.com (87.15%), bing bing.com (5.78%), Yahoo! it.search.yahoo.com (3.69%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 87.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Yahoo! it.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Yahoo! r.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Google google.it",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Google news.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Ecosia ecosia.org",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Yahoo! it.images.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "YANDEX yandex.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Italy",
+  "countryCode": "IT"
+}

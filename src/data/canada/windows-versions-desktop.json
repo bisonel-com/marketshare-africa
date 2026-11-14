@@ -1,0 +1,79 @@
+{
+  "slug": "canada/windows-versions-desktop",
+  "scope": "country",
+  "market": "Canada",
+  "marketSlug": "canada",
+  "marketCode": "CA",
+  "category": "Windows versions (Desktop)",
+  "categorySlug": "windows-versions-desktop",
+  "family": "Windows versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/windows-version-market-share/desktop/canada",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Windows desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Win11 led windows versions (desktop) in Canada at 79.12% (market share of tracked page views / usage). Win10 ranked second at 20.17%, followed by Win7 at 0.51%.",
+  "faqs": [
+    {
+      "question": "Which item leads windows versions (desktop) in Canada?",
+      "answer": "Win11 leads at 79.12% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/windows-version-market-share/desktop/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for windows versions (desktop) in Canada?",
+      "answer": "Win11 (79.12%), Win10 (20.17%), Win7 (0.51%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Win11",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 79.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Win10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Win7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Win8.1",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Canada",
+  "countryCode": "CA"
+}

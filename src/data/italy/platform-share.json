@@ -1,0 +1,70 @@
+{
+  "slug": "italy/platform-share",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Platform share",
+  "categorySlug": "platform-share",
+  "family": "Platform share",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/platform-market-share/italy",
+  "source": "statcounter",
+  "methodologyNote": "Share of page views by platform (Desktop, Mobile, Tablet, Console).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Mobile led platform share in Italy at 50.88% (market share of tracked page views / usage). Desktop ranked second at 47.55%, followed by Tablet at 1.51%.",
+  "faqs": [
+    {
+      "question": "Which item leads platform share in Italy?",
+      "answer": "Mobile leads at 50.88% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/platform-market-share/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for platform share in Italy?",
+      "answer": "Mobile (50.88%), Desktop (47.55%), Tablet (1.51%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 50.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Desktop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 47.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Tablet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Italy",
+  "countryCode": "IT"
+}
