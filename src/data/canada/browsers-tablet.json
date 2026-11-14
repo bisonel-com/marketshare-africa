@@ -1,0 +1,106 @@
+{
+  "slug": "canada/browsers-tablet",
+  "scope": "country",
+  "market": "Canada",
+  "marketSlug": "canada",
+  "marketCode": "CA",
+  "category": "Browsers (Tablet)",
+  "categorySlug": "browsers-tablet",
+  "family": "Browsers",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/tablet/canada",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (tablet) in Canada at 45.86% (market share of tracked page views / usage). Safari ranked second at 43.06%, followed by Android at 7.86%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (tablet) in Canada?",
+      "answer": "Chrome leads at 45.86% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/tablet/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (tablet) in Canada?",
+      "answer": "Chrome (45.86%), Safari (43.06%), Android (7.86%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 45.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 43.06,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Yandex Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Canada",
+  "countryCode": "CA"
+}

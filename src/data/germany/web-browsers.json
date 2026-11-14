@@ -6,118 +6,128 @@
   "marketCode": "DE",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/germany",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Germany at 57.97% (market share of tracked page views / usage). Safari ranked second at 17.7%, followed by Firefox at 7.52%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Germany?",
+      "answer": "Chrome leads at 57.97% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Germany?",
+      "answer": "Chrome (57.97%), Safari (17.7%), Firefox (7.52%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
-      "sharePercent": 58.01,
-      "yoyChange": 7.18,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 57.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
-      "sharePercent": 17.71,
-      "yoyChange": 0.45,
-      "segment": "iOS & macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 7.52,
-      "yoyChange": -4.36,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
-      "sharePercent": 7.33,
-      "yoyChange": -1.39,
-      "segment": "Desktop & Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 4.37,
-      "yoyChange": 0.61,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.22,
-      "yoyChange": -1.97,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.52,
-      "yoyChange": -0.3,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Yandex Browser",
-      "parentCompany": "Yandex",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.44,
-      "yoyChange": -0.22,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Mozilla",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.25,
-      "yoyChange": 0.2,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Ecosia",
-      "parentCompany": "Independent",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.22,
-      "yoyChange": -0.03,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Germany",
-  "countryCode": "DE",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Germany at 58.01% according to Statcounter Global Stats. Safari ranked second at 17.71%, followed by Firefox at 7.52%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Germany?",
-      "answer": "Chrome leads with 58.01% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/germany)."
-    },
-    {
-      "question": "How is web browsers market share measured for Germany?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Germany?",
-      "answer": "Chrome (58.01%), Safari (17.71%), Firefox (7.52%) in October 2026."
-    }
-  ]
+  "countryCode": "DE"
 }

@@ -6,100 +6,110 @@
   "marketCode": "ID",
   "category": "Web Browsers",
   "categorySlug": "web-browsers",
+  "family": "Browsers",
+  "device": "all",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/browser-market-share/indonesia",
-  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led web browsers in Indonesia at 76.9% (market share of tracked page views / usage). Safari ranked second at 9.5%, followed by Edge at 6.8%.",
+  "faqs": [
+    {
+      "question": "Which item leads web browsers in Indonesia?",
+      "answer": "Chrome leads at 76.9% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/indonesia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for web browsers in Indonesia?",
+      "answer": "Chrome (76.9%), Safari (9.5%), Edge (6.8%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Google",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 76.9,
-      "yoyChange": -5.0,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Apple",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 9.5,
-      "yoyChange": 2.18,
-      "segment": "iOS & macOS",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge",
-      "parentCompany": "Microsoft",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 6.8,
-      "yoyChange": 1.68,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox",
-      "parentCompany": "Mozilla",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.4,
-      "yoyChange": 0.73,
-      "segment": "Desktop & Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet",
-      "parentCompany": "Samsung",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.53,
-      "yoyChange": 0.41,
-      "segment": "Android Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera",
-      "parentCompany": "Opera Norway / Opera Ltd",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.9,
-      "yoyChange": 0.01,
-      "segment": "Mobile & Desktop",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "UC Browser",
-      "parentCompany": "Alibaba (UCWeb)",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.57,
-      "yoyChange": 0.34,
-      "segment": "Mobile",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Brave",
-      "parentCompany": "Brave Software",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.21,
-      "yoyChange": -0.03,
-      "segment": "Privacy Browser",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Indonesia",
-  "countryCode": "ID",
-  "aiSummary": "In October 2026, Chrome led web browsers market share in Indonesia at 76.9% according to Statcounter Global Stats. Safari ranked second at 9.5%, followed by Edge at 6.8%.",
-  "faqs": [
-    {
-      "question": "Which brand leads web browsers market share in Indonesia?",
-      "answer": "Chrome leads with 76.9% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/indonesia)."
-    },
-    {
-      "question": "How is web browsers market share measured for Indonesia?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three web browsers brands in Indonesia?",
-      "answer": "Chrome (76.9%), Safari (9.5%), Edge (6.8%) in October 2026."
-    }
-  ]
+  "countryCode": "ID"
 }

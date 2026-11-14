@@ -1,0 +1,131 @@
+{
+  "slug": "region/north-america/resolutions-mobile",
+  "scope": "region",
+  "market": "North America",
+  "marketSlug": "north-america",
+  "marketCode": "na",
+  "category": "Screen resolutions (Mobile)",
+  "categorySlug": "resolutions-mobile",
+  "family": "Screen resolutions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/mobile/north-america",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 414x896 led screen resolutions (mobile) in North America at 19.67% (market share of tracked page views / usage). 390x844 ranked second at 9.43%, followed by 384x832 at 8.68%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (mobile) in North America?",
+      "answer": "414x896 leads at 19.67% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/mobile/north-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (mobile) in North America?",
+      "answer": "414x896 (19.67%), 390x844 (9.43%), 384x832 (8.68%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "393x852",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "402x874",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "412x915",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.61,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "393x873",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "375x667",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

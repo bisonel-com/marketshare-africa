@@ -1,0 +1,133 @@
+{
+  "slug": "japan/resolutions-mobile",
+  "scope": "country",
+  "market": "Japan",
+  "marketSlug": "japan",
+  "marketCode": "JP",
+  "category": "Screen resolutions (Mobile)",
+  "categorySlug": "resolutions-mobile",
+  "family": "Screen resolutions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/mobile/japan",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 414x896 led screen resolutions (mobile) in Japan at 22.97% (market share of tracked page views / usage). 390x844 ranked second at 11.35%, followed by 375x667 at 4.57%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (mobile) in Japan?",
+      "answer": "414x896 leads at 22.97% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/mobile/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (mobile) in Japan?",
+      "answer": "414x896 (22.97%), 390x844 (11.35%), 375x667 (4.57%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 22.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "375x667",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "393x852",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "412x915",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "375x812",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "412x924",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "360x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "393x873",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Japan",
+  "countryCode": "JP"
+}

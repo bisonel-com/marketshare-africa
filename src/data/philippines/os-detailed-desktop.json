@@ -1,0 +1,97 @@
+{
+  "slug": "philippines/os-detailed-desktop",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "Operating systems (detailed) (Desktop)",
+  "categorySlug": "os-detailed-desktop",
+  "family": "Operating systems",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-version-market-share/desktop/philippines",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with detailed OS versions (e.g. Windows 10/11 split).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Win11 led operating systems (detailed) (desktop) in Philippines at 68.41% (market share of tracked page views / usage). Win10 ranked second at 15.21%, followed by OS X at 4.44%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (detailed) (desktop) in Philippines?",
+      "answer": "Win11 leads at 68.41% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-version-market-share/desktop/philippines."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (detailed) (desktop) in Philippines?",
+      "answer": "Win11 (68.41%), Win10 (15.21%), OS X (4.44%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Win11",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 68.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Win10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Philippines",
+  "countryCode": "PH"
+}

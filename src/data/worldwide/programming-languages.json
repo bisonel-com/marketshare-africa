@@ -1,0 +1,131 @@
+{
+  "slug": "worldwide/programming-languages",
+  "scope": "worldwide",
+  "market": "Worldwide",
+  "marketSlug": "worldwide",
+  "marketCode": "ww",
+  "category": "Programming Languages",
+  "categorySlug": "programming-languages",
+  "family": "Developer tools",
+  "device": "survey",
+  "period": "2025",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Stack Overflow Developer Survey 2025",
+  "sourceUrl": "https://survey.stackoverflow.co/2025/",
+  "source": "stackoverflow",
+  "methodologyNote": "Percent of Stack Overflow Developer Survey 2025 respondents who reported using the item (multi-select). Not sales market share.",
+  "metricLabel": "share of surveyed developers",
+  "licenceName": "ODbL 1.0 (data) / DbCL 1.0 (contents)",
+  "licenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "derivedLicenceName": "ODbL 1.0 share-alike",
+  "derivedLicenceUrl": "https://opendatacommons.org/licenses/odbl/1.0/",
+  "attributionNote": "Derived from Stack Overflow Developer Survey 2025 (ODbL 1.0 / DbCL 1.0). Share-alike applies to the derived database.",
+  "aiSummary": "In 2025, JavaScript led programming languages in Worldwide at 42.7% (share of surveyed developers). HTML/CSS ranked second at 40.04%, followed by SQL at 37.88%.",
+  "faqs": [
+    {
+      "question": "Which item leads programming languages in Worldwide?",
+      "answer": "JavaScript leads at 42.7% in 2025 (share of surveyed developers). Source: https://survey.stackoverflow.co/2025/."
+    },
+    {
+      "question": "What does the share of surveyed developers metric mean?",
+      "answer": "Figures are share of surveyed developers from the cited source for 2025. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for programming languages in Worldwide?",
+      "answer": "JavaScript (42.7%), HTML/CSS (40.04%), SQL (37.88%) in 2025."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "JavaScript",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 42.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "HTML/CSS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 40.04,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "SQL",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Python",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Bash/Shell (all shells)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 31.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "TypeScript",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Java",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 19.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "C#",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.0,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "C++",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "PowerShell",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "united-kingdom/uk-licensed-cars",
+  "scope": "country",
+  "market": "United Kingdom",
+  "marketSlug": "united-kingdom",
+  "marketCode": "GB",
+  "category": "UK Licensed Cars by Make",
+  "categorySlug": "uk-licensed-cars",
+  "family": "Vehicles",
+  "device": "fleet",
+  "period": "2026 Q2",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "DfT Vehicle Licensing Statistics (VEH0120)",
+  "sourceUrl": "https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-files",
+  "source": "dft",
+  "methodologyNote": "Share of licensed cars by make from DfT VEH0120 UK table, latest quarter. Contains public sector information licensed under the Open Government Licence v3.0. Fleet stock, not sales.",
+  "metricLabel": "share of licensed cars (fleet)",
+  "licenceName": "Open Government Licence v3.0",
+  "licenceUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "derivedLicenceName": "OGL v3.0",
+  "derivedLicenceUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "attributionNote": "Contains public sector information licensed under the Open Government Licence v3.0.",
+  "aiSummary": "In 2026 Q2, Ford led uk licensed cars by make in United Kingdom at 10.62% (share of licensed cars (fleet)). Volkswagen ranked second at 8.83%, followed by Vauxhall at 7.3%.",
+  "faqs": [
+    {
+      "question": "Which item leads uk licensed cars by make in United Kingdom?",
+      "answer": "Ford leads at 10.62% in 2026 Q2 (share of licensed cars (fleet)). Source: https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-files."
+    },
+    {
+      "question": "What does the share of licensed cars (fleet) metric mean?",
+      "answer": "Figures are share of licensed cars (fleet) from the cited source for 2026 Q2. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for uk licensed cars by make in United Kingdom?",
+      "answer": "Ford (10.62%), Volkswagen (8.83%), Vauxhall (7.3%) in 2026 Q2."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Ford",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.62,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Volkswagen",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.83,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Vauxhall",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Bmw",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Audi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Toyota",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Mercedes",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Nissan",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.02,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Kia",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Peugeot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "United Kingdom",
+  "countryCode": "GB"
+}

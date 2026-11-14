@@ -1,0 +1,133 @@
+{
+  "slug": "italy/resolutions-desktop",
+  "scope": "country",
+  "market": "Italy",
+  "marketSlug": "italy",
+  "marketCode": "IT",
+  "category": "Screen resolutions (Desktop)",
+  "categorySlug": "resolutions-desktop",
+  "family": "Screen resolutions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/desktop/italy",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 1920x1080 led screen resolutions (desktop) in Italy at 28.34% (market share of tracked page views / usage). 1536x864 ranked second at 14.15%, followed by 1366x768 at 7.79%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions (desktop) in Italy?",
+      "answer": "1920x1080 leads at 28.34% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/desktop/italy."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions (desktop) in Italy?",
+      "answer": "1920x1080 (28.34%), 1536x864 (14.15%), 1366x768 (7.79%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "1366x768",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "800x600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "2560x1440",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "1280x720",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "1440x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "2560x1600",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.86,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "1280x800",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "1536x960",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.43,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Italy",
+  "countryCode": "IT"
+}

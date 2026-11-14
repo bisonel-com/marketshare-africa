@@ -1,0 +1,133 @@
+{
+  "slug": "philippines/macos-versions-desktop",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "macOS versions (Desktop)",
+  "categorySlug": "macos-versions-desktop",
+  "family": "macOS versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/macos-version-market-share/desktop/philippines",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of macOS desktop traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, macOS Catalina led macos versions (desktop) in Philippines at 64.52% (market share of tracked page views / usage). macOS 19 ranked second at 20.68%, followed by macOS 15.7 at 1.98%.",
+  "faqs": [
+    {
+      "question": "Which item leads macos versions (desktop) in Philippines?",
+      "answer": "macOS Catalina leads at 64.52% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/macos-version-market-share/desktop/philippines."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for macos versions (desktop) in Philippines?",
+      "answer": "macOS Catalina (64.52%), macOS 19 (20.68%), macOS 15.7 (1.98%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "macOS Catalina",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 64.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "macOS 19",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "macOS 15.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS 12.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS 15.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.22,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS 15.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "macOS Mojave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "macOS 14.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "macOS 15.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.48,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "macOS 14.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Philippines",
+  "countryCode": "PH"
+}

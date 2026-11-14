@@ -1,0 +1,131 @@
+{
+  "slug": "region/asia/browsers-desktop",
+  "scope": "region",
+  "market": "Asia",
+  "marketSlug": "asia",
+  "marketCode": "as",
+  "category": "Browsers (Desktop)",
+  "categorySlug": "browsers-desktop",
+  "family": "Browsers",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/desktop/asia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (desktop) in Asia at 74.27% (market share of tracked page views / usage). Edge ranked second at 12.45%, followed by Firefox at 4.08%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (desktop) in Asia?",
+      "answer": "Chrome leads at 74.27% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/desktop/asia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (desktop) in Asia?",
+      "answer": "Chrome (74.27%), Edge (12.45%), Firefox (4.08%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 74.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.08,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "360 Safe Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.78,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Mozilla",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.39,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Coc Coc",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "saudi-arabia/os-detailed-desktop",
+  "scope": "country",
+  "market": "Saudi Arabia",
+  "marketSlug": "saudi-arabia",
+  "marketCode": "SA",
+  "category": "Operating systems (detailed) (Desktop)",
+  "categorySlug": "os-detailed-desktop",
+  "family": "Operating systems",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-version-market-share/desktop/saudi-arabia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with detailed OS versions (e.g. Windows 10/11 split).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Win11 led operating systems (detailed) (desktop) in Saudi Arabia at 57.64% (market share of tracked page views / usage). Win10 ranked second at 15.89%, followed by OS X at 15.82%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (detailed) (desktop) in Saudi Arabia?",
+      "answer": "Win11 leads at 57.64% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-version-market-share/desktop/saudi-arabia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (detailed) (desktop) in Saudi Arabia?",
+      "answer": "Win11 (57.64%), Win10 (15.89%), OS X (15.82%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Win11",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 57.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Win10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Saudi Arabia",
+  "countryCode": "SA"
+}

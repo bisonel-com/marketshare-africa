@@ -6,118 +6,128 @@
   "marketCode": "KE",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/kenya",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Samsung led mobile phones in Kenya at 30.31% (market share of tracked page views / usage). Tecno ranked second at 16.67%, followed by Xiaomi at 8.16%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in Kenya?",
+      "answer": "Samsung leads at 30.31% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/kenya."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in Kenya?",
+      "answer": "Samsung (30.31%), Tecno (16.67%), Xiaomi (8.16%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 30.31,
-      "yoyChange": 2.15,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Tecno",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 16.67,
-      "yoyChange": 1.47,
-      "segment": "Budget / Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 8.16,
-      "yoyChange": 2.47,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Infinix",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 7.8,
-      "yoyChange": 0.48,
-      "segment": "Budget / Gaming",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 7.19,
-      "yoyChange": -0.6,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "HMD",
-      "parentCompany": "HMD Global",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 5.27,
       "yoyChange": null,
-      "segment": "Budget / Feature & Smart",
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 4.72,
-      "yoyChange": -0.25,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Nokia",
-      "parentCompany": "HMD Global",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 4.52,
-      "yoyChange": -2.65,
-      "segment": "Budget / Feature & Smart",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Itel",
-      "parentCompany": "Transsion Holdings",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 3.2,
-      "yoyChange": -0.44,
-      "segment": "Ultra-Budget",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Vivo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 2.64,
-      "yoyChange": 0.81,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Kenya",
-  "countryCode": "KE",
-  "aiSummary": "In October 2026, Samsung led mobile phones market share in Kenya at 30.31% according to Statcounter Global Stats. Tecno ranked second at 16.67%, followed by Xiaomi at 8.16%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in Kenya?",
-      "answer": "Samsung leads with 30.31% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/kenya)."
-    },
-    {
-      "question": "How is mobile phones market share measured for Kenya?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in Kenya?",
-      "answer": "Samsung (30.31%), Tecno (16.67%), Xiaomi (8.16%) in October 2026."
-    }
-  ]
+  "countryCode": "KE"
 }

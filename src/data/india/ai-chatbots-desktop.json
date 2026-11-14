@@ -1,0 +1,88 @@
+{
+  "slug": "india/ai-chatbots-desktop",
+  "scope": "country",
+  "market": "India",
+  "marketSlug": "india",
+  "marketCode": "IN",
+  "category": "AI chatbots (Desktop)",
+  "categorySlug": "ai-chatbots-desktop",
+  "family": "AI chatbots",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ai-chatbot-market-share/desktop/india",
+  "source": "statcounter",
+  "methodologyNote": "Measured via AI chatbot referrals or usage signals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, ChatGPT led ai chatbots (desktop) in India at 45.98% (market share of tracked page views / usage). Google Gemini ranked second at 36.55%, followed by Perplexity at 10.33%.",
+  "faqs": [
+    {
+      "question": "Which item leads ai chatbots (desktop) in India?",
+      "answer": "ChatGPT leads at 45.98% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ai-chatbot-market-share/desktop/india."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ai chatbots (desktop) in India?",
+      "answer": "ChatGPT (45.98%), Google Gemini (36.55%), Perplexity (10.33%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "ChatGPT",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 45.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Google Gemini",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 36.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Perplexity",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Claude",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Microsoft Copilot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.84,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "India",
+  "countryCode": "IN"
+}

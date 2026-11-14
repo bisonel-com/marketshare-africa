@@ -1,0 +1,133 @@
+{
+  "slug": "egypt/browser-versions-mobile",
+  "scope": "country",
+  "market": "Egypt",
+  "marketSlug": "egypt",
+  "marketCode": "EG",
+  "category": "Browser versions (Mobile)",
+  "categorySlug": "browser-versions-mobile",
+  "family": "Browser versions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/mobile/egypt",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome for Android led browser versions (mobile) in Egypt at 77.25% (market share of tracked page views / usage). Safari iPhone ranked second at 14.01%, followed by Chrome for iPhone at 3.69%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (mobile) in Egypt?",
+      "answer": "Chrome for Android leads at 77.25% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/mobile/egypt."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (mobile) in Egypt?",
+      "answer": "Chrome for Android (77.25%), Safari iPhone (14.01%), Chrome for iPhone (3.69%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome for Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 77.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari iPhone",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Chrome for iPhone",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "UC Browser 15.2",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera 102.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "UC Browser 15.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Samsung Internet 29.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.13,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Android 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Firefox 157.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Egypt",
+  "countryCode": "EG"
+}

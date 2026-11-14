@@ -1,0 +1,106 @@
+{
+  "slug": "canada/os-detailed-desktop",
+  "scope": "country",
+  "market": "Canada",
+  "marketSlug": "canada",
+  "marketCode": "CA",
+  "category": "Operating systems (detailed) (Desktop)",
+  "categorySlug": "os-detailed-desktop",
+  "family": "Operating systems",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-version-market-share/desktop/canada",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with detailed OS versions (e.g. Windows 10/11 split).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Win11 led operating systems (detailed) (desktop) in Canada at 47.82% (market share of tracked page views / usage). OS X ranked second at 23.05%, followed by Win10 at 12.19%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (detailed) (desktop) in Canada?",
+      "answer": "Win11 leads at 47.82% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-version-market-share/desktop/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (detailed) (desktop) in Canada?",
+      "answer": "Win11 (47.82%), OS X (23.05%), Win10 (12.19%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Win11",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 47.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Win10",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Win7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Canada",
+  "countryCode": "CA"
+}

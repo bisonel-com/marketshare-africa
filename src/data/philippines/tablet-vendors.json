@@ -1,0 +1,133 @@
+{
+  "slug": "philippines/tablet-vendors",
+  "scope": "country",
+  "market": "Philippines",
+  "marketSlug": "philippines",
+  "marketCode": "PH",
+  "category": "Tablet Vendors",
+  "categorySlug": "tablet-vendors",
+  "family": "Device vendors",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/tablet/philippines",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led tablet vendors in Philippines at 27.45% (market share of tracked page views / usage). Samsung ranked second at 24.12%, followed by Honor at 7.98%.",
+  "faqs": [
+    {
+      "question": "Which item leads tablet vendors in Philippines?",
+      "answer": "Apple leads at 27.45% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/tablet/philippines."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for tablet vendors in Philippines?",
+      "answer": "Apple (27.45%), Samsung (24.12%), Honor (7.98%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 27.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 24.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Honor",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Infinix",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Huawei",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Realme",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Lenovo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Oppo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.04,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Amazon",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Philippines",
+  "countryCode": "PH"
+}

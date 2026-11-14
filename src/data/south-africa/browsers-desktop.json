@@ -1,0 +1,106 @@
+{
+  "slug": "south-africa/browsers-desktop",
+  "scope": "country",
+  "market": "South Africa",
+  "marketSlug": "south-africa",
+  "marketCode": "ZA",
+  "category": "Browsers (Desktop)",
+  "categorySlug": "browsers-desktop",
+  "family": "Browsers",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/desktop/south-africa",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (desktop) in South Africa at 74.54% (market share of tracked page views / usage). Edge ranked second at 13.38%, followed by Firefox at 4.81%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (desktop) in South Africa?",
+      "answer": "Chrome leads at 74.54% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/desktop/south-africa."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (desktop) in South Africa?",
+      "answer": "Chrome (74.54%), Edge (13.38%), Firefox (4.81%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 74.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.38,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "South Africa",
+  "countryCode": "ZA"
+}

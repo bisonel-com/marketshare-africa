@@ -1,0 +1,133 @@
+{
+  "slug": "united-states/ios-versions-mobile",
+  "scope": "country",
+  "market": "United States",
+  "marketSlug": "united-states",
+  "marketCode": "US",
+  "category": "iOS versions (Mobile)",
+  "categorySlug": "ios-versions-mobile",
+  "family": "iOS versions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ios-version-market-share/mobile/united-states",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of iOS traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iOS 26.6 led ios versions (mobile) in United States at 54.56% (market share of tracked page views / usage). iOS 27 ranked second at 10.64%, followed by iOS 18.7 at 10.36%.",
+  "faqs": [
+    {
+      "question": "Which item leads ios versions (mobile) in United States?",
+      "answer": "iOS 26.6 leads at 54.56% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ios-version-market-share/mobile/united-states."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ios versions (mobile) in United States?",
+      "answer": "iOS 26.6 (54.56%), iOS 27 (10.64%), iOS 18.7 (10.36%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iOS 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 54.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS 27",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.64,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS 18.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "iOS 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iOS 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "iOS 26.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS 26.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "iOS 18.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "iOS 26.2",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "iOS 18.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "United States",
+  "countryCode": "US"
+}

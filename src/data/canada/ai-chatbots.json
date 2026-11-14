@@ -1,0 +1,88 @@
+{
+  "slug": "canada/ai-chatbots",
+  "scope": "country",
+  "market": "Canada",
+  "marketSlug": "canada",
+  "marketCode": "CA",
+  "category": "AI chatbots",
+  "categorySlug": "ai-chatbots",
+  "family": "AI chatbots",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ai-chatbot-market-share/canada",
+  "source": "statcounter",
+  "methodologyNote": "Measured via AI chatbot referrals or usage signals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google Gemini led ai chatbots in Canada at 38.72% (market share of tracked page views / usage). ChatGPT ranked second at 37.17%, followed by Perplexity at 10.25%.",
+  "faqs": [
+    {
+      "question": "Which item leads ai chatbots in Canada?",
+      "answer": "Google Gemini leads at 38.72% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ai-chatbot-market-share/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ai chatbots in Canada?",
+      "answer": "Google Gemini (38.72%), ChatGPT (37.17%), Perplexity (10.25%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google Gemini",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 38.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "ChatGPT",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Perplexity",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Microsoft Copilot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Claude",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Canada",
+  "countryCode": "CA"
+}

@@ -23,14 +23,24 @@ export interface MarketData {
   marketCode: string;
   category: string;
   categorySlug: string;
+  family?: string;
+  device?: string;
   period: string;
   lastUpdated: string;
   sourceName: string;
   sourceUrl: string;
+  source?: string;
   methodologyNote: string;
+  metricLabel?: string;
+  licenceName?: string;
+  licenceUrl?: string;
+  derivedLicenceName?: string;
+  derivedLicenceUrl?: string;
+  attributionNote?: string;
   aiSummary: string;
   faqs: FaqItem[];
   rankings: RankingRow[];
+  hasData?: boolean;
   country?: string;
   countryCode?: string;
 }

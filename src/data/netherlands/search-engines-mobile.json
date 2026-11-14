@@ -1,0 +1,88 @@
+{
+  "slug": "netherlands/search-engines-mobile",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Search engines (Mobile)",
+  "categorySlug": "search-engines-mobile",
+  "family": "Search engines",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/mobile/netherlands",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines (mobile) in Netherlands at 95.72% (market share of tracked page views / usage). YANDEX ranked second at 2.37%, followed by DuckDuckGo at 0.99%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines (mobile) in Netherlands?",
+      "answer": "Google leads at 95.72% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/mobile/netherlands."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines (mobile) in Netherlands?",
+      "answer": "Google (95.72%), YANDEX (2.37%), DuckDuckGo (0.99%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 95.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "YANDEX",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "DuckDuckGo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Ecosia",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

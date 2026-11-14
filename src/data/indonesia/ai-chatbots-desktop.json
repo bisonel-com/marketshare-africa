@@ -1,0 +1,88 @@
+{
+  "slug": "indonesia/ai-chatbots-desktop",
+  "scope": "country",
+  "market": "Indonesia",
+  "marketSlug": "indonesia",
+  "marketCode": "ID",
+  "category": "AI chatbots (Desktop)",
+  "categorySlug": "ai-chatbots-desktop",
+  "family": "AI chatbots",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ai-chatbot-market-share/desktop/indonesia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via AI chatbot referrals or usage signals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, ChatGPT led ai chatbots (desktop) in Indonesia at 56.49% (market share of tracked page views / usage). Perplexity ranked second at 20.82%, followed by Google Gemini at 20.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads ai chatbots (desktop) in Indonesia?",
+      "answer": "ChatGPT leads at 56.49% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ai-chatbot-market-share/desktop/indonesia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ai chatbots (desktop) in Indonesia?",
+      "answer": "ChatGPT (56.49%), Perplexity (20.82%), Google Gemini (20.56%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "ChatGPT",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 56.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Perplexity",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Google Gemini",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Claude",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Microsoft Copilot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.38,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Indonesia",
+  "countryCode": "ID"
+}

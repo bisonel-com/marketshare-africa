@@ -1,66 +1,80 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LicenceCredit from '../components/LicenceCredit.astro';
+import { categories } from '../config/markets';
 import {
   DERIVED_LICENSE_NAME,
   DERIVED_LICENSE_URL,
   SOURCE_LICENSE_NAME,
-  SOURCE_LICENSE_URL,
   SOURCE_NAME,
 } from '../config/licence';
 import { SITE_NAME, withBase } from '../config/site';
+
+const sources = new Map<string, (typeof categories)[number]>();
+for (const c of categories) {
+  if (!sources.has(c.sourceName)) sources.set(c.sourceName, c);
+}
 ---
 
 <BaseLayout
   title={`Licence | ${SITE_NAME}`}
-  description={`Licence and attribution for ${SITE_NAME}: Statcounter source data under CC BY-SA 3.0; derived rankings under CC BY-SA 4.0.`}
+  description={`Licence and attribution for ${SITE_NAME}: Statcounter, Stack Overflow Survey, RDW and DfT sources.`}
   canonicalPath="/licence/"
 >
   <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
     <h1 class="font-display text-3xl font-bold text-ink-950 sm:text-4xl">Licence</h1>
     <p class="mt-4 text-base leading-relaxed text-ink-700">
-      {SITE_NAME} republishes market-share figures from {SOURCE_NAME} and publishes derived
-      rankings adapted from those figures. The two layers use different Creative Commons versions
-      as allowed by the source licence.
+      {SITE_NAME} republishes figures from free public sources and publishes derived rankings.
+      Each category page carries its own source credit.
     </p>
 
-    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Attribution</h2>
-    <LicenceCredit class="mt-4" />
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Sources</h2>
+    <ul class="mt-4 space-y-4 text-ink-700">
+      {
+        [...sources.values()].map((s) => (
+          <li class="rounded-xl border border-ink-200 bg-white/70 p-4">
+            <div class="font-semibold text-ink-950">{s.sourceName}</div>
+            <p class="mt-1 text-sm">
+              Licence:{' '}
+              <a class="underline" href={s.licenceUrl} rel="noopener noreferrer">
+                {s.licenceName}
+              </a>
+            </p>
+            <p class="mt-1 text-sm">
+              Terms / home:{' '}
+              <a class="underline" href={s.sourceHomeUrl} rel="noopener noreferrer">
+                {s.sourceHomeUrl}
+              </a>
+            </p>
+            <p class="mt-1 text-xs text-ink-500">Metric: {s.metricLabel}</p>
+          </li>
+        ))
+      }
+    </ul>
 
-    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Source data</h2>
-    <p class="mt-4 text-ink-700">
-      Underlying Statcounter Global Stats downloads remain licensed{' '}
-      <a class="font-semibold text-canopy-700 underline" href={SOURCE_LICENSE_URL} rel="noopener noreferrer">
-        {SOURCE_LICENSE_NAME}
-      </a>
-      . Always credit Statcounter when reusing the source figures.
-    </p>
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Statcounter attribution</h2>
+    <LicenceCredit class="mt-4" statcounterDefault={true} />
 
     <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Derived rankings</h2>
     <p class="mt-4 text-ink-700">
-      Rankings, summaries, and adapted tables on this site are shared under{' '}
+      For Statcounter-based pages, adapted rankings are shared under{' '}
       <a class="font-semibold text-canopy-700 underline" href={DERIVED_LICENSE_URL} rel="noopener noreferrer">
         {DERIVED_LICENSE_NAME}
       </a>
-      . This relies on {SOURCE_LICENSE_NAME}{' '}
-      <a
-        class="font-semibold text-canopy-700 underline"
-        href={SOURCE_LICENSE_URL}
-        rel="noopener noreferrer"
-      >
-        section 4(b)
-      </a>
-      , which permits adaptations under a later version of the same licence family.
+      , relying on {SOURCE_LICENSE_NAME} section 4(b). Stack Overflow-derived tables remain under
+      ODbL share-alike. DfT pages use OGL v3.0 attribution. RDW open data is credited to RDW.
     </p>
 
     <p class="mt-8 text-sm text-ink-600">
-      © {SITE_NAME}. Not affiliated with Statcounter. Pro CSV export remains disabled.
+      © {SITE_NAME}. Not affiliated with {SOURCE_NAME}. Pro CSV export remains disabled.
     </p>
 
     <p class="mt-8">
       <a class="font-semibold text-canopy-700 underline" href={withBase('/about/')}>Methodology</a>
       {' · '}
-      <a class="font-semibold text-canopy-700 underline" href={withBase('/')}>Back to rankings</a>
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/categories/')}>Categories</a>
+      {' · '}
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/')}>Home</a>
     </p>
   </article>
 </BaseLayout>

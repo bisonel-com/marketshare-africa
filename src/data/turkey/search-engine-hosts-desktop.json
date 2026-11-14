@@ -1,0 +1,124 @@
+{
+  "slug": "turkey/search-engine-hosts-desktop",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Search engine hosts (Desktop)",
+  "categorySlug": "search-engine-hosts-desktop",
+  "family": "Search engine hosts",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/desktop/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts (desktop) in Turkey at 79.7% (market share of tracked page views / usage). YANDEX yandex.com.tr ranked second at 16.36%, followed by bing bing.com at 2.03%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts (desktop) in Turkey?",
+      "answer": "Google google.com leads at 79.7% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/desktop/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts (desktop) in Turkey?",
+      "answer": "Google google.com (79.7%), YANDEX yandex.com.tr (16.36%), bing bing.com (2.03%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 79.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "YANDEX yandex.com.tr",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.03,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Yahoo! tr.search.yahoo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Google google.com.tr",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "YANDEX yandex.ru",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "YANDEX ya.ru",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Google scholar.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "australia/resolutions",
+  "scope": "country",
+  "market": "Australia",
+  "marketSlug": "australia",
+  "marketCode": "AU",
+  "category": "Screen resolutions",
+  "categorySlug": "resolutions",
+  "family": "Screen resolutions",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/screen-resolution-stats/australia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via reported screen resolutions in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 414x896 led screen resolutions in Australia at 14.98% (market share of tracked page views / usage). 1920x1080 ranked second at 11.45%, followed by 390x844 at 5.71%.",
+  "faqs": [
+    {
+      "question": "Which item leads screen resolutions in Australia?",
+      "answer": "414x896 leads at 14.98% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/screen-resolution-stats/australia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for screen resolutions in Australia?",
+      "answer": "414x896 (14.98%), 1920x1080 (11.45%), 390x844 (5.71%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "414x896",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.98,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "1920x1080",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "390x844",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "384x832",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "1536x864",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "375x812",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "2560x1440",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "1440x900",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "360x780",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "1280x720",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Australia",
+  "countryCode": "AU"
+}

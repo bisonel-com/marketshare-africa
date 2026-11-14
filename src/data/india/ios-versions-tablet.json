@@ -1,0 +1,133 @@
+{
+  "slug": "india/ios-versions-tablet",
+  "scope": "country",
+  "market": "India",
+  "marketSlug": "india",
+  "marketCode": "IN",
+  "category": "iOS versions (Tablet)",
+  "categorySlug": "ios-versions-tablet",
+  "family": "iOS versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ios-version-market-share/tablet/india",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of iOS traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iOS 26.6 led ios versions (tablet) in India at 32.75% (market share of tracked page views / usage). iOS 27.0 ranked second at 14.56%, followed by iOS 26.5 at 10.59%.",
+  "faqs": [
+    {
+      "question": "Which item leads ios versions (tablet) in India?",
+      "answer": "iOS 26.6 leads at 32.75% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ios-version-market-share/tablet/india."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ios versions (tablet) in India?",
+      "answer": "iOS 26.6 (32.75%), iOS 27.0 (14.56%), iOS 26.5 (10.59%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iOS 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 32.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "iOS 7.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.62,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iOS 18.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.88,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "iOS 26.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.48,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS 27",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "iOS 17.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "iOS 12.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "iOS 26.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "India",
+  "countryCode": "IN"
+}

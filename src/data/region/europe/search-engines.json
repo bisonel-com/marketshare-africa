@@ -1,0 +1,113 @@
+{
+  "slug": "region/europe/search-engines",
+  "scope": "region",
+  "market": "Europe",
+  "marketSlug": "europe",
+  "marketCode": "eu",
+  "category": "Search engines",
+  "categorySlug": "search-engines",
+  "family": "Search engines",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-market-share/europe",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google led search engines in Europe at 88.8% (market share of tracked page views / usage). bing ranked second at 5.55%, followed by YANDEX at 2.5%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engines in Europe?",
+      "answer": "Google leads at 88.8% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-market-share/europe."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engines in Europe?",
+      "answer": "Google (88.8%), bing (5.55%), YANDEX (2.5%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 88.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "bing",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "YANDEX",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Yahoo!",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.51,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "DuckDuckGo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Ecosia",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.47,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Seznam",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.21,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Qwant",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

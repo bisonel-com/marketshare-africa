@@ -1,0 +1,124 @@
+{
+  "slug": "japan/search-engine-hosts-tablet",
+  "scope": "country",
+  "market": "Japan",
+  "marketSlug": "japan",
+  "marketCode": "JP",
+  "category": "Search engine hosts (Tablet)",
+  "categorySlug": "search-engine-hosts-tablet",
+  "family": "Search engine hosts",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/search-engine-host-market-share/tablet/japan",
+  "source": "statcounter",
+  "methodologyNote": "Measured via search host referrals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Google google.com led search engine hosts (tablet) in Japan at 69.16% (market share of tracked page views / usage). Yahoo! search.yahoo.co.jp ranked second at 16.25%, followed by bing bing.com at 7.73%.",
+  "faqs": [
+    {
+      "question": "Which item leads search engine hosts (tablet) in Japan?",
+      "answer": "Google google.com leads at 69.16% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/search-engine-host-market-share/tablet/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for search engine hosts (tablet) in Japan?",
+      "answer": "Google google.com (69.16%), Yahoo! search.yahoo.co.jp (16.25%), bing bing.com (7.73%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Google google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 69.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Yahoo! search.yahoo.co.jp",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "bing bing.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Google google.co.jp",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "DuckDuckGo duckduckgo.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "CocCoc coccoc.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Google google.com.hk",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Google news.google.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.45,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "YANDEX yandex.com",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Japan",
+  "countryCode": "JP"
+}

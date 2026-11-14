@@ -1,0 +1,88 @@
+{
+  "slug": "united-kingdom/ai-chatbots-mobile",
+  "scope": "country",
+  "market": "United Kingdom",
+  "marketSlug": "united-kingdom",
+  "marketCode": "GB",
+  "category": "AI chatbots (Mobile)",
+  "categorySlug": "ai-chatbots-mobile",
+  "family": "AI chatbots",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ai-chatbot-market-share/mobile/united-kingdom",
+  "source": "statcounter",
+  "methodologyNote": "Measured via AI chatbot referrals or usage signals in tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, ChatGPT led ai chatbots (mobile) in United Kingdom at 82.63% (market share of tracked page views / usage). Google Gemini ranked second at 10.73%, followed by Perplexity at 5.16%.",
+  "faqs": [
+    {
+      "question": "Which item leads ai chatbots (mobile) in United Kingdom?",
+      "answer": "ChatGPT leads at 82.63% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ai-chatbot-market-share/mobile/united-kingdom."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ai chatbots (mobile) in United Kingdom?",
+      "answer": "ChatGPT (82.63%), Google Gemini (10.73%), Perplexity (5.16%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "ChatGPT",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 82.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Google Gemini",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Perplexity",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Microsoft Copilot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Claude",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "United Kingdom",
+  "countryCode": "GB"
+}

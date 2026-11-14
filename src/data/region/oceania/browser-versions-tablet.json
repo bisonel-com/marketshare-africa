@@ -1,0 +1,131 @@
+{
+  "slug": "region/oceania/browser-versions-tablet",
+  "scope": "region",
+  "market": "Oceania",
+  "marketSlug": "oceania",
+  "marketCode": "oc",
+  "category": "Browser versions (Tablet)",
+  "categorySlug": "browser-versions-tablet",
+  "family": "Browser versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/tablet/oceania",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Safari iPad led browser versions (tablet) in Oceania at 37.7% (market share of tracked page views / usage). Chrome iPad ranked second at 27.92%, followed by Chrome for Android at 25.49%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (tablet) in Oceania?",
+      "answer": "Safari iPad leads at 37.7% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/tablet/oceania."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (tablet) in Oceania?",
+      "answer": "Safari iPad (37.7%), Chrome iPad (27.92%), Chrome for Android (25.49%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Safari iPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Chrome iPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 27.92,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Chrome for Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 25.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Android 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.42,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Samsung Internet 26.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Edge 153",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.55,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Edge 155",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Opera 102.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Samsung Internet 28.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

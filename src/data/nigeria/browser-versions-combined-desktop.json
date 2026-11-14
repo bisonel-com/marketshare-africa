@@ -1,0 +1,133 @@
+{
+  "slug": "nigeria/browser-versions-combined-desktop",
+  "scope": "country",
+  "market": "Nigeria",
+  "marketSlug": "nigeria",
+  "marketCode": "NG",
+  "category": "Browser versions (combined) (Desktop)",
+  "categorySlug": "browser-versions-combined-desktop",
+  "family": "Browser versions (partially combined)",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-partially-combined-market-share/desktop/nigeria",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; versions partially combined by major lineage.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome (all) led browser versions (combined) (desktop) in Nigeria at 75.01% (market share of tracked page views / usage). Edge 79+ ranked second at 9.99%, followed by Firefox 5+ at 9.28%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (combined) (desktop) in Nigeria?",
+      "answer": "Chrome (all) leads at 75.01% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-partially-combined-market-share/desktop/nigeria."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (combined) (desktop) in Nigeria?",
+      "answer": "Chrome (all) (75.01%), Edge 79+ (9.99%), Firefox 5+ (9.28%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome (all)",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 75.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Edge 79+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Firefox 5+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Opera 15+",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.41,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Brave 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.76,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Safari 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.54,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Safari 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.27,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Safari 605.1",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.2,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Safari 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Safari 17.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.11,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Nigeria",
+  "countryCode": "NG"
+}

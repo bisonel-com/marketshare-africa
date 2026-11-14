@@ -1,0 +1,124 @@
+{
+  "slug": "turkey/browsers-desktop",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Browsers (Desktop)",
+  "categorySlug": "browsers-desktop",
+  "family": "Browsers",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/desktop/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (desktop) in Turkey at 76.56% (market share of tracked page views / usage). Opera ranked second at 7.23%, followed by Edge at 6.99%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (desktop) in Turkey?",
+      "answer": "Chrome leads at 76.56% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/desktop/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (desktop) in Turkey?",
+      "answer": "Chrome (76.56%), Opera (7.23%), Edge (6.99%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 76.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Yandex Browser",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Mozilla",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

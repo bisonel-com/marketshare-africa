@@ -1,0 +1,70 @@
+{
+  "slug": "brazil/platform-share",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "Platform share",
+  "categorySlug": "platform-share",
+  "family": "Platform share",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/platform-market-share/brazil",
+  "source": "statcounter",
+  "methodologyNote": "Share of page views by platform (Desktop, Mobile, Tablet, Console).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Desktop led platform share in Brazil at 64.66% (market share of tracked page views / usage). Mobile ranked second at 34.65%, followed by Tablet at 0.61%.",
+  "faqs": [
+    {
+      "question": "Which item leads platform share in Brazil?",
+      "answer": "Desktop leads at 64.66% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/platform-market-share/brazil."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for platform share in Brazil?",
+      "answer": "Desktop (64.66%), Mobile (34.65%), Tablet (0.61%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Desktop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 64.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 34.65,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Tablet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.61,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Brazil",
+  "countryCode": "BR"
+}

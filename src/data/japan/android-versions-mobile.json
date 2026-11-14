@@ -1,0 +1,133 @@
+{
+  "slug": "japan/android-versions-mobile",
+  "scope": "country",
+  "market": "Japan",
+  "marketSlug": "japan",
+  "marketCode": "JP",
+  "category": "Android versions (Mobile)",
+  "categorySlug": "android-versions-mobile",
+  "family": "Android versions",
+  "device": "mobile",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/mobile/japan",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 16.0 led android versions (mobile) in Japan at 36.63% (market share of tracked page views / usage). 17.0 ranked second at 14.29%, followed by 14.0 at 11.56%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (mobile) in Japan?",
+      "answer": "16.0 leads at 36.63% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/mobile/japan."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (mobile) in Japan?",
+      "answer": "16.0 (36.63%), 17.0 (14.29%), 14.0 (11.56%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 36.63,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "17.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.29,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 11.56,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.16,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "12.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.7,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Japan",
+  "countryCode": "JP"
+}

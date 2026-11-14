@@ -1,0 +1,133 @@
+{
+  "slug": "australia/browser-versions-desktop",
+  "scope": "country",
+  "market": "Australia",
+  "marketSlug": "australia",
+  "marketCode": "AU",
+  "category": "Browser versions (Desktop)",
+  "categorySlug": "browser-versions-desktop",
+  "family": "Browser versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/desktop/australia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome 155.0 led browser versions (desktop) in Australia at 18.0% (market share of tracked page views / usage). Chrome 154.0 ranked second at 16.36%, followed by Edge 155 at 7.32%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (desktop) in Australia?",
+      "answer": "Chrome 155.0 leads at 18.0% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/desktop/australia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (desktop) in Australia?",
+      "answer": "Chrome 155.0 (18.0%), Chrome 154.0 (16.36%), Edge 155 (7.32%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome 155.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.0,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Chrome 154.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 16.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge 155",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Chrome 156.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Safari 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.49,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Edge 154",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.99,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Edge 156",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.33,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Chrome 153.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.93,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Mozilla 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.14,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Safari 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Australia",
+  "countryCode": "AU"
+}

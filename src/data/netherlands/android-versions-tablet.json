@@ -1,0 +1,133 @@
+{
+  "slug": "netherlands/android-versions-tablet",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Android versions (Tablet)",
+  "categorySlug": "android-versions-tablet",
+  "family": "Android versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/android-version-market-share/tablet/netherlands",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of Android traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, 16.0 led android versions (tablet) in Netherlands at 28.61% (market share of tracked page views / usage). 14.0 ranked second at 23.58%, followed by 11.0 at 12.23%.",
+  "faqs": [
+    {
+      "question": "Which item leads android versions (tablet) in Netherlands?",
+      "answer": "16.0 leads at 28.61% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/android-version-market-share/tablet/netherlands."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for android versions (tablet) in Netherlands?",
+      "answer": "16.0 (28.61%), 14.0 (23.58%), 11.0 (12.23%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "16.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 28.61,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "14.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 23.58,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "11.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 12.23,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "12.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.32,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "13.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "15.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "10.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "8.1 Oreo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.05,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "9.0 Pie",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.15,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "4.4 KitKat",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

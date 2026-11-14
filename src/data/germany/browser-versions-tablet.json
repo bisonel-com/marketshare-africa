@@ -1,0 +1,133 @@
+{
+  "slug": "germany/browser-versions-tablet",
+  "scope": "country",
+  "market": "Germany",
+  "marketSlug": "germany",
+  "marketCode": "DE",
+  "category": "Browser versions (Tablet)",
+  "categorySlug": "browser-versions-tablet",
+  "family": "Browser versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/tablet/germany",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome for Android led browser versions (tablet) in Germany at 46.74% (market share of tracked page views / usage). Safari iPad ranked second at 20.77%, followed by Chrome iPad at 14.71%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (tablet) in Germany?",
+      "answer": "Chrome for Android leads at 46.74% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/tablet/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (tablet) in Germany?",
+      "answer": "Chrome for Android (46.74%), Safari iPad (20.77%), Chrome iPad (14.71%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome for Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 46.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari iPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 20.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Chrome iPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 14.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Android 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Samsung Internet 30.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera 102.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Opera 103.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.59,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Ecosia 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Edge 153",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Samsung Internet 26.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Germany",
+  "countryCode": "DE"
+}

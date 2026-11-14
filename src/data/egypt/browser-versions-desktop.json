@@ -1,0 +1,133 @@
+{
+  "slug": "egypt/browser-versions-desktop",
+  "scope": "country",
+  "market": "Egypt",
+  "marketSlug": "egypt",
+  "marketCode": "EG",
+  "category": "Browser versions (Desktop)",
+  "categorySlug": "browser-versions-desktop",
+  "family": "Browser versions",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-version-market-share/desktop/egypt",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views with full browser version detail.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome 155.0 led browser versions (desktop) in Egypt at 24.08% (market share of tracked page views / usage). Chrome 154.0 ranked second at 15.95%, followed by Chrome 156.0 at 9.95%.",
+  "faqs": [
+    {
+      "question": "Which item leads browser versions (desktop) in Egypt?",
+      "answer": "Chrome 155.0 leads at 24.08% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-version-market-share/desktop/egypt."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browser versions (desktop) in Egypt?",
+      "answer": "Chrome 155.0 (24.08%), Chrome 154.0 (15.95%), Chrome 156.0 (9.95%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome 155.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 24.08,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Chrome 154.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 15.95,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Chrome 156.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.95,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Chrome 109.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.4,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Edge 155",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.96,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Brave 0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.12,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Chrome 146.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Edge 154",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.31,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Edge 156",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.9,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Firefox 158.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.85,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Egypt",
+  "countryCode": "EG"
+}

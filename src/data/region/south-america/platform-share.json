@@ -1,0 +1,68 @@
+{
+  "slug": "region/south-america/platform-share",
+  "scope": "region",
+  "market": "South America",
+  "marketSlug": "south-america",
+  "marketCode": "sa",
+  "category": "Platform share",
+  "categorySlug": "platform-share",
+  "family": "Platform share",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/platform-market-share/south-america",
+  "source": "statcounter",
+  "methodologyNote": "Share of page views by platform (Desktop, Mobile, Tablet, Console).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Desktop led platform share in South America at 55.66% (market share of tracked page views / usage). Mobile ranked second at 43.73%, followed by Tablet at 0.57%.",
+  "faqs": [
+    {
+      "question": "Which item leads platform share in South America?",
+      "answer": "Desktop leads at 55.66% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/platform-market-share/south-america."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for platform share in South America?",
+      "answer": "Desktop (55.66%), Mobile (43.73%), Tablet (0.57%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Desktop",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 55.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Mobile",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 43.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Tablet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true
+}

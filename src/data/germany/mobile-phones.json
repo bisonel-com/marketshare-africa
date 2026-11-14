@@ -6,118 +6,128 @@
   "marketCode": "DE",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/germany",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Samsung led mobile phones in Germany at 39.7% (market share of tracked page views / usage). Apple ranked second at 27.72%, followed by Xiaomi at 21.33%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in Germany?",
+      "answer": "Samsung leads at 39.7% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/germany."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in Germany?",
+      "answer": "Samsung (39.7%), Apple (27.72%), Xiaomi (21.33%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 39.7,
-      "yoyChange": 7.15,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 27.72,
-      "yoyChange": -10.72,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 21.33,
-      "yoyChange": 11.96,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Google",
-      "parentCompany": "Alphabet Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.61,
-      "yoyChange": -3.45,
-      "segment": "Premium / Pixel",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Huawei",
-      "parentCompany": "Huawei Technologies",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.48,
-      "yoyChange": -0.46,
-      "segment": "Mid / Premium",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Honor",
-      "parentCompany": "Honor Device Co.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.9,
-      "yoyChange": 0.32,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Motorola",
-      "parentCompany": "Lenovo Group",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.65,
-      "yoyChange": -0.44,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.46,
-      "yoyChange": -0.26,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Realme",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.36,
-      "yoyChange": -0.28,
-      "segment": "Value / Youth",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "OnePlus",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.31,
-      "yoyChange": -0.22,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Germany",
-  "countryCode": "DE",
-  "aiSummary": "In October 2026, Samsung led mobile phones market share in Germany at 39.7% according to Statcounter Global Stats. Apple ranked second at 27.72%, followed by Xiaomi at 21.33%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in Germany?",
-      "answer": "Samsung leads with 39.7% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/germany)."
-    },
-    {
-      "question": "How is mobile phones market share measured for Germany?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in Germany?",
-      "answer": "Samsung (39.7%), Apple (27.72%), Xiaomi (21.33%) in October 2026."
-    }
-  ]
+  "countryCode": "DE"
 }

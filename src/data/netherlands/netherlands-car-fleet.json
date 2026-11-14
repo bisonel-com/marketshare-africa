@@ -1,0 +1,133 @@
+{
+  "slug": "netherlands/netherlands-car-fleet",
+  "scope": "country",
+  "market": "Netherlands",
+  "marketSlug": "netherlands",
+  "marketCode": "NL",
+  "category": "Netherlands Car Fleet by Brand",
+  "categorySlug": "netherlands-car-fleet",
+  "family": "Vehicles",
+  "device": "fleet",
+  "period": "November 2026 extract",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "RDW Open Data (m9d7-ebf2)",
+  "sourceUrl": "https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2",
+  "source": "rdw",
+  "methodologyNote": "Share of vehicle records by brand (merk) from RDW registered vehicles open dataset. Fleet stock, not sales.",
+  "metricLabel": "share of registered passenger cars (fleet)",
+  "licenceName": "Public domain (Dutch government open data)",
+  "licenceUrl": "https://data.overheid.nl/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "Credit: RDW (Netherlands vehicle authority) open data.",
+  "aiSummary": "In RDW extract 2026-11-14, Volkswagen led netherlands car fleet by brand in Netherlands at 9.04% (share of registered passenger cars (fleet)). Peugeot ranked second at 4.97%, followed by Toyota at 4.91%.",
+  "faqs": [
+    {
+      "question": "Which item leads netherlands car fleet by brand in Netherlands?",
+      "answer": "Volkswagen leads at 9.04% in RDW extract 2026-11-14 (share of registered passenger cars (fleet)). Source: https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2."
+    },
+    {
+      "question": "What does the share of registered passenger cars (fleet) metric mean?",
+      "answer": "Figures are share of registered passenger cars (fleet) from the cited source for RDW extract 2026-11-14. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for netherlands car fleet by brand in Netherlands?",
+      "answer": "Volkswagen (9.04%), Peugeot (4.97%), Toyota (4.91%) in RDW extract 2026-11-14."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Volkswagen",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 9.04,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Peugeot",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.97,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Toyota",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.91,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Ford",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Renault",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opel",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.37,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Mercedes-Benz",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.25,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Bmw",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.72,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Kia",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Volvo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Netherlands",
+  "countryCode": "NL"
+}

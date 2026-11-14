@@ -1,0 +1,97 @@
+{
+  "slug": "turkey/os-combined",
+  "scope": "country",
+  "market": "Turkey",
+  "marketSlug": "turkey",
+  "marketCode": "TR",
+  "category": "Operating systems (combined)",
+  "categorySlug": "os-combined",
+  "family": "Operating systems (combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/turkey",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Android led operating systems (combined) in Turkey at 61.28% (market share of tracked page views / usage). iOS ranked second at 18.44%, followed by Windows at 17.44%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) in Turkey?",
+      "answer": "Android leads at 61.28% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/turkey."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) in Turkey?",
+      "answer": "Android (61.28%), iOS (18.44%), Windows (17.44%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 61.28,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 17.44,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.19,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.74,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Turkey",
+  "countryCode": "TR"
+}

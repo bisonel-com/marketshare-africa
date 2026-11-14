@@ -6,73 +6,97 @@
   "marketCode": "CA",
   "category": "Mobile Phones",
   "categorySlug": "mobile-phones",
+  "family": "Device vendors",
+  "device": "mobile",
   "period": "October 2026",
   "lastUpdated": "2026-11-14",
   "sourceName": "Statcounter Global Stats",
   "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/canada",
-  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led mobile phones in Canada at 64.74% (market share of tracked page views / usage). Samsung ranked second at 23.68%, followed by Google at 5.4%.",
+  "faqs": [
+    {
+      "question": "Which item leads mobile phones in Canada?",
+      "answer": "Apple leads at 64.74% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/mobile/canada."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for mobile phones in Canada?",
+      "answer": "Apple (64.74%), Samsung (23.68%), Google (5.4%) in October 2026."
+    }
+  ],
   "rankings": [
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Apple Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 64.74,
-      "yoyChange": 6.39,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Samsung Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 23.68,
-      "yoyChange": 0.4,
-      "segment": "All Tiers / Galaxy A & S",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Google",
-      "parentCompany": "Alphabet Inc.",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 5.4,
-      "yoyChange": -3.89,
-      "segment": "Premium / Pixel",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Motorola",
-      "parentCompany": "Lenovo Group",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.6,
-      "yoyChange": 0.09,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Xiaomi",
-      "parentCompany": "Xiaomi Corporation",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 1.11,
-      "yoyChange": -0.63,
-      "segment": "Value / Redmi Series",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "OnePlus",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.4,
-      "yoyChange": -0.02,
-      "segment": "Premium / Flagship",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Huawei",
-      "parentCompany": "Huawei Technologies",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.26,
-      "yoyChange": -0.27,
-      "segment": "Mid / Premium",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
@@ -80,44 +104,30 @@
       "brand": "LG",
       "parentCompany": "Independent / Listed",
       "sharePercent": 0.23,
-      "yoyChange": -0.11,
+      "yoyChange": null,
       "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Vivo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.19,
-      "yoyChange": -0.12,
-      "segment": "Mid-Range",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Oppo",
-      "parentCompany": "BBK Electronics",
+      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
-      "yoyChange": -0.06,
-      "segment": "Mid-Range / Reno",
+      "yoyChange": null,
+      "segment": "Consumer Market",
       "highlight": false
     }
   ],
+  "hasData": true,
   "country": "Canada",
-  "countryCode": "CA",
-  "aiSummary": "In October 2026, Apple led mobile phones market share in Canada at 64.74% according to Statcounter Global Stats. Samsung ranked second at 23.68%, followed by Google at 5.4%.",
-  "faqs": [
-    {
-      "question": "Which brand leads mobile phones market share in Canada?",
-      "answer": "Apple leads with 64.74% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/canada)."
-    },
-    {
-      "question": "How is mobile phones market share measured for Canada?",
-      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
-    },
-    {
-      "question": "What are the top three mobile phones brands in Canada?",
-      "answer": "Apple (64.74%), Samsung (23.68%), Google (5.4%) in October 2026."
-    }
-  ]
+  "countryCode": "CA"
 }

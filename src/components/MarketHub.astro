@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { SITE_NAME, withBase } from '../config/site';
+import { withBase } from '../config/site';
 import type { MarketData } from '../utils/types';
 
 interface Props {
@@ -10,35 +10,56 @@ interface Props {
 }
 
 const { marketName, datasets, canonicalPath } = Astro.props;
+const byFamily = new Map<string, MarketData[]>();
+for (const d of datasets) {
+  const fam = d.family || 'Other';
+  const list = byFamily.get(fam) || [];
+  list.push(d);
+  byFamily.set(fam, list);
+}
 ---
 
 <BaseLayout
-  title={`${marketName} market share rankings | ${SITE_NAME}`}
-  description={`Browse Statcounter-sourced brand market share rankings for ${marketName}.`}
+  title={`${marketName} market share rankings | Global Market Share`}
+  description={`Browse brand and technology rankings for ${marketName}. Coverage varies by category.`}
   canonicalPath={canonicalPath}
 >
   <section class="mx-auto max-w-5xl px-4 py-12 sm:px-6">
     <h1 class="font-display text-3xl font-bold text-ink-950 sm:text-4xl">{marketName}</h1>
-    <p class="mt-3 text-ink-600">Choose a category to open the latest ranking.</p>
-    <ul class="mt-8 grid gap-4 sm:grid-cols-2">
+    <p class="mt-3 max-w-2xl text-ink-600">
+      Categories available for this market. Worldwide-only and single-country sources appear only
+      where they apply. See the{' '}
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/categories/')}>categories hub</a>.
+    </p>
+    <div class="mt-8 space-y-8">
       {
-        datasets.map((d) => {
-          const leader = d.rankings[0];
-          return (
-            <li>
-              <a
-                href={withBase(`/${d.slug}/`)}
-                class="block rounded-xl border border-ink-200 bg-white/80 p-5 shadow-soft hover:border-canopy-500/40"
-              >
-                <div class="font-display text-xl font-semibold text-ink-950">{d.category}</div>
-                <div class="mt-2 text-sm text-ink-600">
-                  Leader: {leader.brand} at {leader.sharePercent.toFixed(2)}% ({d.period})
-                </div>
-              </a>
-            </li>
-          );
-        })
+        [...byFamily.entries()].map(([family, items]) => (
+          <div>
+            <h2 class="text-sm font-semibold uppercase tracking-wide text-canopy-700">{family}</h2>
+            <ul class="mt-3 grid gap-3 sm:grid-cols-2">
+              {items.map((d) => {
+                const leader = d.rankings[0];
+                const hasData = d.hasData !== false && d.rankings.length >= 3;
+                return (
+                  <li>
+                    <a
+                      href={withBase(`/${d.slug}/`)}
+                      class="block rounded-xl border border-ink-200 bg-white/80 p-4 shadow-soft hover:border-canopy-500/40"
+                    >
+                      <div class="font-display text-lg font-semibold text-ink-950">{d.category}</div>
+                      <div class="mt-1 text-sm text-ink-600">
+                        {hasData
+                          ? `Leader: ${leader.brand} at ${leader.sharePercent.toFixed(2)}% (${d.period})`
+                          : `No data for this market (${d.period})`}
+                      </div>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        ))
       }
-    </ul>
+    </div>
   </section>
 </BaseLayout>

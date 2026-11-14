@@ -1,0 +1,115 @@
+{
+  "slug": "saudi-arabia/browsers-desktop",
+  "scope": "country",
+  "market": "Saudi Arabia",
+  "marketSlug": "saudi-arabia",
+  "marketCode": "SA",
+  "category": "Browsers (Desktop)",
+  "categorySlug": "browsers-desktop",
+  "family": "Browsers",
+  "device": "desktop",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/desktop/saudi-arabia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views across tracked network traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Chrome led browsers (desktop) in Saudi Arabia at 70.71% (market share of tracked page views / usage). Mozilla ranked second at 8.68%, followed by Edge at 7.96%.",
+  "faqs": [
+    {
+      "question": "Which item leads browsers (desktop) in Saudi Arabia?",
+      "answer": "Chrome leads at 70.71% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/browser-market-share/desktop/saudi-arabia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for browsers (desktop) in Saudi Arabia?",
+      "answer": "Chrome (70.71%), Mozilla (8.68%), Edge (7.96%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 70.71,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Mozilla",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 8.68,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 7.96,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Safari",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 6.81,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Firefox",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.89,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Opera",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.3,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.26,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Samsung Internet",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.24,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Saudi Arabia",
+  "countryCode": "SA"
+}

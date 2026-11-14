@@ -1,0 +1,106 @@
+{
+  "slug": "spain/os-combined",
+  "scope": "country",
+  "market": "Spain",
+  "marketSlug": "spain",
+  "marketCode": "ES",
+  "category": "Operating systems (combined)",
+  "categorySlug": "os-combined",
+  "family": "Operating systems (combined)",
+  "device": "all",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/os-market-share/spain",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views; OS families combined (e.g. Windows).",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Android led operating systems (combined) in Spain at 49.8% (market share of tracked page views / usage). Windows ranked second at 24.57%, followed by iOS at 18.79%.",
+  "faqs": [
+    {
+      "question": "Which item leads operating systems (combined) in Spain?",
+      "answer": "Android leads at 49.8% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/os-market-share/spain."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for operating systems (combined) in Spain?",
+      "answer": "Android (49.8%), Windows (24.57%), iOS (18.79%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Android",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 49.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Windows",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 24.57,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 18.79,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "OS X",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 2.82,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Linux",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.75,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "macOS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 1.73,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Chrome OS",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.53,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Spain",
+  "countryCode": "ES"
+}

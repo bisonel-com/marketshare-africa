@@ -1,0 +1,133 @@
+{
+  "slug": "indonesia/tablet-vendors",
+  "scope": "country",
+  "market": "Indonesia",
+  "marketSlug": "indonesia",
+  "marketCode": "ID",
+  "category": "Tablet Vendors",
+  "categorySlug": "tablet-vendors",
+  "family": "Device vendors",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/tablet/indonesia",
+  "source": "statcounter",
+  "methodologyNote": "Measured via active device web usage across tracked traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, Apple led tablet vendors in Indonesia at 37.94% (market share of tracked page views / usage). Samsung ranked second at 25.36%, followed by Xiaomi at 22.69%.",
+  "faqs": [
+    {
+      "question": "Which item leads tablet vendors in Indonesia?",
+      "answer": "Apple leads at 37.94% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/vendor-market-share/tablet/indonesia."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for tablet vendors in Indonesia?",
+      "answer": "Apple (37.94%), Samsung (25.36%), Xiaomi (22.69%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 37.94,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 25.36,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 22.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Huawei",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.01,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Infinix",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Lenovo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.69,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Honor",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.6,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Oppo",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.52,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "woPad",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.5,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Realme",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 0.34,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Indonesia",
+  "countryCode": "ID"
+}

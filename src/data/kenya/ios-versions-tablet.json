@@ -1,0 +1,133 @@
+{
+  "slug": "kenya/ios-versions-tablet",
+  "scope": "country",
+  "market": "Kenya",
+  "marketSlug": "kenya",
+  "marketCode": "KE",
+  "category": "iOS versions (Tablet)",
+  "categorySlug": "ios-versions-tablet",
+  "family": "iOS versions",
+  "device": "tablet",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/ios-version-market-share/tablet/kenya",
+  "source": "statcounter",
+  "methodologyNote": "Measured via page views of iOS traffic.",
+  "metricLabel": "market share of tracked page views / usage",
+  "licenceName": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "derivedLicenceName": "CC BY-SA 4.0",
+  "derivedLicenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionNote": "",
+  "aiSummary": "In October 2026, iOS 26.6 led ios versions (tablet) in Kenya at 29.09% (market share of tracked page views / usage). iOS 16.7 ranked second at 13.77%, followed by iOS 7.0 at 10.67%.",
+  "faqs": [
+    {
+      "question": "Which item leads ios versions (tablet) in Kenya?",
+      "answer": "iOS 26.6 leads at 29.09% in October 2026 (market share of tracked page views / usage). Source: https://gs.statcounter.com/ios-version-market-share/tablet/kenya."
+    },
+    {
+      "question": "What does the market share of tracked page views / usage metric mean?",
+      "answer": "Figures are market share of tracked page views / usage from the cited source for October 2026. They are not invented estimates."
+    },
+    {
+      "question": "What are the top three for ios versions (tablet) in Kenya?",
+      "answer": "iOS 26.6 (29.09%), iOS 16.7 (13.77%), iOS 7.0 (10.67%) in October 2026."
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "iOS 26.6",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 29.09,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "iOS 16.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 13.77,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "iOS 7.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 10.67,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "iOS 27.0",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 5.83,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "iOS 18.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.8,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "iOS 12.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.35,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "iOS 26.5",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.17,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "iOS 5.1",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 4.07,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "iOS 26.7",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.87,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "iOS 10.3",
+      "parentCompany": "Independent / Listed",
+      "sharePercent": 3.66,
+      "yoyChange": null,
+      "segment": "Consumer Market",
+      "highlight": false
+    }
+  ],
+  "hasData": true,
+  "country": "Kenya",
+  "countryCode": "KE"
+}
