@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { withBase } from '../config/site';
+import { SITE_NAME, withBase } from '../config/site';
 import type { MarketData } from '../utils/types';
 
 interface Props {
@@ -13,7 +13,7 @@ const { marketName, datasets, canonicalPath } = Astro.props;
 ---
 
 <BaseLayout
-  title={`${marketName} market share rankings | GMarketShare`}
+  title={`${marketName} market share rankings | ${SITE_NAME}`}
   description={`Browse Statcounter-sourced brand market share rankings for ${marketName}.`}
   canonicalPath={canonicalPath}
 >

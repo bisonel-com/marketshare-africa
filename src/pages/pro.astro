@@ -2,12 +2,12 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ProPaywallModal from '../components/ProPaywallModal.astro';
 import { PRO_CSV_ENABLED } from '../config/monetisation';
-import { withBase } from '../config/site';
+import { SITE_NAME, withBase } from '../config/site';
 ---
 
 <BaseLayout
-  title="Pro CSV | GMarketShare"
-  description="Pro CSV export for GMarketShare is coming soon while licence review is pending."
+  title={`Pro CSV | ${SITE_NAME}`}
+  description={`Pro CSV export for ${SITE_NAME} is coming soon while licence review is pending.`}
   canonicalPath="/pro/"
   noIndex={true}
 >
@@ -19,7 +19,7 @@ import { withBase } from '../config/site';
     <p class="mt-4 text-base leading-relaxed text-ink-700">
       {
         PRO_CSV_ENABLED
-          ? 'Download bulk CSV exports of GMarketShare rankings. Lemon Squeezy is the primary checkout; Paystack is available for African buyers.'
+          ? `Download bulk CSV exports of ${SITE_NAME} rankings. Lemon Squeezy is the primary checkout; Paystack is available for African buyers.`
           : 'Bulk CSV export is offline while we finish the licence question for redistributing Statcounter-derived tables. Checkout (Lemon Squeezy primary, Paystack for African buyers), download, and local unlock are disabled (PRO_CSV_ENABLED=false).'
       }
     </p>

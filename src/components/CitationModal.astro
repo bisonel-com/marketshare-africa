@@ -1,6 +1,6 @@
 ---
 import type { MarketData } from '../utils/types';
-import { canonicalUrl } from '../config/site';
+import { SITE_NAME, canonicalUrl } from '../config/site';
 
 interface Props {
   data: MarketData;
@@ -8,7 +8,7 @@ interface Props {
 
 const { data } = Astro.props;
 const pageUrl = canonicalUrl(`/${data.slug}/`);
-const citation = `${data.sourceName}. (${data.period}). ${data.category} market share in ${data.market}. Retrieved from ${data.sourceUrl}. Licensed under CC BY-SA 3.0. Cited via GMarketShare: ${pageUrl}`;
+const citation = `${data.sourceName}. (${data.period}). ${data.category} market share in ${data.market}. Retrieved from ${data.sourceUrl}. Licensed under CC BY-SA 3.0. Cited via ${SITE_NAME}: ${pageUrl}`;
 ---
 
 <dialog

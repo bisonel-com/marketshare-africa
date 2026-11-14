@@ -1,6 +1,6 @@
 ---
 import { PRO_CSV_ENABLED } from '../config/monetisation';
-import { withBase } from '../config/site';
+import { SITE_NAME, withBase } from '../config/site';
 
 interface Props {
   slug?: string;
@@ -36,7 +36,7 @@ const proHref = withBase('/pro/');
       ) : (
         <>
           <p>
-            Bulk CSV export for GMarketShare rankings is not available yet.
+            Bulk CSV export for {SITE_NAME} rankings is not available yet.
             Licence review is still pending, so checkout and local unlock stay off.
           </p>
           <p>

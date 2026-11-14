@@ -33,7 +33,7 @@ jobs:
 
       - name: Build
         env:
-          # Until gmarketshare.com DNS is live, keep the github.io project subpath.
+          # Until xmarketshare.com DNS is live, keep the github.io project subpath.
           # After setting the custom domain in Pages settings, set repo variable
           # PAGES_BASE to '/' (or delete it once default becomes '/').
           SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa' }}

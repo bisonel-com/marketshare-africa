@@ -2,7 +2,9 @@
 
 Market share rankings worldwide and by country, sourced from [Statcounter Global Stats](https://gs.statcounter.com/) (CC BY-SA 3.0). Built with Astro. Repo: `bisonel-com/marketshare-africa`.
 
-**Canonical site:** https://gmarketshare.com  
+Brand name lives in `src/config/site.ts` as `SITE_NAME` (one-line rename later if needed).
+
+**Canonical site:** https://xmarketshare.com  
 **GitHub Pages preview (until DNS is live):** https://bisonel-com.github.io/marketshare-africa/
 
 ## Quick start
@@ -55,11 +57,11 @@ python scripts/scrape_marketshare.py
 SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa' }}
 ```
 
-`public/CNAME` contains `gmarketshare.com`. Canonical URLs, OG, sitemap, robots.txt, and JSON-LD use `https://gmarketshare.com`.
+`public/CNAME` contains `xmarketshare.com`. Canonical URLs, OG, sitemap, robots.txt, and JSON-LD use `https://xmarketshare.com`.
 
 ### Switch to the custom domain (one ops step)
 
-1. In GitHub Pages settings, set the custom domain to `gmarketshare.com` and wait for DNS/TLS.
+1. In GitHub Pages settings, set the custom domain to `xmarketshare.com` and wait for DNS/TLS.
 2. Set repository variable `PAGES_BASE` to `/` (or empty once you change the workflow default).
 3. Redeploy. No code change required beyond that variable.
 
@@ -73,10 +75,10 @@ SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa'
 | `REPLACE_WITH_LEMON_SQUEEZY_*` | Primary checkout (global); unused while Pro is off |
 | `REPLACE_WITH_PAYSTACK_PUBLIC_KEY` | Secondary checkout for African buyers; unused while Pro is off |
 | `REPLACE_WITH_ANALYTICS_DOMAIN` | Analytics loads nothing; `window.msaTrack` is a safe no-op |
-| `PRO_CSV_ENABLED` | `false` — Pro is coming-soon only |
+| `PRO_CSV_ENABLED` | `false` (Pro is coming-soon only) |
 | `REPLACE_WITH_GMARKETSHARE_X_HANDLE` / LinkedIn | Social placeholders in `src/config/site.ts` |
 
-`public/ads.txt` uses the AdSense publisher placeholder for gmarketshare.com.
+`public/ads.txt` uses the AdSense publisher placeholder for xmarketshare.com.
 
 ## Licence
 

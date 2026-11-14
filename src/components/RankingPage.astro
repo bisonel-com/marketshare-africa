@@ -5,7 +5,7 @@ import FilterBar from './FilterBar.astro';
 import ProPaywallModal from './ProPaywallModal.astro';
 import RankingTable from './RankingTable.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { canonicalUrl, siteOrigin, withBase } from '../config/site';
+import { SITE_NAME, canonicalUrl, siteOrigin, withBase } from '../config/site';
 import type { MarketData } from '../utils/types';
 
 interface Props {
@@ -18,7 +18,7 @@ const { data, hubHref, hubLabel } = Astro.props;
 const leader = data.rankings[0];
 const n = data.rankings.length;
 const marketLabel = data.market;
-const title = `Top ${n} ${data.category} Brands in ${marketLabel} (${data.period}) | GMarketShare`;
+const title = `Top ${n} ${data.category} Brands in ${marketLabel} (${data.period}) | ${SITE_NAME}`;
 const description = `Latest ${data.period} market share rankings for ${data.category} in ${marketLabel}. ${leader.brand} leads at ${leader.sharePercent}%. Source: Statcounter Global Stats.`;
 const pagePath = `/${data.slug}/`;
 const origin = siteOrigin();
@@ -27,10 +27,10 @@ const pathPrefix = data.slug.replace(/\/[^/]+$/, '');
 const datasetLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
-  name: title.replace(' | GMarketShare', ''),
+  name: title.replace(` | ${SITE_NAME}`, ''),
   description,
   creator: { '@type': 'Organization', name: 'Bisonel Ltd' },
-  publisher: { '@type': 'Organization', name: 'GMarketShare', url: origin },
+  publisher: { '@type': 'Organization', name: SITE_NAME, url: origin },
   citation: data.sourceName,
   dateModified: data.lastUpdated,
   spatialCoverage: data.scope === 'worldwide' ? 'Worldwide' : data.market,
