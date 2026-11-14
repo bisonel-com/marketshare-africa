@@ -1,0 +1,8 @@
+---
+import MarketHub from '../../components/MarketHub.astro';
+import { getDataForMarketPath } from '../../utils/data';
+
+const datasets = getDataForMarketPath('worldwide');
+---
+
+<MarketHub marketName="Worldwide" datasets={datasets} canonicalPath="/worldwide/" />

@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../config/site';
+---
+
+<BaseLayout
+  title="About & methodology | GMarketShare"
+  description="How GMarketShare collects, filters, and credits Statcounter Global Stats market-share data worldwide and by country."
+  canonicalPath="/about/"
+>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="font-display text-3xl font-bold text-ink-950 sm:text-4xl">About & methodology</h1>
+    <p class="mt-4 text-base leading-relaxed text-ink-700">
+      GMarketShare is a Bisonel Ltd project that republishes brand market-share rankings worldwide
+      and by country from Statcounter Global Stats. Every percentage on this site comes from a
+      Statcounter monthly CSV download. We do not invent, estimate, or seed figures.
+    </p>
+
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Coverage</h2>
+    <p class="mt-4 text-ink-700">
+      Markets are config-driven in <code class="rounded bg-ink-100 px-1 text-sm">src/config/markets.json</code>:
+      Worldwide, six regions (including Africa as a region), and about twenty countries. Categories
+      are Mobile Phones and Web Browsers.
+    </p>
+
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">What we measure</h2>
+    <ul class="mt-4 list-disc space-y-2 pl-5 text-ink-700">
+      <li>
+        <strong>Mobile phones:</strong> vendor market share from active mobile web usage across
+        tracked regional network traffic.
+      </li>
+      <li>
+        <strong>Web browsers:</strong> browser market share from page views across desktop, mobile,
+        and tablet traffic.
+      </li>
+    </ul>
+
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">How rankings are built</h2>
+    <ol class="mt-4 list-decimal space-y-2 pl-5 text-ink-700">
+      <li>Download the latest complete calendar month CSV from Statcounter for each market.</li>
+      <li>Drop Other and Unknown rows, and any brand at or below 0.1% share.</li>
+      <li>Keep the top 10 remaining brands (minimum 3 required to publish a page).</li>
+      <li>
+        Year-over-year change is shown only when the same month from the prior year was also
+        fetched successfully; otherwise it stays blank.
+      </li>
+    </ol>
+
+    <h2 class="mt-10 font-display text-2xl font-semibold text-ink-950">Licence & credit</h2>
+    <p class="mt-4 text-ink-700">
+      Source:{' '}
+      <a class="font-semibold text-canopy-700 underline" href="https://gs.statcounter.com/" rel="noopener noreferrer">
+        Statcounter Global Stats
+      </a>
+      . Data is licensed under{' '}
+      <a
+        class="font-semibold text-canopy-700 underline"
+        href="https://creativecommons.org/licenses/by-sa/3.0/"
+        rel="noopener noreferrer"
+      >
+        CC BY-SA 3.0
+      </a>
+      . Please credit Statcounter when you reuse these figures.
+    </p>
+
+    <p class="mt-8">
+      <a class="font-semibold text-canopy-700 underline" href={withBase('/')}>Back to rankings</a>
+    </p>
+  </article>
+</BaseLayout>

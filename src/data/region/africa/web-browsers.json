@@ -1,0 +1,112 @@
+{
+  "slug": "region/africa/web-browsers",
+  "scope": "region",
+  "market": "Africa",
+  "marketSlug": "africa",
+  "marketCode": "af",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/africa",
+  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Google",
+      "sharePercent": 75.47,
+      "yoyChange": -0.27,
+      "segment": "Desktop & Mobile",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Apple",
+      "sharePercent": 9.08,
+      "yoyChange": 0.97,
+      "segment": "iOS & macOS",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Opera",
+      "parentCompany": "Opera Norway / Opera Ltd",
+      "sharePercent": 4.93,
+      "yoyChange": -2.17,
+      "segment": "Mobile & Desktop",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Samsung Internet",
+      "parentCompany": "Samsung",
+      "sharePercent": 3.59,
+      "yoyChange": 0.23,
+      "segment": "Android Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Edge",
+      "parentCompany": "Microsoft",
+      "sharePercent": 3.37,
+      "yoyChange": 0.51,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Firefox",
+      "parentCompany": "Mozilla",
+      "sharePercent": 2.29,
+      "yoyChange": 0.77,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Brave Software",
+      "sharePercent": 0.53,
+      "yoyChange": -0.02,
+      "segment": "Privacy Browser",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "UC Browser",
+      "parentCompany": "Alibaba (UCWeb)",
+      "sharePercent": 0.37,
+      "yoyChange": 0.18,
+      "segment": "Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Android",
+      "parentCompany": "Google",
+      "sharePercent": 0.11,
+      "yoyChange": -0.13,
+      "segment": "WebView / System",
+      "highlight": false
+    }
+  ],
+  "aiSummary": "In October 2026, Chrome led web browsers market share in Africa at 75.47% according to Statcounter Global Stats. Safari ranked second at 9.08%, followed by Opera at 4.93%.",
+  "faqs": [
+    {
+      "question": "Which brand leads web browsers market share in Africa?",
+      "answer": "Chrome leads with 75.47% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/africa)."
+    },
+    {
+      "question": "How is web browsers market share measured for Africa?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three web browsers brands in Africa?",
+      "answer": "Chrome (75.47%), Safari (9.08%), Opera (4.93%) in October 2026."
+    }
+  ]
+}

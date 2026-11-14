@@ -1,0 +1,23 @@
+---
+import RankingPage from '../../components/RankingPage.astro';
+import { categories, countries } from '../../config/markets';
+import { getMarketDataBySlug } from '../../utils/data';
+
+export function getStaticPaths() {
+  return countries.flatMap((c) =>
+    categories.map((cat) => ({
+      params: { country: c.slug, category: cat.slug },
+    }))
+  );
+}
+
+const { country, category } = Astro.params;
+const data = getMarketDataBySlug(`${country}/${category}`);
+if (!data) throw new Error(`Missing data for ${country}/${category}`);
+---
+
+<RankingPage
+  data={data}
+  hubHref={`/${country}/`}
+  hubLabel={`More ${data.market} rankings`}
+/>

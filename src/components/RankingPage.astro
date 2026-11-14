@@ -1,0 +1,167 @@
+---
+import AdSlot from './AdSlot.astro';
+import CitationModal from './CitationModal.astro';
+import FilterBar from './FilterBar.astro';
+import ProPaywallModal from './ProPaywallModal.astro';
+import RankingTable from './RankingTable.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { canonicalUrl, siteOrigin, withBase } from '../config/site';
+import type { MarketData } from '../utils/types';
+
+interface Props {
+  data: MarketData;
+  hubHref: string;
+  hubLabel: string;
+}
+
+const { data, hubHref, hubLabel } = Astro.props;
+const leader = data.rankings[0];
+const n = data.rankings.length;
+const marketLabel = data.market;
+const title = `Top ${n} ${data.category} Brands in ${marketLabel} (${data.period}) | GMarketShare`;
+const description = `Latest ${data.period} market share rankings for ${data.category} in ${marketLabel}. ${leader.brand} leads at ${leader.sharePercent}%. Source: Statcounter Global Stats.`;
+const pagePath = `/${data.slug}/`;
+const origin = siteOrigin();
+const pathPrefix = data.slug.replace(/\/[^/]+$/, '');
+
+const datasetLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: title.replace(' | GMarketShare', ''),
+  description,
+  creator: { '@type': 'Organization', name: 'Bisonel Ltd' },
+  publisher: { '@type': 'Organization', name: 'GMarketShare', url: origin },
+  citation: data.sourceName,
+  dateModified: data.lastUpdated,
+  spatialCoverage: data.scope === 'worldwide' ? 'Worldwide' : data.market,
+  variableMeasured: 'Market share percent',
+  license: 'https://creativecommons.org/licenses/by-sa/3.0/',
+  isBasedOn: data.sourceUrl,
+  url: canonicalUrl(pagePath),
+};
+
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: data.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
+---
+
+<BaseLayout title={title} description={description} canonicalPath={pagePath} jsonLd={[datasetLd, faqLd]}>
+  <FilterBar pathPrefix={pathPrefix} categorySlug={data.categorySlug} />
+
+  <div class="mx-auto max-w-5xl px-4 pt-4 sm:px-6">
+    <AdSlot format="leaderboard" />
+  </div>
+
+  <article class="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
+    <header class="animate-fade-up max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[0.16em] text-canopy-700">
+        {marketLabel} · {data.period}
+      </p>
+      <h1 class="mt-2 font-display text-3xl font-bold leading-tight text-ink-950 sm:text-4xl">
+        Top {n} {data.category} Brands in {marketLabel}
+      </h1>
+      <p class="mt-4 text-base leading-relaxed text-ink-700">{data.aiSummary}</p>
+      <div class="mt-5 flex flex-wrap gap-2">
+        <button
+          type="button"
+          id="open-citation"
+          class="rounded-lg border border-ink-300 bg-white px-3 py-2 text-sm font-semibold text-ink-800 hover:bg-ink-50"
+        >
+          Cite this data
+        </button>
+        <button
+          type="button"
+          data-open-pro="ranking-page"
+          class="rounded-lg border border-ink-300 bg-white px-3 py-2 text-sm font-semibold text-ink-800 hover:bg-ink-50"
+        >
+          Pro CSV
+        </button>
+      </div>
+    </header>
+
+    <div class="mt-8">
+      <RankingTable rankings={data.rankings} />
+    </div>
+
+    <section class="mt-8 rounded-xl border border-ink-200 bg-white/70 p-5 text-sm leading-relaxed text-ink-700">
+      <h2 class="font-display text-lg font-semibold text-ink-950">Source & licence</h2>
+      <p class="mt-2">
+        Source:{' '}
+        <a class="font-semibold text-canopy-700 underline" href={data.sourceUrl} rel="noopener noreferrer">
+          Statcounter Global Stats
+        </a>
+        . Data licensed under{' '}
+        <a
+          class="font-semibold text-canopy-700 underline"
+          href="https://creativecommons.org/licenses/by-sa/3.0/"
+          rel="noopener noreferrer"
+        >
+          CC BY-SA 3.0
+        </a>
+        .
+      </p>
+      <p class="mt-2 text-ink-600">{data.methodologyNote}</p>
+      <p class="mt-2 text-xs text-ink-500">Last updated {data.lastUpdated}.</p>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="font-display text-2xl font-semibold text-ink-950">FAQ</h2>
+      <dl class="mt-4 space-y-4">
+        {
+          data.faqs.map((f) => (
+            <div class="rounded-xl border border-ink-200 bg-white/70 p-4">
+              <dt class="font-semibold text-ink-900">{f.question}</dt>
+              <dd class="mt-2 text-sm leading-relaxed text-ink-700">{f.answer}</dd>
+            </div>
+          ))
+        }
+      </dl>
+    </section>
+
+    <p class="mt-10 text-sm">
+      <a class="font-semibold text-canopy-700 underline" href={withBase(hubHref)}>
+        {hubLabel}
+      </a>
+    </p>
+  </article>
+
+  <div
+    id="anchor-ad"
+    class="fixed inset-x-0 bottom-0 z-30 border-t border-ink-200 bg-white/95 p-2 shadow-soft md:hidden"
+  >
+    <div class="relative mx-auto max-w-5xl">
+      <button
+        type="button"
+        id="dismiss-anchor"
+        class="absolute -top-2 right-1 z-10 rounded-full bg-ink-900 px-2 py-0.5 text-xs font-semibold text-white"
+        aria-label="Close"
+      >
+        Close
+      </button>
+      <AdSlot format="anchor" />
+    </div>
+  </div>
+  <div class="h-[66px] md:hidden" aria-hidden="true" id="anchor-spacer"></div>
+
+  <CitationModal data={data} />
+  <ProPaywallModal slug={data.slug} />
+
+  <script is:inline>
+    (function () {
+      var btn = document.getElementById('dismiss-anchor');
+      var bar = document.getElementById('anchor-ad');
+      var spacer = document.getElementById('anchor-spacer');
+      if (!btn || !bar) return;
+      btn.addEventListener('click', function () {
+        bar.remove();
+        if (spacer) spacer.remove();
+      });
+    })();
+  </script>
+</BaseLayout>

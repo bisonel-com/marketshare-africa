@@ -1,0 +1,123 @@
+{
+  "slug": "spain/mobile-phones",
+  "scope": "country",
+  "market": "Spain",
+  "marketSlug": "spain",
+  "marketCode": "ES",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/spain",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 27.23,
+      "yoyChange": -1.51,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 27.19,
+      "yoyChange": 0.82,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 26.37,
+      "yoyChange": 3.1,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 6.24,
+      "yoyChange": 0.68,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 2.29,
+      "yoyChange": 0.26,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 1.99,
+      "yoyChange": 0.73,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.85,
+      "yoyChange": 0.52,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Google",
+      "parentCompany": "Alphabet Inc.",
+      "sharePercent": 1.16,
+      "yoyChange": -0.58,
+      "segment": "Premium / Pixel",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.05,
+      "yoyChange": -0.68,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 0.89,
+      "yoyChange": -0.77,
+      "segment": "Mid / Premium",
+      "highlight": false
+    }
+  ],
+  "country": "Spain",
+  "countryCode": "ES",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Spain at 27.23% according to Statcounter Global Stats. Samsung ranked second at 27.19%, followed by Xiaomi at 26.37%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Spain?",
+      "answer": "Apple leads with 27.23% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/spain)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Spain?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Spain?",
+      "answer": "Apple (27.23%), Samsung (27.19%), Xiaomi (26.37%) in October 2026."
+    }
+  ]
+}

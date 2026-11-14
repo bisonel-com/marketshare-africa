@@ -1,0 +1,96 @@
+{
+  "slug": "brazil/web-browsers",
+  "scope": "country",
+  "market": "Brazil",
+  "marketSlug": "brazil",
+  "marketCode": "BR",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/brazil",
+  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Google",
+      "sharePercent": 79.18,
+      "yoyChange": -12.28,
+      "segment": "Desktop & Mobile",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Safari",
+      "parentCompany": "Apple",
+      "sharePercent": 7.67,
+      "yoyChange": 5.16,
+      "segment": "iOS & macOS",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Microsoft",
+      "sharePercent": 6.33,
+      "yoyChange": 3.81,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox",
+      "parentCompany": "Mozilla",
+      "sharePercent": 2.74,
+      "yoyChange": 1.92,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Opera",
+      "parentCompany": "Opera Norway / Opera Ltd",
+      "sharePercent": 2.39,
+      "yoyChange": 0.71,
+      "segment": "Mobile & Desktop",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Samsung Internet",
+      "parentCompany": "Samsung",
+      "sharePercent": 0.99,
+      "yoyChange": 0.49,
+      "segment": "Android Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Brave",
+      "parentCompany": "Brave Software",
+      "sharePercent": 0.51,
+      "yoyChange": 0.23,
+      "segment": "Privacy Browser",
+      "highlight": false
+    }
+  ],
+  "country": "Brazil",
+  "countryCode": "BR",
+  "aiSummary": "In October 2026, Chrome led web browsers market share in Brazil at 79.18% according to Statcounter Global Stats. Safari ranked second at 7.67%, followed by Edge at 6.33%.",
+  "faqs": [
+    {
+      "question": "Which brand leads web browsers market share in Brazil?",
+      "answer": "Chrome leads with 79.18% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/brazil)."
+    },
+    {
+      "question": "How is web browsers market share measured for Brazil?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three web browsers brands in Brazil?",
+      "answer": "Chrome (79.18%), Safari (7.67%), Edge (6.33%) in October 2026."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "region/europe/mobile-phones",
+  "scope": "region",
+  "market": "Europe",
+  "marketSlug": "europe",
+  "marketCode": "eu",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/europe",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 36.31,
+      "yoyChange": -1.46,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 33.57,
+      "yoyChange": 2.35,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 14.6,
+      "yoyChange": 4.0,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 2.13,
+      "yoyChange": -0.25,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.95,
+      "yoyChange": 0.11,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Google",
+      "parentCompany": "Alphabet Inc.",
+      "sharePercent": 1.91,
+      "yoyChange": -1.34,
+      "segment": "Premium / Pixel",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 1.74,
+      "yoyChange": 0.42,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Huawei",
+      "parentCompany": "Huawei Technologies",
+      "sharePercent": 1.18,
+      "yoyChange": -0.81,
+      "segment": "Mid / Premium",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "OnePlus",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.69,
+      "yoyChange": -0.13,
+      "segment": "Premium / Flagship",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.62,
+      "yoyChange": -0.52,
+      "segment": "Value / Youth",
+      "highlight": false
+    }
+  ],
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Europe at 36.31% according to Statcounter Global Stats. Samsung ranked second at 33.57%, followed by Xiaomi at 14.6%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Europe?",
+      "answer": "Apple leads with 36.31% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/europe)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Europe?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Europe?",
+      "answer": "Apple (36.31%), Samsung (33.57%), Xiaomi (14.6%) in October 2026."
+    }
+  ]
+}

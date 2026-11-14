@@ -1,0 +1,193 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_DESCRIPTION, SITE_NAME, withBase } from '../config/site';
+import { categories, countries, regions, worldwide } from '../config/markets';
+import { getAllMarketData } from '../utils/data';
+
+const datasets = getAllMarketData();
+const featuredSlugs = [
+  'worldwide/mobile-phones',
+  'united-states/mobile-phones',
+  'india/mobile-phones',
+  'region/africa/mobile-phones',
+  'nigeria/mobile-phones',
+  'brazil/mobile-phones',
+];
+const featured = featuredSlugs
+  .map((slug) => datasets.find((d) => d.slug === slug))
+  .filter(Boolean);
+
+const searchIndex = datasets.map((d) => ({
+  slug: d.slug,
+  label: `${d.market} · ${d.category}`,
+  market: d.market,
+  category: d.category,
+  href: withBase(`/${d.slug}/`),
+}));
+---
+
+<BaseLayout title={`${SITE_NAME} | Market share rankings worldwide and by country`} description={SITE_DESCRIPTION}>
+  <section class="relative overflow-hidden border-b border-ink-200/80" style="background: var(--gradient-hero);">
+    <div class="pointer-events-none absolute inset-0 opacity-40" aria-hidden="true">
+      <div class="absolute -left-16 top-8 h-56 w-56 rounded-full bg-canopy-400/30 blur-3xl"></div>
+      <div class="absolute bottom-0 right-0 h-64 w-64 rounded-full bg-savanna-400/25 blur-3xl"></div>
+    </div>
+    <div class="relative mx-auto max-w-5xl px-4 pb-14 pt-12 sm:px-6 sm:pb-16 sm:pt-16">
+      <p class="animate-fade-up text-xs font-semibold uppercase tracking-[0.18em] text-canopy-700">
+        Bisonel Ltd
+      </p>
+      <h1 class="animate-fade-up mt-3 max-w-xl font-display text-4xl font-bold leading-[1.1] tracking-tight text-ink-950 sm:text-5xl">
+        GMarketShare
+      </h1>
+      <p class="animate-fade-up-delay mt-4 max-w-lg text-base leading-relaxed text-ink-700 sm:text-lg">
+        Market share rankings worldwide and by country, sourced from Statcounter Global Stats.
+      </p>
+      <div class="animate-fade-up-delay mt-8 flex flex-wrap gap-3">
+        <a
+          href={withBase('/worldwide/mobile-phones/')}
+          class="inline-flex items-center justify-center rounded-lg bg-canopy-600 px-5 py-3 text-sm font-semibold text-white shadow-soft hover:bg-canopy-700"
+        >
+          Worldwide mobiles
+        </a>
+        <a
+          href={withBase('/about/')}
+          class="inline-flex items-center justify-center rounded-lg border border-ink-300 bg-white/70 px-5 py-3 text-sm font-semibold text-ink-800 hover:bg-white"
+        >
+          Methodology
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 py-10 sm:px-6 sm:py-12">
+    <label class="block">
+      <span class="text-xs font-semibold uppercase tracking-wide text-ink-500">Search markets</span>
+      <input
+        id="market-search"
+        type="search"
+        autocomplete="off"
+        placeholder="Country, region, or category"
+        class="mt-2 w-full rounded-xl border border-ink-200 bg-white px-4 py-3 text-base text-ink-900 shadow-sm placeholder:text-ink-400"
+      />
+    </label>
+    <ul id="search-results" class="mt-3 hidden divide-y divide-ink-100 overflow-hidden rounded-xl border border-ink-200 bg-white" role="listbox"></ul>
+    <script is:inline type="application/json" id="search-index" set:html={JSON.stringify(searchIndex)} />
+    <script is:inline>
+      (function () {
+        var input = document.getElementById('market-search');
+        var list = document.getElementById('search-results');
+        var raw = document.getElementById('search-index');
+        if (!input || !list || !raw) return;
+        var items = [];
+        try { items = JSON.parse(raw.textContent || '[]'); } catch (e) { items = []; }
+        function render(q) {
+          var query = (q || '').trim().toLowerCase();
+          if (!query) { list.classList.add('hidden'); list.innerHTML = ''; return; }
+          var hits = items.filter(function (it) {
+            return (it.label + ' ' + it.market + ' ' + it.category).toLowerCase().indexOf(query) !== -1;
+          }).slice(0, 8);
+          list.innerHTML = hits.map(function (it) {
+            return '<li><a class="block px-4 py-3 text-sm text-ink-800 hover:bg-ink-50" href="' + it.href + '">' + it.label + '</a></li>';
+          }).join('');
+          list.classList.toggle('hidden', hits.length === 0);
+        }
+        input.addEventListener('input', function () { render(input.value); });
+      })();
+    </script>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 pb-8 sm:px-6">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Featured markets</h2>
+    <p class="mt-2 max-w-2xl text-sm text-ink-600">
+      Latest mobile phone share leaders across worldwide, regional, and country views.
+    </p>
+    <ul class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {
+        featured.map((d) => {
+          if (!d) return null;
+          const leader = d.rankings[0];
+          return (
+            <li>
+              <a
+                href={withBase(`/${d.slug}/`)}
+                class="block rounded-xl border border-ink-200 bg-white/80 p-5 shadow-soft transition hover:border-canopy-500/40 hover:bg-white"
+              >
+                <div class="text-xs font-semibold uppercase tracking-wide text-ink-500">{d.market}</div>
+                <div class="mt-2 font-display text-xl font-semibold text-ink-950">{leader.brand}</div>
+                <div class="mt-1 text-sm text-ink-600">
+                  {leader.sharePercent.toFixed(2)}% · {d.period}
+                </div>
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-10">
+    <h2 class="font-display text-2xl font-semibold text-ink-950">Browse markets</h2>
+    <p class="mt-2 text-sm text-ink-600">Worldwide, regions, and countries for each category.</p>
+
+    <div class="mt-8 space-y-8">
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wide text-canopy-700">Worldwide</h3>
+        <ul class="mt-3 flex flex-wrap gap-2">
+          {
+            categories.map((cat) => (
+              <li>
+                <a
+                  class="inline-flex rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm font-medium text-ink-800 hover:border-canopy-500/50 hover:text-canopy-700"
+                  href={withBase(`/worldwide/${cat.slug}/`)}
+                >
+                  {cat.name}
+                </a>
+              </li>
+            ))
+          }
+          <li>
+            <a class="inline-flex rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm font-medium text-ink-800 hover:border-canopy-500/50" href={withBase('/worldwide/')}>
+              Hub
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wide text-canopy-700">Regions</h3>
+        <ul class="mt-3 flex flex-wrap gap-2">
+          {
+            regions.map((r) => (
+              <li>
+                <a
+                  class="inline-flex rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm font-medium text-ink-800 hover:border-canopy-500/50 hover:text-canopy-700"
+                  href={withBase(`/region/${r.slug}/`)}
+                >
+                  {r.name}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-sm font-semibold uppercase tracking-wide text-canopy-700">Countries</h3>
+        <ul class="mt-3 flex flex-wrap gap-2">
+          {
+            countries.map((c) => (
+              <li>
+                <a
+                  class="inline-flex rounded-lg border border-ink-200 bg-white px-3 py-2 text-sm font-medium text-ink-800 hover:border-canopy-500/50 hover:text-canopy-700"
+                  href={withBase(`/${c.slug}/`)}
+                >
+                  {c.name}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

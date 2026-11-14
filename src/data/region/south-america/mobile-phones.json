@@ -1,0 +1,121 @@
+{
+  "slug": "region/south-america/mobile-phones",
+  "scope": "region",
+  "market": "South America",
+  "marketSlug": "south-america",
+  "marketCode": "sa",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/south-america",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 24.22,
+      "yoyChange": -2.99,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 20.72,
+      "yoyChange": 5.32,
+      "segment": "Premium / Flagship",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 12.85,
+      "yoyChange": 2.25,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 11.59,
+      "yoyChange": -1.21,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 1.65,
+      "yoyChange": 1.11,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 1.28,
+      "yoyChange": 0.72,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 1.2,
+      "yoyChange": 0.75,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Tecno",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 1.17,
+      "yoyChange": 0.55,
+      "segment": "Budget / Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "ZTE",
+      "parentCompany": "ZTE Corporation",
+      "sharePercent": 0.48,
+      "yoyChange": 0.3,
+      "segment": "Budget",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 0.43,
+      "yoyChange": -0.32,
+      "segment": "Value / Youth",
+      "highlight": false
+    }
+  ],
+  "aiSummary": "In October 2026, Samsung led mobile phones market share in South America at 24.22% according to Statcounter Global Stats. Apple ranked second at 20.72%, followed by Xiaomi at 12.85%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in South America?",
+      "answer": "Samsung leads with 24.22% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/south-america)."
+    },
+    {
+      "question": "How is mobile phones market share measured for South America?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in South America?",
+      "answer": "Samsung (24.22%), Apple (20.72%), Xiaomi (12.85%) in October 2026."
+    }
+  ]
+}

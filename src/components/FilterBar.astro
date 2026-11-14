@@ -1,0 +1,88 @@
+---
+import { withBase } from '../config/site';
+import { categories, countries, regions, worldwide } from '../config/markets';
+import type { MarketConfig } from '../config/markets';
+
+interface Props {
+  pathPrefix: string;
+  categorySlug: string;
+}
+
+const { pathPrefix, categorySlug } = Astro.props;
+const base = withBase('/');
+
+const options: { group: string; markets: MarketConfig[] }[] = [
+  { group: 'Worldwide', markets: [worldwide] },
+  { group: 'Regions', markets: regions },
+  { group: 'Countries', markets: countries },
+];
+
+const flat = [worldwide, ...regions, ...countries];
+const current = flat.find((m) => m.pathPrefix === pathPrefix) ?? worldwide;
+---
+
+<nav
+  class="sticky top-0 z-40 border-b border-ink-200/80 bg-ink-50/95 backdrop-blur-md"
+  aria-label="Market filters"
+  data-base={base}
+>
+  <div class="mx-auto flex max-w-5xl flex-wrap items-end gap-3 px-4 py-3 sm:px-6">
+    <label class="flex min-w-[10rem] flex-[2] flex-col gap-1 text-xs font-medium uppercase tracking-wide text-ink-500">
+      Market
+      <select
+        id="filter-market"
+        class="rounded-lg border border-ink-200 bg-white px-3 py-2.5 text-sm font-medium text-ink-900 shadow-sm"
+        data-current={current.pathPrefix}
+      >
+        {
+          options.map((group) => (
+            <optgroup label={group.group}>
+              {group.markets.map((m) => (
+                <option value={m.pathPrefix} selected={m.pathPrefix === pathPrefix}>
+                  {m.name}
+                </option>
+              ))}
+            </optgroup>
+          ))
+        }
+      </select>
+    </label>
+    <label class="flex min-w-[9rem] flex-1 flex-col gap-1 text-xs font-medium uppercase tracking-wide text-ink-500">
+      Category
+      <select
+        id="filter-category"
+        class="rounded-lg border border-ink-200 bg-white px-3 py-2.5 text-sm font-medium text-ink-900 shadow-sm"
+        data-current={categorySlug}
+      >
+        {
+          categories.map((c) => (
+            <option value={c.slug} selected={c.slug === categorySlug}>
+              {c.name}
+            </option>
+          ))
+        }
+      </select>
+    </label>
+  </div>
+</nav>
+
+<script is:inline>
+  (function () {
+    var nav = document.querySelector('[aria-label="Market filters"]');
+    if (!nav) return;
+    var base = (nav.getAttribute('data-base') || '/').replace(/\/$/, '');
+    var marketEl = document.getElementById('filter-market');
+    var categoryEl = document.getElementById('filter-category');
+    function go() {
+      var market = marketEl && marketEl.value;
+      var category = categoryEl && categoryEl.value;
+      if (!market || !category) return;
+      if (window.msaTrack) {
+        window.msaTrack('filter_change', { country: market, category: category });
+      }
+      window.location.href = base + '/' + market + '/' + category + '/';
+    }
+    if (marketEl) marketEl.addEventListener('change', go);
+    if (categoryEl) categoryEl.addEventListener('change', go);
+  })();
+</script>

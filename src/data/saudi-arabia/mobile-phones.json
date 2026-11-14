@@ -1,0 +1,123 @@
+{
+  "slug": "saudi-arabia/mobile-phones",
+  "scope": "country",
+  "market": "Saudi Arabia",
+  "marketSlug": "saudi-arabia",
+  "marketCode": "SA",
+  "category": "Mobile Phones",
+  "categorySlug": "mobile-phones",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/vendor-market-share/mobile/saudi-arabia",
+  "methodologyNote": "Measured via active mobile web usage across tracked regional network traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Apple",
+      "parentCompany": "Apple Inc.",
+      "sharePercent": 42.0,
+      "yoyChange": 16.4,
+      "segment": "Premium / Flagship",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Samsung",
+      "parentCompany": "Samsung Electronics",
+      "sharePercent": 16.94,
+      "yoyChange": 1.32,
+      "segment": "All Tiers / Galaxy A & S",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Honor",
+      "parentCompany": "Honor Device Co.",
+      "sharePercent": 6.87,
+      "yoyChange": 3.81,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Xiaomi",
+      "parentCompany": "Xiaomi Corporation",
+      "sharePercent": 6.11,
+      "yoyChange": -3.58,
+      "segment": "Value / Redmi Series",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Vivo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 5.44,
+      "yoyChange": -1.65,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Infinix",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 3.99,
+      "yoyChange": 0.08,
+      "segment": "Budget / Gaming",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Oppo",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 3.93,
+      "yoyChange": -1.5,
+      "segment": "Mid-Range / Reno",
+      "highlight": false
+    },
+    {
+      "rank": 8,
+      "brand": "Motorola",
+      "parentCompany": "Lenovo Group",
+      "sharePercent": 3.31,
+      "yoyChange": 0.04,
+      "segment": "Mid-Range",
+      "highlight": false
+    },
+    {
+      "rank": 9,
+      "brand": "Realme",
+      "parentCompany": "BBK Electronics",
+      "sharePercent": 2.45,
+      "yoyChange": -2.88,
+      "segment": "Value / Youth",
+      "highlight": false
+    },
+    {
+      "rank": 10,
+      "brand": "Tecno",
+      "parentCompany": "Transsion Holdings",
+      "sharePercent": 2.43,
+      "yoyChange": -0.57,
+      "segment": "Budget / Mid-Range",
+      "highlight": false
+    }
+  ],
+  "country": "Saudi Arabia",
+  "countryCode": "SA",
+  "aiSummary": "In October 2026, Apple led mobile phones market share in Saudi Arabia at 42.0% according to Statcounter Global Stats. Samsung ranked second at 16.94%, followed by Honor at 6.87%.",
+  "faqs": [
+    {
+      "question": "Which brand leads mobile phones market share in Saudi Arabia?",
+      "answer": "Apple leads with 42.0% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/vendor-market-share/mobile/saudi-arabia)."
+    },
+    {
+      "question": "How is mobile phones market share measured for Saudi Arabia?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three mobile phones brands in Saudi Arabia?",
+      "answer": "Apple (42.0%), Samsung (16.94%), Honor (6.87%) in October 2026."
+    }
+  ]
+}

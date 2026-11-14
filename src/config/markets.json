@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "name": "Mobile Phones",
+      "slug": "mobile-phones",
+      "chartKind": "vendor",
+      "sourcePath": "vendor-market-share/mobile",
+      "methodology": "Measured via active mobile web usage across tracked regional network traffic.",
+      "params": {
+        "device": "Mobile",
+        "device_hidden": "mobile",
+        "statType_hidden": "vendor",
+        "statType": "Device Vendor"
+      }
+    },
+    {
+      "name": "Web Browsers",
+      "slug": "web-browsers",
+      "chartKind": "browser",
+      "sourcePath": "browser-market-share",
+      "methodology": "Measured via page views across desktop, mobile, and tablet web traffic.",
+      "params": {
+        "device": "Desktop & Mobile & Tablet",
+        "device_hidden": "desktop+mobile+tablet",
+        "statType_hidden": "browser",
+        "statType": "Browser"
+      }
+    }
+  ],
+  "worldwide": {
+    "scope": "worldwide",
+    "name": "Worldwide",
+    "slug": "worldwide",
+    "code": "ww",
+    "statcounterRegion": "Worldwide",
+    "pathPrefix": "worldwide"
+  },
+  "regions": [
+    {
+      "scope": "region",
+      "name": "Africa",
+      "slug": "africa",
+      "code": "af",
+      "statcounterRegion": "Africa",
+      "pathPrefix": "region/africa"
+    },
+    {
+      "scope": "region",
+      "name": "Asia",
+      "slug": "asia",
+      "code": "as",
+      "statcounterRegion": "Asia",
+      "pathPrefix": "region/asia"
+    },
+    {
+      "scope": "region",
+      "name": "Europe",
+      "slug": "europe",
+      "code": "eu",
+      "statcounterRegion": "Europe",
+      "pathPrefix": "region/europe"
+    },
+    {
+      "scope": "region",
+      "name": "North America",
+      "slug": "north-america",
+      "code": "na",
+      "statcounterRegion": "North America",
+      "pathPrefix": "region/north-america"
+    },
+    {
+      "scope": "region",
+      "name": "South America",
+      "slug": "south-america",
+      "code": "sa",
+      "statcounterRegion": "South America",
+      "pathPrefix": "region/south-america"
+    },
+    {
+      "scope": "region",
+      "name": "Oceania",
+      "slug": "oceania",
+      "code": "oc",
+      "statcounterRegion": "Oceania",
+      "pathPrefix": "region/oceania"
+    }
+  ],
+  "countries": [
+    {
+      "scope": "country",
+      "name": "United States",
+      "slug": "united-states",
+      "code": "US",
+      "statcounterRegion": "United States",
+      "pathPrefix": "united-states"
+    },
+    {
+      "scope": "country",
+      "name": "United Kingdom",
+      "slug": "united-kingdom",
+      "code": "GB",
+      "statcounterRegion": "United Kingdom",
+      "pathPrefix": "united-kingdom"
+    },
+    {
+      "scope": "country",
+      "name": "India",
+      "slug": "india",
+      "code": "IN",
+      "statcounterRegion": "India",
+      "pathPrefix": "india"
+    },
+    {
+      "scope": "country",
+      "name": "Brazil",
+      "slug": "brazil",
+      "code": "BR",
+      "statcounterRegion": "Brazil",
+      "pathPrefix": "brazil"
+    },
+    {
+      "scope": "country",
+      "name": "Germany",
+      "slug": "germany",
+      "code": "DE",
+      "statcounterRegion": "Germany",
+      "pathPrefix": "germany"
+    },
+    {
+      "scope": "country",
+      "name": "France",
+      "slug": "france",
+      "code": "FR",
+      "statcounterRegion": "France",
+      "pathPrefix": "france"
+    },
+    {
+      "scope": "country",
+      "name": "Japan",
+      "slug": "japan",
+      "code": "JP",
+      "statcounterRegion": "Japan",
+      "pathPrefix": "japan"
+    },
+    {
+      "scope": "country",
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "code": "ID",
+      "statcounterRegion": "Indonesia",
+      "pathPrefix": "indonesia"
+    },
+    {
+      "scope": "country",
+      "name": "Mexico",
+      "slug": "mexico",
+      "code": "MX",
+      "statcounterRegion": "Mexico",
+      "pathPrefix": "mexico"
+    },
+    {
+      "scope": "country",
+      "name": "Nigeria",
+      "slug": "nigeria",
+      "code": "NG",
+      "statcounterRegion": "Nigeria",
+      "pathPrefix": "nigeria"
+    },
+    {
+      "scope": "country",
+      "name": "South Africa",
+      "slug": "south-africa",
+      "code": "ZA",
+      "statcounterRegion": "South Africa",
+      "pathPrefix": "south-africa"
+    },
+    {
+      "scope": "country",
+      "name": "Kenya",
+      "slug": "kenya",
+      "code": "KE",
+      "statcounterRegion": "Kenya",
+      "pathPrefix": "kenya"
+    },
+    {
+      "scope": "country",
+      "name": "Egypt",
+      "slug": "egypt",
+      "code": "EG",
+      "statcounterRegion": "Egypt",
+      "pathPrefix": "egypt"
+    },
+    {
+      "scope": "country",
+      "name": "Canada",
+      "slug": "canada",
+      "code": "CA",
+      "statcounterRegion": "Canada",
+      "pathPrefix": "canada"
+    },
+    {
+      "scope": "country",
+      "name": "Australia",
+      "slug": "australia",
+      "code": "AU",
+      "statcounterRegion": "Australia",
+      "pathPrefix": "australia"
+    },
+    {
+      "scope": "country",
+      "name": "Spain",
+      "slug": "spain",
+      "code": "ES",
+      "statcounterRegion": "Spain",
+      "pathPrefix": "spain"
+    },
+    {
+      "scope": "country",
+      "name": "Italy",
+      "slug": "italy",
+      "code": "IT",
+      "statcounterRegion": "Italy",
+      "pathPrefix": "italy"
+    },
+    {
+      "scope": "country",
+      "name": "Turkey",
+      "slug": "turkey",
+      "code": "TR",
+      "statcounterRegion": "Turkey",
+      "pathPrefix": "turkey"
+    },
+    {
+      "scope": "country",
+      "name": "Saudi Arabia",
+      "slug": "saudi-arabia",
+      "code": "SA",
+      "statcounterRegion": "Saudi Arabia",
+      "pathPrefix": "saudi-arabia"
+    },
+    {
+      "scope": "country",
+      "name": "Philippines",
+      "slug": "philippines",
+      "code": "PH",
+      "statcounterRegion": "Philippines",
+      "pathPrefix": "philippines"
+    }
+  ]
+}

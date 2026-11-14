@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProPaywallModal from '../components/ProPaywallModal.astro';
+import { PRO_CSV_ENABLED } from '../config/monetisation';
+import { withBase } from '../config/site';
+---
+
+<BaseLayout
+  title="Pro CSV | GMarketShare"
+  description="Pro CSV export for GMarketShare is coming soon while licence review is pending."
+  canonicalPath="/pro/"
+  noIndex={true}
+>
+  <section class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
+    <p class="text-xs font-semibold uppercase tracking-[0.16em] text-savanna-600">Pro</p>
+    <h1 class="mt-3 font-display text-3xl font-bold text-ink-950 sm:text-4xl">
+      {PRO_CSV_ENABLED ? 'Unlock Pro CSV' : 'Pro CSV coming soon'}
+    </h1>
+    <p class="mt-4 text-base leading-relaxed text-ink-700">
+      {
+        PRO_CSV_ENABLED
+          ? 'Download bulk CSV exports of GMarketShare rankings. Lemon Squeezy is the primary checkout; Paystack is available for African buyers.'
+          : 'Bulk CSV export is offline while we finish the licence question for redistributing Statcounter-derived tables. Checkout (Lemon Squeezy primary, Paystack for African buyers), download, and local unlock are disabled (PRO_CSV_ENABLED=false).'
+      }
+    </p>
+    <ul class="mt-8 space-y-3 text-sm text-ink-700">
+      <li class="flex gap-2"><span aria-hidden="true">·</span> Multi-market CSV bundles</li>
+      <li class="flex gap-2"><span aria-hidden="true">·</span> Period-stamped exports</li>
+      <li class="flex gap-2"><span aria-hidden="true">·</span> Source URLs included in every file</li>
+    </ul>
+    <div class="mt-10 flex flex-wrap gap-3">
+      <button
+        type="button"
+        data-open-pro="pro-page"
+        class="inline-flex items-center justify-center rounded-lg bg-ink-900 px-5 py-3 text-sm font-semibold text-white hover:bg-ink-800"
+      >
+        Get notified
+      </button>
+      <a
+        href={withBase('/')}
+        class="inline-flex items-center justify-center rounded-lg border border-ink-300 bg-white px-5 py-3 text-sm font-semibold text-ink-800"
+      >
+        Back to rankings
+      </a>
+    </div>
+  </section>
+  <ProPaywallModal slug="pro" />
+</BaseLayout>

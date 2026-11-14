@@ -1,0 +1,96 @@
+{
+  "slug": "kenya/web-browsers",
+  "scope": "country",
+  "market": "Kenya",
+  "marketSlug": "kenya",
+  "marketCode": "KE",
+  "category": "Web Browsers",
+  "categorySlug": "web-browsers",
+  "period": "October 2026",
+  "lastUpdated": "2026-11-14",
+  "sourceName": "Statcounter Global Stats",
+  "sourceUrl": "https://gs.statcounter.com/browser-market-share/kenya",
+  "methodologyNote": "Measured via page views across desktop, mobile, and tablet web traffic.",
+  "rankings": [
+    {
+      "rank": 1,
+      "brand": "Chrome",
+      "parentCompany": "Google",
+      "sharePercent": 70.44,
+      "yoyChange": -2.66,
+      "segment": "Desktop & Mobile",
+      "highlight": true
+    },
+    {
+      "rank": 2,
+      "brand": "Opera",
+      "parentCompany": "Opera Norway / Opera Ltd",
+      "sharePercent": 16.06,
+      "yoyChange": -0.93,
+      "segment": "Mobile & Desktop",
+      "highlight": false
+    },
+    {
+      "rank": 3,
+      "brand": "Edge",
+      "parentCompany": "Microsoft",
+      "sharePercent": 5.8,
+      "yoyChange": 2.98,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 4,
+      "brand": "Firefox",
+      "parentCompany": "Mozilla",
+      "sharePercent": 3.59,
+      "yoyChange": 2.0,
+      "segment": "Desktop & Mobile",
+      "highlight": false
+    },
+    {
+      "rank": 5,
+      "brand": "Safari",
+      "parentCompany": "Apple",
+      "sharePercent": 2.08,
+      "yoyChange": -0.41,
+      "segment": "iOS & macOS",
+      "highlight": false
+    },
+    {
+      "rank": 6,
+      "brand": "Brave",
+      "parentCompany": "Brave Software",
+      "sharePercent": 0.68,
+      "yoyChange": -0.18,
+      "segment": "Privacy Browser",
+      "highlight": false
+    },
+    {
+      "rank": 7,
+      "brand": "Samsung Internet",
+      "parentCompany": "Samsung",
+      "sharePercent": 0.68,
+      "yoyChange": -0.71,
+      "segment": "Android Mobile",
+      "highlight": false
+    }
+  ],
+  "country": "Kenya",
+  "countryCode": "KE",
+  "aiSummary": "In October 2026, Chrome led web browsers market share in Kenya at 70.44% according to Statcounter Global Stats. Opera ranked second at 16.06%, followed by Edge at 5.8%.",
+  "faqs": [
+    {
+      "question": "Which brand leads web browsers market share in Kenya?",
+      "answer": "Chrome leads with 70.44% share in October 2026, based on Statcounter Global Stats (https://gs.statcounter.com/browser-market-share/kenya)."
+    },
+    {
+      "question": "How is web browsers market share measured for Kenya?",
+      "answer": "Figures come from Statcounter Global Stats monthly CSV downloads. They reflect measured network traffic, not survey estimates or sales units."
+    },
+    {
+      "question": "What are the top three web browsers brands in Kenya?",
+      "answer": "Chrome (70.44%), Opera (16.06%), Edge (5.8%) in October 2026."
+    }
+  ]
+}
