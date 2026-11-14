@@ -1,0 +1,40 @@
+---
+import {
+  DERIVED_LICENSE_NAME,
+  DERIVED_LICENSE_URL,
+  SOURCE_HOME_URL,
+  SOURCE_LICENSE_NAME,
+  SOURCE_LICENSE_URL,
+  SOURCE_NAME,
+} from '../config/licence';
+
+interface Props {
+  /** Prefer the market-specific Statcounter page when available. */
+  sourceUrl?: string;
+  class?: string;
+}
+
+const { sourceUrl = SOURCE_HOME_URL, class: className = '' } = Astro.props;
+---
+
+<div class:list={['space-y-2 text-sm leading-relaxed text-ink-700', className]}>
+  <p>
+    Data:{' '}
+    <a class="font-semibold text-canopy-700 underline" href={sourceUrl} rel="noopener noreferrer">
+      {SOURCE_NAME}
+    </a>{' '}
+    (<a class="underline" href={SOURCE_HOME_URL} rel="noopener noreferrer">{SOURCE_HOME_URL}</a>), licensed{' '}
+    <a class="font-semibold text-canopy-700 underline" href={SOURCE_LICENSE_URL} rel="noopener noreferrer">
+      {SOURCE_LICENSE_NAME}
+    </a>{' '}
+    (<a class="underline" href={SOURCE_LICENSE_URL} rel="noopener noreferrer">{SOURCE_LICENSE_URL}</a>).
+  </p>
+  <p>
+    Derived rankings on this site are shared under{' '}
+    <a class="font-semibold text-canopy-700 underline" href={DERIVED_LICENSE_URL} rel="noopener noreferrer">
+      {DERIVED_LICENSE_NAME}
+    </a>{' '}
+    (<a class="underline" href={DERIVED_LICENSE_URL} rel="noopener noreferrer">{DERIVED_LICENSE_URL}</a>),
+    relying on {SOURCE_LICENSE_NAME} section 4(b), which permits adaptations under a later version.
+  </p>
+</div>
