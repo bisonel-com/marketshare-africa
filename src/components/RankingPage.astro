@@ -35,7 +35,7 @@ const datasetLd = {
   '@type': 'Dataset',
   name: title.replace(` | ${SITE_NAME}`, ''),
   description,
-  creator: { '@type': 'Organization', name: 'Bisonel Ltd' },
+  creator: { '@type': 'Organization', name: SITE_NAME, url: 'https://xmarketshare.com' },
   publisher: { '@type': 'Organization', name: SITE_NAME, url: origin },
   citation: data.sourceName,
   dateModified: data.lastUpdated,

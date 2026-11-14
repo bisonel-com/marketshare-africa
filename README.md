@@ -85,4 +85,4 @@ SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa'
 - **Source data:** Statcounter Global Stats (https://gs.statcounter.com), licensed [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 - **Derived rankings** on this site are shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), relying on BY-SA 3.0 section 4(b), which permits adaptations under a later version.
 
-See `/licence/` on the site and `src/config/licence.ts`. Site code © Bisonel Ltd. Pro CSV remains off (`PRO_CSV_ENABLED=false`).
+See `/licence/` on the site and `src/config/licence.ts`. © Global Market Share. Pro CSV remains off (`PRO_CSV_ENABLED=false`).

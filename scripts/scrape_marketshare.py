@@ -29,8 +29,7 @@ MARKETS_PATH = ROOT / "src" / "config" / "markets.json"
 
 USER_AGENT = (
     "GlobalMarketShareBot/1.0 "
-    "(+https://xmarketshare.com; "
-    "research; contact: github.com/bisonel-com/marketshare-africa)"
+    "(+https://xmarketshare.com; research)"
 )
 REQUEST_SLEEP_SEC = 1.5
 MIN_SHARE = 0.1
