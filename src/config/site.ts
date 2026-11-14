@@ -11,8 +11,8 @@
  *
  * Brand rename: change SITE_NAME (and SITE_TAGLINE if needed) in one place.
  */
-export const SITE_NAME = 'GMarketShare';
-export const SITE_TAGLINE = 'Global Market Share';
+export const SITE_NAME = 'Global Market Share';
+export const SITE_TAGLINE = 'Rankings worldwide and by country';
 export const SITE_URL = 'https://xmarketshare.com';
 export const SITE_BASE = (import.meta.env.SITE_BASE as string | undefined) || '/';
 
@@ -20,8 +20,8 @@ export const SITE_DESCRIPTION =
   'Market share rankings worldwide and by country, sourced from Statcounter Global Stats.';
 
 export const SOCIAL = {
-  x: 'REPLACE_WITH_GMARKETSHARE_X_HANDLE',
-  linkedin: 'REPLACE_WITH_GMARKETSHARE_LINKEDIN',
+  x: 'REPLACE_WITH_GLOBALMARKETSHARE_X_HANDLE',
+  linkedin: 'REPLACE_WITH_GLOBALMARKETSHARE_LINKEDIN',
   github: 'bisonel-com/marketshare-africa',
 };
 

@@ -1,4 +1,4 @@
-# GMarketShare
+# Global Market Share
 
 Market share rankings worldwide and by country, sourced from [Statcounter Global Stats](https://gs.statcounter.com/) (CC BY-SA 3.0). Built with Astro. Repo: `bisonel-com/marketshare-africa`.
 
@@ -76,7 +76,7 @@ SITE_BASE: ${{ vars.PAGES_BASE != '' && vars.PAGES_BASE || '/marketshare-africa'
 | `REPLACE_WITH_PAYSTACK_PUBLIC_KEY` | Secondary checkout for African buyers; unused while Pro is off |
 | `REPLACE_WITH_ANALYTICS_DOMAIN` | Analytics loads nothing; `window.msaTrack` is a safe no-op |
 | `PRO_CSV_ENABLED` | `false` (Pro is coming-soon only) |
-| `REPLACE_WITH_GMARKETSHARE_X_HANDLE` / LinkedIn | Social placeholders in `src/config/site.ts` |
+| `REPLACE_WITH_GLOBALMARKETSHARE_X_HANDLE` / LinkedIn | Social placeholders in `src/config/site.ts` |
 
 `public/ads.txt` uses the AdSense publisher placeholder for xmarketshare.com.
 

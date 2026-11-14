@@ -28,7 +28,7 @@ DATA_DIR = ROOT / "src" / "data"
 MARKETS_PATH = ROOT / "src" / "config" / "markets.json"
 
 USER_AGENT = (
-    "GMarketShareBot/1.0 "
+    "GlobalMarketShareBot/1.0 "
     "(+https://xmarketshare.com; "
     "research; contact: github.com/bisonel-com/marketshare-africa)"
 )

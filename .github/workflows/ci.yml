@@ -30,10 +30,19 @@ jobs:
           SITE_BASE: /marketshare-africa
         run: npm run build
 
-      - name: Guard against old domain
+      - name: Guard against retired brand and domain strings
         run: |
-          if grep -RIn --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.git 'gmarketshare\.com' .; then
-            echo 'Found forbidden domain gmarketshare.com' >&2
-            exit 1
+          # Construct needles at runtime so this file does not contain the literals.
+          BAD_DOMAIN="$(printf '%s%s' 'gmarketshare' '.com')"
+          BAD_BRAND="$(printf '%s%s' 'GMarket' 'Share')"
+          fail=0
+          if grep -RIn --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.git -F "$BAD_DOMAIN" .; then
+            echo "Found forbidden domain string" >&2
+            fail=1
           fi
-          echo 'OK: zero gmarketshare.com references'
+          if grep -RIn --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.git -F "$BAD_BRAND" .; then
+            echo "Found forbidden brand string" >&2
+            fail=1
+          fi
+          if [ "$fail" -ne 0 ]; then exit 1; fi
+          echo "OK: retired brand and domain strings absent"
