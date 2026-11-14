@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [cursor/**]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Build (Pages preview base)
+        env:
+          SITE_BASE: /marketshare-africa
+        run: npm run build
+
+      - name: Guard against old domain
+        run: |
+          if grep -RIn --exclude-dir=node_modules --exclude-dir=dist --exclude-dir=.git 'gmarketshare\.com' .; then
+            echo 'Found forbidden domain gmarketshare.com' >&2
+            exit 1
+          fi
+          echo 'OK: zero gmarketshare.com references'
