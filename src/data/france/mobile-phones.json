@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 34.39,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.44,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Google",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Motorola",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Vivo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "OnePlus",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.47,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

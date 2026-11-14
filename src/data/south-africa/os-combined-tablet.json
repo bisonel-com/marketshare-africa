@@ -39,28 +39,22 @@
     {
       "rank": 1,
       "brand": "Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 70.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "iOS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 29.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Linux",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

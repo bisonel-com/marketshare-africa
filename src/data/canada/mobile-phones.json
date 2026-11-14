@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 64.74,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 23.68,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Google",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Motorola",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.6,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "OnePlus",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "LG",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Vivo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

@@ -39,82 +39,64 @@
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 60.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 30.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Samsung Internet",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.58,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Opera",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.86,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Ecosia",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.58,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "UC Browser",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.37,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Edge",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.21,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Yandex Browser",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

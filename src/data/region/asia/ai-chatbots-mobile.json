@@ -39,37 +39,29 @@
     {
       "rank": 1,
       "brand": "ChatGPT",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 68.39,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Google Gemini",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Perplexity",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.32,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Claude",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

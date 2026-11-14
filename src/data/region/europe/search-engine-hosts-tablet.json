@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Google google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 79.47,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "bing bing.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 13.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Google google.co.uk",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "DuckDuckGo duckduckgo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.73,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "YANDEX yandex.ru",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Yahoo! r.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.25,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Ecosia ecosia.org",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Google google.fr",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.21,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Google google.es",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Seznam search.seznam.cz",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

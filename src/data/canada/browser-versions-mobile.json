@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Safari iPhone",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 55.08,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Chrome for Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 29.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Chrome for iPhone",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.99,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.83,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Firefox 157.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Firefox 158.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.33,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge 153",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.18,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Opera 102.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Samsung Internet 29.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Edge 155",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

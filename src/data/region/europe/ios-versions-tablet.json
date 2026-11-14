@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "iOS 26.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 37.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "iOS 27.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "iOS 18.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "iOS 12.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "iOS 26.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "iOS 17.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "iOS 26.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "iOS 15.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "iOS 16.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.47,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "iOS 27",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

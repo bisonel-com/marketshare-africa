@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 30.31,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Tecno",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 16.67,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Infinix",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "HMD",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.27,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Nokia",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Itel",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Vivo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

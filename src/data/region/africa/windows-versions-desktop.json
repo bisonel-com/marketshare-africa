@@ -39,28 +39,22 @@
     {
       "rank": 1,
       "brand": "Win11",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 72.37,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Win10",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 27.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Win7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

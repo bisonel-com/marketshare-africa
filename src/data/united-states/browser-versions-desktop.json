@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome 154.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 13.43,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Chrome 155.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Chrome 151.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.65,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Edge 155",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.89,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Chrome 156.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Chrome 146.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.44,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Safari 26.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Edge 154",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Chrome 152.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Chrome 153.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

@@ -39,82 +39,64 @@
     {
       "rank": 1,
       "brand": "Google google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 93.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Google google.fr",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "bing bing.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.27,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Ecosia ecosia.org",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "DuckDuckGo duckduckgo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.46,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Qwant qwant.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.32,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Yahoo! fr.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Yahoo! r.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "YANDEX yandex.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

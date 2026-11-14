@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Google google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 90.07,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "bing bing.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.33,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Google google.it",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "DuckDuckGo duckduckgo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Google news.google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Ecosia ecosia.org",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "YANDEX yandex.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.37,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Yahoo! r.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Yahoo! it.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "YANDEX yandex.ru",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

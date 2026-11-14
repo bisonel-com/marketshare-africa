@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Google google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 69.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "bing bing.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 24.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Yahoo! mx.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.73,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Yahoo! mx.images.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "DuckDuckGo duckduckgo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.31,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Yahoo! r.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.27,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Google news.google.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Google google.com.mx",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Yahoo! search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Yahoo! es.search.yahoo.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

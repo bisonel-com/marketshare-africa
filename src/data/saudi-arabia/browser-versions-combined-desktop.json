@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome (all)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 70.71,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Mozilla 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.68,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge 79+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Firefox 5+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.89,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Safari 26.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera 15+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Brave 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Safari 27.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Safari 26.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.76,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Safari 18.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.65,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

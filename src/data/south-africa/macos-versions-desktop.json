@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "macOS Catalina",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 56.71,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "macOS 19",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "macOS 15.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "macOS 12.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "macOS 15.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "macOS High Sierra",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "macOS 13.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "macOS 15.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "macOS 11.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "macOS Catalina",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.56,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

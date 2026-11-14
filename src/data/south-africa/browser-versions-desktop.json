@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome 155.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 13.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Chrome 154.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.98,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Chrome 146.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.71,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Chrome for Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Chrome 156.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.62,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Edge 155",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.02,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge 154",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.57,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Edge 156",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Chrome 118.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.94,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Chrome 149.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

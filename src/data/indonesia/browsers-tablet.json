@@ -39,64 +39,50 @@
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 71.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 19.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.23,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Samsung Internet",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.78,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Opera",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "UC Browser",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.71,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.48,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

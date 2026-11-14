@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "11.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 24.98,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "9.0 Pie",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 23.46,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "16.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.62,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "14.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.81,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "13.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "15.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.74,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "12.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.44,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "5.1 Lollipop",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "7.1 Nougat",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "8.1 Oreo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

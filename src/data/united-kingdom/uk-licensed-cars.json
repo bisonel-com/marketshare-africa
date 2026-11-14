@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Ford",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.62,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Volkswagen",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.83,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Vauxhall",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Bmw",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Audi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Toyota",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Mercedes",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.07,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Nissan",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.02,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Kia",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Peugeot",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

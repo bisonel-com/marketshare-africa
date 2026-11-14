@@ -39,73 +39,57 @@
     {
       "rank": 1,
       "brand": "Google",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 96.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "YANDEX",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Baidu",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.82,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Naver",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.45,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "CocCoc",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "DuckDuckGo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "bing",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Yahoo!",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

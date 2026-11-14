@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 54.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Edge",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Firefox",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.22,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Safari",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.55,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Brave",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Mozilla",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Opera",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Samsung Internet",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.43,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "360 Safe Browser",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Sleipnir",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

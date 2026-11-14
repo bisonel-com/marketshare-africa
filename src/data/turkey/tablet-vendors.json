@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 51.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 25.08,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Lenovo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "General Mobile",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Aidata",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Amazon",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Alcatel",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.28,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

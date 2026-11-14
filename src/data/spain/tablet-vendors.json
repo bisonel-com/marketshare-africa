@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.48,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 34.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Lenovo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.93,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.73,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Amazon",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.33,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.9,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "bq",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.67,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Realme",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "TCL",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

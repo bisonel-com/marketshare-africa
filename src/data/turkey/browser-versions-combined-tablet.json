@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome (all)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 71.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 13.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Opera 15+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Android 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Yandex Browser 26.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Yandex Browser 26.10",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.46,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "UC Browser 15.2",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "UC Browser 15.3",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Edge 79+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

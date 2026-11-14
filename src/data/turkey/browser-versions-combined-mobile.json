@@ -39,73 +39,57 @@
     {
       "rank": 1,
       "brand": "Chrome (all)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 78.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "iPhone 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 15.69,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Opera 15+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.24,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Yandex Browser 26.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.67,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Yandex Browser 26.10",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Firefox 5+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.15,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Samsung Internet 29.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

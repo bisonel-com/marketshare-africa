@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome 155.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.29,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Chrome 154.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 15.44,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Edge 155",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.9,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Chrome 156.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.18,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Edge 154",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Safari 26.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.63,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge 156",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.08,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Chrome 153.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.93,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Chrome 152.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.21,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Firefox 140.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

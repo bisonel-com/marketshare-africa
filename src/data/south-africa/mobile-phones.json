@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 50.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 18.19,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.59,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Vivo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Hisense",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.07,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Tecno",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.65,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Itel",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

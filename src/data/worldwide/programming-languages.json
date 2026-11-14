@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "JavaScript",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 42.7,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "HTML/CSS",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 40.04,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "SQL",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 37.88,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Python",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 37.43,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Bash/Shell (all shells)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 31.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "TypeScript",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Java",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 19.02,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "C#",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 18.0,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "C++",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 15.22,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "PowerShell",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.98,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

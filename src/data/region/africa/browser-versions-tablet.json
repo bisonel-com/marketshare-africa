@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome for Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 65.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Android 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Chrome iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.88,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Opera 99.6",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.02,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Opera 99.7",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Instabridge 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.42,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Opera 99.5",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.39,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Opera 99.2",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.38,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

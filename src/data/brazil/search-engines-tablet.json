@@ -39,37 +39,29 @@
     {
       "rank": 1,
       "brand": "Google",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 98.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "bing",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.58,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "YANDEX",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.18,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "DuckDuckGo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

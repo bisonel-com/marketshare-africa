@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome (all)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 73.13,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Android 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.14,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Opera 15+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Instabridge 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.42,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge 79+",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Samsung Internet 26.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Samsung Internet 29.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "UC Browser 15.2",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

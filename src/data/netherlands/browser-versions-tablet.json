@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Chrome for Android",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 41.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Safari iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.9,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Chrome iPad",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 19.97,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Android 0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.78,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Samsung Internet 30.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.39,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Opera 102.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.55,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Edge 153",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Opera 103.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.34,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Yandex Browser 26.8",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.33,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Samsung Internet 29.0",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.32,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

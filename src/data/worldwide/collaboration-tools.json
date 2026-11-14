@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Stack Overflow",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 51.75,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "GitHub (public projects, not private repos)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 41.1,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "YouTube",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 37.2,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Reddit",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 33.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Stack Exchange",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 28.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Discord",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 23.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "LinkedIn",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 22.88,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Medium",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 17.99,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Hacker News",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "X",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.53,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

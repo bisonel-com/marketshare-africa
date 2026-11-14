@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Visual Studio Code",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 40.4,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Visual Studio",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 15.42,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Notepad++",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.59,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "IntelliJ IDEA",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.45,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Vim",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.92,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Cursor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.52,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "PyCharm",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Android Studio",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.96,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Jupyter Notebook/JupyterLab",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.49,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Neovim",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.45,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

@@ -39,82 +39,64 @@
     {
       "rank": 1,
       "brand": "Facebook",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 53.9,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Pinterest",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 12.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Twitter",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.64,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "reddit",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.69,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "YouTube",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.16,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "LinkedIn",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.77,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Tumblr",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.94,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Instagram",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.59,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "news.ycombinator.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.17,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

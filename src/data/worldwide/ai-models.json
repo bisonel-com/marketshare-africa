@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "openAI GPT (chatbot models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 27.29,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Anthropic: Claude Sonnet",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 14.36,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Gemini (Flash general purpose models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "openAI Reasoning models",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.62,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "openAI Image generating models",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.93,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Gemini (Pro Reasoning models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.58,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "DeepSeek (R- Reasoning models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.82,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Meta Llama (all models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.98,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "DeepSeek (V- General purpose models)",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 4.8,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "X Grok models",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.74,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

@@ -39,64 +39,50 @@
     {
       "rank": 1,
       "brand": "YouTube",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 38.91,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Facebook",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 35.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Instagram",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 15.61,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Twitter",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.04,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "LinkedIn",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.82,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Pinterest",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.89,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "reddit",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.79,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

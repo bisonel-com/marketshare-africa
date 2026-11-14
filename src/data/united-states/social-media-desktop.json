@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Facebook",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 39.66,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Pinterest",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 21.72,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Twitter",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 16.7,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "reddit",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.83,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "YouTube",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.41,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "LinkedIn",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.78,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Instagram",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.3,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Tumblr",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Fark",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.46,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "news.ycombinator.com",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

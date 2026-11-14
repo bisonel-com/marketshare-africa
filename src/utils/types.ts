@@ -3,10 +3,8 @@ export type MarketScope = 'worldwide' | 'region' | 'country';
 export interface RankingRow {
   rank: number;
   brand: string;
-  parentCompany: string;
   sharePercent: number;
   yoyChange: number | null;
-  segment: string;
   highlight: boolean;
 }
 

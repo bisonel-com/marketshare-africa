@@ -39,55 +39,43 @@
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 63.84,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 26.01,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Amazon",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.85,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Lenovo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 1.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Huawei",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Onn",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 0.38,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

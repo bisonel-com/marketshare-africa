@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Node.js",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 23.47,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "React",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 21.54,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "jQuery",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 11.26,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Next.js",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 10.03,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Express",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.57,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "ASP.NET Core",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 9.48,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Angular",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.78,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Vue.js",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 8.46,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "FastAPI",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.12,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Spring Boot",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 7.08,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],

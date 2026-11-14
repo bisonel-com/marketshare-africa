@@ -39,91 +39,71 @@
     {
       "rank": 1,
       "brand": "Apple",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 42.0,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": true
     },
     {
       "rank": 2,
       "brand": "Samsung",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 16.94,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 3,
       "brand": "Honor",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.87,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 4,
       "brand": "Xiaomi",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 6.11,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 5,
       "brand": "Vivo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 5.44,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 6,
       "brand": "Infinix",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.99,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 7,
       "brand": "Oppo",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.93,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 8,
       "brand": "Motorola",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 3.31,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 9,
       "brand": "Realme",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.45,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     },
     {
       "rank": 10,
       "brand": "Tecno",
-      "parentCompany": "Independent / Listed",
       "sharePercent": 2.43,
       "yoyChange": null,
-      "segment": "Consumer Market",
       "highlight": false
     }
   ],
